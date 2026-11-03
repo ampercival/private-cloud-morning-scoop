@@ -1,0 +1,52 @@
+<!doctype html>
+<html lang="en-CA">
+<head>
+<meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
+<meta name="theme-color" content="#f4f5f7">
+<meta name="description" content="Daily, sourced executive intelligence on sovereign and private cloud for the Government of Canada.">
+<meta property="og:title" content="Morning Scoop | Sovereign & Private Cloud">
+<meta property="og:description" content="Independent, AI-assisted executive intelligence on Canadian sovereign and private cloud.">
+<title>Morning Scoop | Sovereign & Private Cloud</title>
+<link rel="icon" href="./favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="./styles.css">
+<script defer src="./app.js"></script>
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<div class="layout">
+<aside class="sidebar" aria-label="Editions and filters">
+  <a class="brand" href="./"><span class="brand-symbol" aria-hidden="true">◉</span><span><strong>Morning Scoop</strong><small>SOVEREIGN & PRIVATE CLOUD</small></span></a>
+  <div class="side-heading"><span data-i18n="editions">RECENT EDITIONS</span><span id="edition-count">0 / 5</span></div>
+  <nav id="edition-nav" class="edition-nav" aria-label="Recent editions"></nav>
+  <div class="side-heading" data-i18n="filters">STORY FILTER</div>
+  <div id="filters" class="filters">
+   <button type="button" class="filter selected" data-filter="All" aria-pressed="true"><i class="dot neutral"></i><span data-i18n="all">All stories</span></button>
+   <button type="button" class="filter" data-filter="Immediate" aria-pressed="false"><i class="dot immediate"></i><span data-i18n="immediate">Immediate</span></button>
+   <button type="button" class="filter" data-filter="Strategic" aria-pressed="false"><i class="dot strategic"></i><span data-i18n="strategic">Strategic</span></button>
+   <button type="button" class="filter" data-filter="Watch" aria-pressed="false"><i class="dot watch"></i><span data-i18n="watch">Watch</span></button>
+  </div>
+  <div class="sidebar-bottom"><div class="smallcap" data-i18n="editorial">EDITORIAL STANDARD</div><p data-i18n="standard">Reputable sources. Clear implications. Relevant decisions.</p><small data-i18n="independent">Independent public-source research</small></div>
+</aside>
+<div class="workspace">
+<header class="topbar"><span class="topbar-title" data-i18n="intelligence">INTELLIGENCE / DAILY BRIEF</span>
+<div class="topbar-actions">
+ <div class="segmented" role="group" aria-label="Language"><button type="button" id="lang-en" aria-pressed="true">EN</button><button type="button" id="lang-fr" aria-pressed="false">FR</button></div>
+ <button type="button" id="theme" class="top-button" aria-label="Toggle light and dark appearance">◐ <span data-i18n="appearance">Appearance</span></button>
+ <button type="button" id="share" class="top-button" data-i18n="copy">Copy link</button>
+ <button type="button" id="print" class="top-button" data-i18n="print">Print</button>
+</div></header>
+<main id="main" tabindex="-1">
+ <div id="hero" class="hero"><div class="smallcap">SOVEREIGN & PRIVATE CLOUD</div><h1>Morning Scoop</h1></div>
+ <div class="content-grid"><div>
+  <section id="big-picture" class="section"></section>
+  <section id="must-read" class="section"></section>
+  <section id="radar" class="section"></section>
+ </div><aside id="insights" class="insights"></aside></div>
+</main>
+<footer class="footer"><span>Morning Scoop / Sovereign & Private Cloud</span><span data-i18n="atlantic">Publication times in Atlantic Time</span></footer>
+</div>
+</div>
+<div class="disclosure" role="note"><strong data-i18n="aiLabel">AI disclosure</strong> <span data-i18n="aiText">Research, writing, translation and publication are automated using AI. Verify important information against original sources. This is an independent publication without Government of Canada endorsement.</span></div>
+<div id="toast" role="status" aria-live="polite"></div>
+</body>
+</html>
