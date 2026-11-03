@@ -2,6 +2,7 @@
 """Validate latest-five bilingual Morning Scoop archive, stdlib only."""
 import json
 import sys
+from datetime import date, timedelta
 from pathlib import Path
 from urllib.parse import urlparse
 
@@ -11,6 +12,8 @@ items = data.get("editions", [])
 assert isinstance(items, list) and 0 < len(items) <= 5, "Archive must contain 1–5 editions"
 dates = [e["date"] for e in items]
 assert dates == sorted(set(dates), reverse=True), "Dates must be unique and newest first"
+newest = date.fromisoformat(dates[0])
+assert all(date.fromisoformat(d) >= newest-timedelta(days=4) for d in dates), "Archive must retain at most five calendar dates ending with the newest edition"
 for e in items:
     fr = e.get("translations", {}).get("fr")
     assert isinstance(fr, dict), f"Missing French edition: {e['date']}"

@@ -43,6 +43,9 @@ jobs:
       - name: Validate latest-five bilingual archive
         run: python scripts/validate_archive.py
 
+      - name: Check site JavaScript syntax
+        run: node --check app.js
+
       - name: Build static deployment artifact
         shell: bash
         run: |
