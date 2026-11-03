@@ -1,0 +1,24 @@
+name: Validate Morning Scoop content
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/editions.json"
+      - "scripts/validate_archive.py"
+      - ".github/workflows/validate.yml"
+  pull_request:
+    paths:
+      - "data/editions.json"
+      - "scripts/validate_archive.py"
+permissions:
+  contents: read
+jobs:
+  archive:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Validate bilingual archive and metadata
+        run: python scripts/validate_archive.py
