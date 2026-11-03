@@ -1,1 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64"><rect width="64" height="64" rx="14" fill="#14283c"/><path d="M13 41c6-6 11-10 17-8 7 2 7-16 21-15M13 48h38" stroke="#79d2dd" stroke-width="5" stroke-linecap="round" fill="none"/><circle cx="49" cy="18" r="4" fill="#79d2dd"/></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" role="img" aria-label="Morning Scoop cloud icon">
+  <rect width="128" height="128" rx="25" fill="#14283c"/>
+  <path d="M31 84 C20 84 15 76 15 68 C15 57 23 48 35 48 C40 32 51 25 65 25 C80 25 91 36 93 49 C105 49 113 58 113 68 C113 78 106 84 96 84 Z" fill="none" stroke="#ffffff" stroke-width="8" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

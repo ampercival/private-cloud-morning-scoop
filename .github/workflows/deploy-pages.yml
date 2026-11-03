@@ -8,6 +8,8 @@ on:
       - "styles.css"
       - "app.js"
       - "favicon.svg"
+      - "social-preview.svg"
+      - "site.webmanifest"
       - "data/editions.json"
       - "scripts/validate_archive.py"
       - ".github/workflows/deploy-pages.yml"
@@ -45,9 +47,19 @@ jobs:
         shell: bash
         run: |
           mkdir -p _site/data
-          cp index.html styles.css app.js favicon.svg _site/
+          cp index.html styles.css app.js favicon.svg social-preview.svg site.webmanifest _site/
           cp data/editions.json _site/data/editions.json
           touch _site/.nojekyll
+
+      - name: Render social preview and platform icons
+        run: |
+          python -m pip install --disable-pip-version-check "CairoSVG==2.8.2"
+          cairosvg social-preview.svg -o _site/social-preview.png -W 1200 -H 630
+          cairosvg favicon.svg -o _site/favicon-16x16.png -W 16 -H 16
+          cairosvg favicon.svg -o _site/favicon-32x32.png -W 32 -H 32
+          cairosvg favicon.svg -o _site/apple-touch-icon.png -W 180 -H 180
+          cairosvg favicon.svg -o _site/icon-192.png -W 192 -H 192
+          cairosvg favicon.svg -o _site/icon-512.png -W 512 -H 512
 
       - name: Configure Pages
         uses: actions/configure-pages@v5

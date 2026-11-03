@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title description">
+  <title id="title">Morning Scoop | Sovereign &amp; Private Cloud</title>
+  <desc id="description">A simple white social preview with a navy cloud icon and the Morning Scoop publication name.</desc>
+  <rect width="1200" height="630" fill="#ffffff"/>
+  <path d="M140 376 C112 376 96 355 96 331 C96 303 117 281 146 281 C158 244 185 226 219 226 C258 226 287 254 291 287 C318 287 340 309 340 336 C340 358 323 376 298 376 Z" fill="none" stroke="#14283c" stroke-width="12" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M391 214 V419" stroke="#14283c" stroke-width="3"/>
+  <text x="439" y="314" font-family="Arial, Helvetica, sans-serif" font-size="73" font-weight="700" letter-spacing="-1.6" fill="#14283c">Morning Scoop</text>
+  <text x="442" y="377" font-family="Arial, Helvetica, sans-serif" font-size="37" font-weight="400" fill="#14283c">Sovereign &amp; Private Cloud</text>
+</svg>
