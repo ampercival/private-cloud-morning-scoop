@@ -33,6 +33,22 @@ for e in items:
             content_fields=("what","why","takeaway") if sec=="reads" else ("detail",)
             for field in content_fields:
                 assert original.get(field) and translated.get(field), f"Missing translated {field}"
+    # Executive summaries are mandatory for editions created on or after the new feature launch.
+    # Older archived editions remain compatible and retain their original structure.
+    for original,translated in zip(e.get("reads",[]),fr.get("reads",[])):
+        en_summary=original.get("executiveSummary")
+        fr_summary=translated.get("executiveSummary")
+        required=e["date"] >= "2026-11-03"
+        if required or en_summary is not None or fr_summary is not None:
+            assert isinstance(en_summary,dict) and isinstance(fr_summary,dict), f"{e['date']}: missing bilingual executive summary"
+            for key in ("overview","implications","watch","caveat"):
+                assert isinstance(en_summary.get(key),str) and len(en_summary[key].strip())>=40, f"{e['date']}: invalid English executiveSummary.{key}"
+                assert isinstance(fr_summary.get(key),str) and len(fr_summary[key].strip())>=40, f"{e['date']}: invalid French executiveSummary.{key}"
+            points=en_summary.get("keyPoints")
+            fr_points=fr_summary.get("keyPoints")
+            assert isinstance(points,list) and isinstance(fr_points,list), f"{e['date']}: keyPoints not an array"
+            assert 2<=len(points)<=5 and len(points)==len(fr_points), f"{e['date']}: executive summary point mismatch"
+            assert all(isinstance(p,str) and len(p.strip())>=30 for p in points+fr_points), f"{e['date']}: missing summary points"
     if e.get("deepRead"):
         assert fr.get("deepRead"), "Missing translated deeper read"
         for key in ("url","published","verifiedAt"):
