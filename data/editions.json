@@ -1,6 +1,231 @@
 {
   "editions": [
     {
+      "id": "2026-11-04",
+      "date": "2026-11-04",
+      "coverageStart": "2026-11-03T10:03:52.333Z",
+      "coverageEnd": "2026-11-04T10:41:46.337Z",
+      "generatedAt": "2026-11-04T10:41:46.337Z",
+      "headline": "European sovereign AI plans and infrastructure constraints shape hosting choices",
+      "deck": "A Franco-German partnership proposes a European-controlled AI stack, Portugal prepares energy and water requirements for data centres, and Canada's Cyber Centre flags database-driver vulnerabilities.",
+      "bigPicture": [
+        {
+          "title": "Sovereignty spans hardware and software",
+          "detail": "Bull and Schwarz Digits propose combining European equipment, cloud operations and AI software. Assessment: operational control requires evidence throughout the stack."
+        },
+        {
+          "title": "Facilities constrain cloud capacity",
+          "detail": "Portugal's proposed energy and water rules highlight physical limits on data centre expansion and operating costs."
+        },
+        {
+          "title": "Application dependencies need inventory",
+          "detail": "The Canadian psqlODBC advisory calls for version checks across applications and reusable images."
+        }
+      ],
+      "reads": [
+        {
+          "title": "Bull and Schwarz Digits plan European sovereign AI infrastructure",
+          "priority": "Strategic",
+          "category": "Sovereign AI and cloud architecture",
+          "source": "Bull",
+          "published": "2026-11-03",
+          "url": "https://www.bull.com/en/press-releases/pr-bull-and-schwarz-digits-a-franco-german-alliance-for-europes-digital-sovereign?hs_amp=true",
+          "what": "Bull and Schwarz Digits signed a memorandum of understanding for European-controlled AI and cloud infrastructure, combining Bull computing equipment and software with the STACKIT cloud. Reuters independently reported the preliminary agreement.",
+          "why": "Assessment: the proposed architecture highlights how sovereign control extends through manufacturing, administration, cloud platforms and software. Actual operational assurance remains unproven.",
+          "takeaway": "Define verifiable Canadian-control requirements for hardware, privileged access, software, cryptographic keys, support and recovery.",
+          "executiveSummary": {
+            "overview": "Bull and Schwarz Digits announced a memorandum of understanding on November 3 at Germany's Digital Summit in Berlin. The proposal brings together Bull's high-performance computing and AI capabilities with the STACKIT cloud operated by Schwarz Digits. Bull identifies its Angers manufacturing plant and direct liquid cooling experience as contributions. The companies intend to make BullSequana AI software available through STACKIT and jointly develop server systems based on Open Compute Project standards. They also identify possible future work involving SAP RISE and larger computing projects. These are prospective plans. The announcement does not establish that the integrated offering is already operating or independently certified.",
+            "keyPoints": [
+              "Reuters corroborated the preliminary partnership and reported that financial terms were not disclosed.",
+              "The proposed infrastructure spans server manufacturing, cloud hosting and AI software, with stated European jurisdiction over sensitive operations.",
+              "Bull and Schwarz Digits intend to co-design servers and expand their software offering, subject to future implementation."
+            ],
+            "implications": "Canadian sovereign hosting evaluations can use this model to distinguish physical equipment ownership, operational administration, software dependencies, cryptographic controls and support access. Government-operated private cloud and Canadian-controlled commercial cloud may need different evidence to establish comparable levels of control. Integration across the stack also raises questions about portability and recovery during supplier disruptions.",
+            "watch": "Watch for binding agreements, independent assurance, actual service launches, prices, contractual exit rights and tested recovery procedures.",
+            "caveat": "Bull's primary announcement contains supplier assertions and future plans. Reuters independently confirms the agreement, while neither source establishes completed deployment or independent sovereignty certification."
+          },
+          "verifiedAt": "2026-11-04T10:41:46.337Z"
+        },
+        {
+          "title": "Portugal prepares strict energy and water requirements for data centres",
+          "priority": "Strategic",
+          "category": "Capacity and infrastructure economics",
+          "source": "Reuters",
+          "published": "2026-11-03",
+          "url": "https://www.reuters.com/business/energy/portugal-readies-strict-water-energy-rules-data-centre-boom-2026-11-03/",
+          "what": "Portugal's environment minister said a decree is being finalized to require renewable power and cooling that protects freshwater supplies. Reuters reports more than 2.6 gigawatts of data centre capacity under development.",
+          "why": "Assessment: electrical power, water, cooling and permits affect the feasibility and cost of sovereign hosting expansion.",
+          "takeaway": "Test energy availability, cooling requirements and permitting assumptions in three-year hosting capacity and cost plans.",
+          "executiveSummary": {
+            "overview": "Reuters reported on November 3 that Portugal is finalizing a decree imposing stricter environmental conditions on data centres. Environment Minister Maria da Graça Carvalho told a parliamentary hearing that facilities would be required to use renewable electricity and cooling arrangements that do not compete with household and economic freshwater needs. The country has more than 2.6 gigawatts of data centre capacity under development, including the 1.2-gigawatt Start Campus project at Sines. One of that project's six planned buildings is operating, using seawater cooling and renewable power. The proposed requirements are still being finalized, so the report does not establish the final legal text or implementation timetable.",
+            "keyPoints": [
+              "The minister described a forthcoming decree requiring renewable electricity and safeguards for freshwater use.",
+              "Reuters reported more than 2.6 gigawatts of planned data centre capacity, including 1.2 gigawatts at Sines.",
+              "The operating Start Campus building reportedly uses seawater cooling; most announced capacity remains under development."
+            ],
+            "implications": "Sovereign and private cloud expansion depends on physical capacity, not only virtual infrastructure design. Three-year investment planning should test grid access, energy prices, cooling technology, environmental approvals and operating resilience. Dense AI workloads may increase these pressures. Portugal's approach provides a comparator for infrastructure risk, while Canadian requirements must be assessed separately.",
+            "watch": "Monitor publication of the final decree, implementation dates, permitting outcomes and actual delivery of announced data centre capacity.",
+            "caveat": "The source is Reuters reporting of a ministerial statement. The decree was not yet final, and announced development capacity must not be mistaken for operational capacity."
+          },
+          "verifiedAt": "2026-11-04T10:41:46.337Z"
+        },
+        {
+          "title": "Canadian Cyber Centre identifies psqlODBC vulnerabilities",
+          "priority": "Watch",
+          "category": "Database driver security",
+          "source": "Canadian Centre for Cyber Security",
+          "published": "2026-11-03",
+          "url": "https://www.cyber.gc.ca/en/alerts-advisories/postgresql-security-advisory-av26-1115",
+          "what": "Advisory AV26-1115 identifies buffer-related vulnerabilities in psqlODBC versions earlier than 18.00.0006 and directs administrators to review security information and updates.",
+          "why": "Assessment: database drivers may be present in applications, shared images and management utilities, making version-level inventory important.",
+          "takeaway": "Check installed psqlODBC versions and remediation ownership before assessing actual exposure.",
+          "executiveSummary": {
+            "overview": "The Canadian Centre for Cyber Security published advisory AV26-1115 on November 3. It identifies psqlODBC versions before 18.00.0006 as affected by two buffer-related vulnerabilities. The descriptions concern a large-object read that can overflow an application buffer and a stack buffer overflow in the ODBC escape parser. The advisory refers administrators to PostgreSQL security information and recommends applying appropriate updates. It does not report exploitation or compromise of any specific Canadian government environment. Exposure depends on whether an affected driver is installed and how the associated application processes data.",
+            "keyPoints": [
+              "The official advisory identifies psqlODBC versions earlier than 18.00.0006 as affected.",
+              "The vulnerabilities involve buffer handling during large-object reads and parsing of ODBC escape sequences.",
+              "The Cyber Centre recommends reviewing linked security information and applying appropriate updates as available."
+            ],
+            "implications": "Cloud service inventories should consider database drivers within application dependencies, virtual machine images, container images and administrative tools. Teams can determine affected versions, patch ownership, deployment methods and compatibility-testing needs. Escalation should follow evidence of actual affected assets and exposure paths. A published advisory alone does not establish service compromise.",
+            "watch": "Monitor driver inventories, applicable patches, deployment ownership and completion of targeted remediation.",
+            "caveat": "The official Canadian advisory supplies version thresholds and brief descriptions. No active exploitation or specific Government of Canada incident was established."
+          },
+          "verifiedAt": "2026-11-04T10:41:46.337Z"
+        }
+      ],
+      "radar": [],
+      "question": "What evidence demonstrates Canadian control over infrastructure, software and recovery while confirming that capacity can be delivered at a sustainable cost?",
+      "signals": [
+        {
+          "title": "European AI stack partnerships",
+          "detail": "Watch whether the preliminary Bull and Schwarz Digits agreement becomes an operational service."
+        },
+        {
+          "title": "Data centre environmental requirements",
+          "detail": "Watch Portugal's final decree and capacity delivery."
+        }
+      ],
+      "editorialNote": "Sources checked November 4, 2026. Bull's primary announcement was corroborated by Reuters. Portugal's proposed rules were reported by Reuters; the Canadian security advisory is an official source. Supplier claims and portfolio assessments are identified. The live Quebec French Translator skill was accessed and its instructions applied. Research, writing, translation and publication are automated using AI; no Government of Canada endorsement is implied.",
+      "readMinutes": 5,
+      "day": "Wednesday",
+      "coverage": "Since November 3",
+      "translations": {
+        "fr": {
+          "id": "2026-11-04",
+          "date": "2026-11-04",
+          "coverageStart": "2026-11-03T10:03:52.333Z",
+          "coverageEnd": "2026-11-04T10:41:46.337Z",
+          "generatedAt": "2026-11-04T10:41:46.337Z",
+          "headline": "Les projets européens d’IA souveraine et les contraintes d’infrastructure orientent les choix d’hébergement",
+          "deck": "Un partenariat franco-allemand propose une infrastructure d’IA sous contrôle européen, le Portugal prépare des exigences énergétiques et hydriques pour les centres de données et le Centre canadien pour la cybersécurité signale des vulnérabilités dans un pilote de base de données.",
+          "bigPicture": [
+            {
+              "title": "La souveraineté englobe le matériel et les logiciels",
+              "detail": "Bull et Schwarz Digits envisagent d’associer des équipements européens, l’exploitation infonuagique et les logiciels d’IA. Analyse : le contrôle opérationnel doit être démontré dans toute la pile."
+            },
+            {
+              "title": "Les installations limitent la capacité infonuagique",
+              "detail": "Les exigences proposées par le Portugal en matière d’énergie et d’eau soulignent les limites physiques de l’expansion des centres de données et les coûts d’exploitation."
+            },
+            {
+              "title": "Les dépendances applicatives exigent un inventaire",
+              "detail": "Le bulletin canadien sur psqlODBC justifie la vérification des versions dans les applications et les images réutilisables."
+            }
+          ],
+          "reads": [
+            {
+              "title": "Bull et Schwarz Digits prévoient une infrastructure européenne d’IA souveraine",
+              "priority": "Strategic",
+              "category": "Architecture infonuagique et IA souveraine",
+              "source": "Bull",
+              "published": "2026-11-03",
+              "url": "https://www.bull.com/en/press-releases/pr-bull-and-schwarz-digits-a-franco-german-alliance-for-europes-digital-sovereign?hs_amp=true",
+              "what": "Bull et Schwarz Digits ont signé un protocole d’entente pour une infrastructure européenne d’IA et d’infonuagique associant l’équipement et les logiciels de Bull au nuage STACKIT. Reuters a confirmé cet accord préliminaire.",
+              "why": "Analyse : l’architecture envisagée montre que le contrôle souverain englobe la fabrication, l’administration, les plateformes infonuagiques et les logiciels. L’assurance opérationnelle reste à démontrer.",
+              "takeaway": "Définir des exigences vérifiables de contrôle canadien pour le matériel, les accès privilégiés, les logiciels, les clés cryptographiques, le soutien et la reprise.",
+              "executiveSummary": {
+                "overview": "Bull et Schwarz Digits ont annoncé un protocole d’entente le 3 novembre, lors du Sommet numérique allemand à Berlin. Le projet associe les capacités de Bull en calcul haute performance et en intelligence artificielle à la plateforme infonuagique STACKIT exploitée par Schwarz Digits. Bull mentionne son usine d’Angers et son expertise en refroidissement liquide direct. Les entreprises prévoient rendre les logiciels BullSequana AI accessibles par STACKIT et concevoir conjointement des serveurs fondés sur les normes de l’Open Compute Project. Elles évoquent également de futurs travaux concernant SAP RISE et de grands projets de calcul. Il s’agit de projets à venir. L’annonce ne démontre pas que l’offre intégrée est déjà exploitée ou certifiée de façon indépendante.",
+                "keyPoints": [
+                  "Reuters a corroboré le partenariat préliminaire et indiqué que les modalités financières n’étaient pas divulguées.",
+                  "L’infrastructure envisagée englobe la fabrication des serveurs, l’hébergement infonuagique et les logiciels d’IA, avec un contrôle européen déclaré des opérations sensibles.",
+                  "Bull et Schwarz Digits souhaitent concevoir conjointement des serveurs et élargir leur offre logicielle, sous réserve de la mise en œuvre future."
+                ],
+                "implications": "Les évaluations canadiennes de l’hébergement souverain peuvent utiliser ce modèle pour distinguer la propriété des équipements physiques, l’administration opérationnelle, les dépendances logicielles, les contrôles cryptographiques et l’accès au soutien. Le nuage privé gouvernemental et le nuage commercial sous contrôle canadien pourraient exiger des preuves différentes pour démontrer un contrôle comparable. L’intégration de toute la pile soulève aussi des questions de portabilité et de reprise lors d’interruptions chez un fournisseur.",
+                "watch": "Surveiller les ententes contraignantes, les évaluations indépendantes, la mise en service réelle, les prix, les droits contractuels de sortie et les procédures de reprise éprouvées.",
+                "caveat": "L’annonce principale de Bull contient des affirmations du fournisseur et des projets futurs. Reuters confirme indépendamment l’accord, mais aucune des sources ne démontre un déploiement terminé ni une certification indépendante de souveraineté."
+              },
+              "verifiedAt": "2026-11-04T10:41:46.337Z"
+            },
+            {
+              "title": "Le Portugal prépare des exigences énergétiques et hydriques pour les centres de données",
+              "priority": "Strategic",
+              "category": "Capacité et coûts des infrastructures",
+              "source": "Reuters",
+              "published": "2026-11-03",
+              "url": "https://www.reuters.com/business/energy/portugal-readies-strict-water-energy-rules-data-centre-boom-2026-11-03/",
+              "what": "La ministre portugaise de l’Environnement a indiqué qu’un décret en préparation exigerait de l’électricité renouvelable et un refroidissement préservant l’eau douce. Reuters rapporte plus de 2,6 gigawatts de capacité en développement.",
+              "why": "Analyse : l’électricité, l’eau, le refroidissement et les permis influencent la faisabilité et les coûts de l’expansion de l’hébergement souverain.",
+              "takeaway": "Vérifier la disponibilité de l’énergie, les besoins de refroidissement et les hypothèses relatives aux permis dans les plans de capacité et de coûts sur trois ans.",
+              "executiveSummary": {
+                "overview": "Reuters a rapporté le 3 novembre que le Portugal finalise un décret imposant des conditions environnementales plus strictes aux centres de données. La ministre de l’Environnement, Maria da Graça Carvalho, a indiqué devant une commission parlementaire que les installations devraient utiliser de l’électricité renouvelable et des systèmes de refroidissement ne concurrençant pas les besoins en eau douce des ménages et de l’économie. Plus de 2,6 gigawatts de capacité de centres de données sont en développement dans le pays, dont le projet Start Campus de 1,2 gigawatt à Sines. Un des six bâtiments prévus est déjà exploité et utilise l’eau de mer pour le refroidissement ainsi que de l’électricité renouvelable. Les exigences sont toujours en préparation; le reportage ne confirme donc ni le texte juridique définitif ni son calendrier d’application.",
+                "keyPoints": [
+                  "La ministre a décrit un décret à venir imposant l’électricité renouvelable et des mesures de protection des ressources en eau douce.",
+                  "Reuters fait état de plus de 2,6 gigawatts de capacité prévue, dont 1,2 gigawatt à Sines.",
+                  "Le bâtiment en exploitation de Start Campus utiliserait l’eau de mer pour le refroidissement; la majeure partie de la capacité annoncée demeure en développement."
+                ],
+                "implications": "L’expansion des nuages souverains et privés dépend de la capacité physique autant que de la conception des infrastructures virtuelles. La planification des investissements sur trois ans devrait examiner l’accès au réseau électrique, les prix de l’énergie, les technologies de refroidissement, les autorisations environnementales et la résilience opérationnelle. Les charges de travail d’IA à forte densité peuvent accentuer ces contraintes. L’approche portugaise offre un point de comparaison pour les risques d’infrastructure; les exigences canadiennes doivent être évaluées séparément.",
+                "watch": "Surveiller la publication du décret définitif, ses dates d’application, les décisions relatives aux permis et la livraison réelle des capacités annoncées.",
+                "caveat": "La source est un reportage de Reuters sur une déclaration ministérielle. Le décret n’était pas définitif et la capacité annoncée en développement ne doit pas être assimilée à une capacité opérationnelle."
+              },
+              "verifiedAt": "2026-11-04T10:41:46.337Z"
+            },
+            {
+              "title": "Le Centre canadien pour la cybersécurité signale des vulnérabilités dans psqlODBC",
+              "priority": "Watch",
+              "category": "Sécurité des pilotes de bases de données",
+              "source": "Centre canadien pour la cybersécurité",
+              "published": "2026-11-03",
+              "url": "https://www.cyber.gc.ca/en/alerts-advisories/postgresql-security-advisory-av26-1115",
+              "what": "Le bulletin AV26-1115 signale des vulnérabilités de mémoire tampon dans les versions de psqlODBC antérieures à 18.00.0006 et invite les administrateurs à consulter les renseignements de sécurité et les mises à jour.",
+              "why": "Analyse : les pilotes de bases de données peuvent se trouver dans les applications, les images partagées et les outils de gestion. Un inventaire précis des versions est donc nécessaire.",
+              "takeaway": "Vérifier les versions installées de psqlODBC et les responsabilités de correction avant d’évaluer l’exposition réelle.",
+              "executiveSummary": {
+                "overview": "Le Centre canadien pour la cybersécurité a publié le bulletin AV26-1115 le 3 novembre. Il désigne les versions de psqlODBC antérieures à 18.00.0006 comme touchées par deux vulnérabilités liées à la mémoire tampon. Les descriptions concernent un débordement de mémoire tampon lors de la lecture de grands objets et un débordement de pile dans l’analyseur des séquences d’échappement ODBC. Le bulletin renvoie aux renseignements de sécurité de PostgreSQL et recommande d’appliquer les mises à jour appropriées. Il ne signale aucune exploitation ni compromission d’un environnement particulier du gouvernement canadien. L’exposition dépend de la présence du pilote vulnérable et de la façon dont l’application traite les données.",
+                "keyPoints": [
+                  "Le bulletin officiel désigne les versions de psqlODBC antérieures à 18.00.0006 comme vulnérables.",
+                  "Les faiblesses touchent la gestion de la mémoire tampon lors de la lecture de grands objets et de l’analyse des séquences d’échappement ODBC.",
+                  "Le Centre recommande de consulter les renseignements de sécurité liés et d’appliquer les mises à jour pertinentes lorsqu’elles sont disponibles."
+                ],
+                "implications": "Les inventaires des services infonuagiques devraient tenir compte des pilotes de bases de données dans les dépendances applicatives, les images de machines virtuelles, les images de conteneurs et les outils d’administration. Les équipes peuvent déterminer les versions touchées, les responsabilités de correction, les méthodes de déploiement et les besoins d’essais de compatibilité. Toute escalade devrait reposer sur des preuves d’actifs réellement touchés et de voies d’exposition. La publication d’un bulletin ne démontre pas une compromission du service.",
+                "watch": "Surveiller les inventaires des pilotes, les correctifs applicables, les responsabilités de déploiement et l’achèvement des corrections ciblées.",
+                "caveat": "Le bulletin officiel canadien fournit les seuils de version et de brèves descriptions. Aucune exploitation active ni aucun incident précis au gouvernement du Canada n’a été établi."
+              },
+              "verifiedAt": "2026-11-04T10:41:46.337Z"
+            }
+          ],
+          "radar": [],
+          "question": "Quelles preuves démontrent le contrôle canadien des infrastructures, des logiciels et de la reprise tout en confirmant une capacité réalisable à coût durable ?",
+          "signals": [
+            {
+              "title": "Partenariats européens pour l’IA",
+              "detail": "Surveiller si l’accord préliminaire de Bull et Schwarz Digits mène à un service opérationnel."
+            },
+            {
+              "title": "Exigences environnementales des centres de données",
+              "detail": "Surveiller le décret définitif du Portugal et la livraison des capacités."
+            }
+          ],
+          "editorialNote": "Sources vérifiées le 4 novembre 2026. L’annonce de Bull a été corroborée par Reuters. Les règles proposées au Portugal ont été rapportées par Reuters; le bulletin canadien de sécurité est une source officielle. Les affirmations des fournisseurs et les analyses sont identifiées. Les instructions du module externe de traduction en français québécois ont été consultées et appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées à l’aide de l’intelligence artificielle; aucune approbation du gouvernement du Canada n’est sous-entendue.",
+          "readMinutes": 6
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-04T10:41:46.337Z"
+      },
+      "publishedAt": "2026-11-04T10:41:46.337Z"
+    },
+    {
       "id": "2026-11-03",
       "date": "2026-11-03",
       "headline": "Germany's sovereign cloud procurement and new infrastructure advisories offer lessons for Canadian hosting",
