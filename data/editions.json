@@ -1,6 +1,193 @@
 {
   "editions": [
     {
+      "id": "2026-11-06",
+      "date": "2026-11-06",
+      "coverageStart": "2026-11-05T09:59:04.000Z",
+      "coverageEnd": "2026-11-06T11:23:32.038Z",
+      "generatedAt": "2026-11-06T11:23:32.038Z",
+      "headline": "Sovereign hosting capacity depends on utilities and supplier delivery",
+      "deck": "An Australian data centre inquiry examines cumulative infrastructure demands while reports of closer Microsoft oversight highlight risks to contracted computing capacity.",
+      "bigPicture": [
+        {
+          "title": "Physical infrastructure determines delivery",
+          "detail": "New South Wales parliamentary findings highlight electricity, water and planning constraints affecting multiple data centre developments."
+        },
+        {
+          "title": "Supplier assurances require acceptance evidence",
+          "detail": "Reported scrutiny of AI data centre projects illustrates why signed contracts and forecasts require verified delivery milestones."
+        }
+      ],
+      "reads": [
+        {
+          "published": "2026-11-05",
+          "priority": "Strategic",
+          "url": "https://www.parliament.nsw.gov.au/parliamentary-business/committees/inquiry-details?committeeInquiryId=3169",
+          "verifiedAt": "2026-11-06T11:23:32.038Z",
+          "title": "Australian inquiry urges coordinated planning for data centres",
+          "source": "Parliament of New South Wales",
+          "category": "Infrastructure planning and sovereign capacity",
+          "what": "A New South Wales parliamentary committee tabled its final data centres report November 5. Reuters reported concerns about cumulative electricity, water and infrastructure impacts and recommendations for coordinated planning.",
+          "why": "Assessment: regional utility constraints can undermine data centre project timelines and hosting capacity forecasts.",
+          "takeaway": "Require evidence of firm electricity, cooling, permits and commissioning timelines before depending on proposed sovereign hosting capacity.",
+          "executiveSummary": {
+            "overview": "The Public Accountability and Works Committee of the New South Wales Parliament tabled its final report on data centres on November 5, 2026. The official parliamentary inquiry record shows an inquiry launched in January, public hearings through July and a government response due February 5, 2027. Reuters reported that the committee identified shortcomings in how data centre development proposals are assessed for cumulative impacts on electricity demand, water supply and existing infrastructure. It recommended greater coordination and a comprehensive state strategy. A proposal to halt developments through a moratorium was not adopted. These are findings and recommendations of a parliamentary inquiry, rather than changes already enacted in law.",
+            "keyPoints": [
+              "The official parliamentary record confirms that the final report was tabled on November 5, 2026, with a government response scheduled for February 2027.",
+              "The inquiry examined the environmental and infrastructure requirements of data centres and the aggregate effects of multiple proposed facilities.",
+              "Reuters reported recommendations for coordinated planning and confirmed that the committee did not endorse a general moratorium on development."
+            ],
+            "implications": "Sovereign and private cloud capacity planning should distinguish announced facilities from capacity backed by firm electricity, cooling, network, permits and commissioning evidence. Multiple planned data centres can compete for the same regional supplies, potentially invalidating delivery assumptions. Procurement and investment assessments can require a practical timeline for each enabling dependency and identify who bears the cost of delay. The Australian report is a useful comparator for Canada, without creating a Canadian legal obligation.",
+            "watch": "Monitor the New South Wales government's February response, published regulatory changes and evidence that future developments have secured their needed utilities.",
+            "caveat": "The New South Wales Parliament is the primary source for inquiry dates and the report. Findings and the absence of a moratorium recommendation are based on Reuters reporting. This account does not claim any Australian recommendations are already binding."
+          }
+        },
+        {
+          "published": "2026-11-05",
+          "priority": "Strategic",
+          "url": "https://www.reuters.com/business/microsoft-tightens-oversight-neocloud-data-center-projects-bloomberg-news-2026-11-05/",
+          "verifiedAt": "2026-11-06T11:23:32.038Z",
+          "title": "Microsoft reportedly tightens oversight of specialist AI data centres",
+          "source": "Reuters / Bloomberg",
+          "category": "Supplier delivery and cloud economics",
+          "what": "Reuters relayed Bloomberg reporting that Microsoft increased oversight of selected data centre projects involving Nebius, IREN and Nscale. Separate Reuters coverage describes delays to certain IREN deliveries.",
+          "why": "Assessment: contracted computing capacity depends on physical delivery, integration, acceptance and supplier performance.",
+          "takeaway": "Set delivery commitments around independently demonstrated usable capacity, including power, networks, security and acceptance.",
+          "executiveSummary": {
+            "overview": "Reuters reported on November 5 that Microsoft had increased oversight of selected artificial intelligence data centre developments involving the specialist providers Nebius, IREN and Nscale. The underlying report originated with Bloomberg and cited people familiar with the matter. It described greater attention to projects amid concerns about delivery timelines, costs and operational challenges, while providing limited detail about the actual oversight procedures. Reuters did not report that Microsoft cancelled the identified projects. Separately, Reuters reported that IREN delayed some infrastructure deliveries linked to Microsoft following network-design changes and supplier timing issues. The company said that the delays would not create contractual financial penalties. These developments show that agreements for computing capacity must still pass through design, construction, integration and acceptance before becoming usable services.",
+            "keyPoints": [
+              "Bloomberg, as reported by Reuters, described closer Microsoft oversight of selected projects involving Nebius, IREN and Nscale, citing people familiar with the arrangements.",
+              "The news reports did not establish project cancellations or provide the complete terms of revised oversight arrangements.",
+              "Separate Reuters reporting said certain IREN infrastructure deliveries for Microsoft were delayed following customer-requested network changes and supplier timing issues."
+            ],
+            "implications": "Government buyers of hardware-as-a-service and sovereign computing should define the supplier's obligation in terms of tested, usable capacity at specified dates. Contracts can identify firm delivery windows, power and network prerequisites, security acceptance, service performance and recovery readiness. They should also allocate responsibility for design changes, late component delivery and delays in commissioning. Capacity plans should use evidence of completed acceptance when forecasting workload migrations and expected savings. These are portfolio considerations inferred from commercial reports; they do not establish that any Canadian federal provider has encountered the same problem.",
+            "watch": "Track revised project schedules, actual commissioning, verified network readiness, financing milestones and any public contract changes or remedies.",
+            "caveat": "The report of tightened oversight originated with Bloomberg and was repeated by Reuters, partly using anonymous sources. The IREN delay is separately reported by Reuters. Neither report confirms a specific Government of Canada hosting issue."
+          }
+        }
+      ],
+      "radar": [],
+      "deepRead": {
+        "title": "Canada's Responsible Data Centre Development Principles",
+        "source": "Innovation, Science and Economic Development Canada",
+        "published": "2026-09-03",
+        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-launches-canadas-responsible-data-centre-development-principles.html",
+        "verifiedAt": "2026-11-06T11:23:32.038Z",
+        "detail": "Earlier Canadian policy context covering electricity, water, local benefits, transparency and the strategic value of data centre projects."
+      },
+      "question": "What evidence should be required before proposed sovereign hosting capacity is considered approved, powered, financed and ready to accept workloads?",
+      "signals": [
+        {
+          "title": "Regional infrastructure limits",
+          "detail": "Monitor responses to data centre demand on shared regional resources."
+        },
+        {
+          "title": "Supplier readiness milestones",
+          "detail": "Monitor evidence that proposed computing capacity has been commissioned and accepted."
+        }
+      ],
+      "editorialNote": "Sources checked November 6, 2026. The New South Wales parliamentary record provides the inquiry dates and report; Reuters reports its findings. Microsoft oversight reporting originates with Bloomberg and was relayed by Reuters, with IREN delays separately reported. Implications are analytical. Translation used the user-selected Quebec French Translator's embedded instructions. Research, writing, translation and publication use AI automation and imply no Government of Canada endorsement.",
+      "readMinutes": 5,
+      "day": "Friday",
+      "coverage": "Developments of November 5, 2026",
+      "translations": {
+        "fr": {
+          "id": "2026-11-06",
+          "date": "2026-11-06",
+          "coverageStart": "2026-11-05T09:59:04.000Z",
+          "coverageEnd": "2026-11-06T11:23:32.038Z",
+          "generatedAt": "2026-11-06T11:23:32.038Z",
+          "headline": "La capacité d’hébergement souverain dépend des infrastructures et des livraisons des fournisseurs",
+          "deck": "Une enquête australienne sur les centres de données examine les besoins cumulatifs en infrastructures. Des reportages sur une surveillance accrue de Microsoft soulignent les risques associés à la capacité informatique sous contrat.",
+          "bigPicture": [
+            {
+              "title": "Les infrastructures physiques déterminent les livraisons",
+              "detail": "Les constats parlementaires de la Nouvelle-Galles du Sud soulignent les contraintes d’électricité, d’eau et de planification qui touchent plusieurs projets."
+            },
+            {
+              "title": "Les garanties des fournisseurs exigent des preuves d’acceptation",
+              "detail": "La surveillance rapportée de projets de centres de données d’IA montre pourquoi les contrats et les prévisions doivent reposer sur des jalons de livraison vérifiables."
+            }
+          ],
+          "reads": [
+            {
+              "published": "2026-11-05",
+              "priority": "Strategic",
+              "url": "https://www.parliament.nsw.gov.au/parliamentary-business/committees/inquiry-details?committeeInquiryId=3169",
+              "verifiedAt": "2026-11-06T11:23:32.038Z",
+              "title": "Une enquête australienne préconise une planification coordonnée des centres de données",
+              "source": "Parlement de la Nouvelle-Galles du Sud",
+              "category": "Planification des infrastructures et capacité souveraine",
+              "what": "Un comité parlementaire de la Nouvelle-Galles du Sud a déposé son rapport final sur les centres de données le 5 novembre. Reuters relève des préoccupations concernant les effets cumulatifs sur l’électricité, l’eau et les infrastructures et des recommandations de planification coordonnée.",
+              "why": "Analyse : les contraintes régionales des services publics peuvent compromettre les échéanciers des centres de données et les prévisions de capacité.",
+              "takeaway": "Exiger des preuves d’électricité disponible, de refroidissement, de permis et de dates de mise en service avant de compter sur la capacité souveraine projetée.",
+              "executiveSummary": {
+                "overview": "Le comité de la responsabilité publique et des travaux du Parlement de la Nouvelle-Galles du Sud a déposé son rapport final sur les centres de données le 5 novembre 2026. Le dossier parlementaire officiel fait état d’une enquête lancée en janvier, d’audiences publiques jusqu’en juillet et d’une réponse gouvernementale attendue le 5 février 2027. Selon Reuters, le comité a relevé des lacunes dans l’évaluation des effets cumulatifs des projets de centres de données sur la demande d’électricité, l’approvisionnement en eau et les infrastructures existantes. Il recommande une meilleure coordination et une stratégie globale pour l’État. Une proposition de moratoire sur les nouveaux projets n’a pas été retenue. Il s’agit de constats et de recommandations issus d’une enquête parlementaire, et non de changements législatifs déjà en vigueur.",
+                "keyPoints": [
+                  "Le dossier parlementaire officiel confirme le dépôt du rapport final le 5 novembre 2026 et prévoit une réponse gouvernementale en février 2027.",
+                  "L’enquête a examiné les besoins environnementaux et infrastructurels des centres de données ainsi que les effets combinés de plusieurs installations projetées.",
+                  "Reuters fait état de recommandations de planification coordonnée et confirme que le comité n’a pas retenu de moratoire général sur les projets."
+                ],
+                "implications": "La planification de la capacité des nuages souverains et privés devrait distinguer les installations annoncées de la capacité appuyée par des preuves fermes d’alimentation électrique, de refroidissement, de réseau, de permis et de mise en service. Plusieurs centres de données projetés peuvent se disputer les mêmes ressources régionales et rendre irréalistes certains échéanciers. Les évaluations d’approvisionnement et d’investissement peuvent exiger un calendrier des dépendances essentielles et préciser qui assume le coût des retards. Le rapport australien offre un point de comparaison utile pour le Canada, sans créer d’obligation juridique canadienne.",
+                "watch": "Surveiller la réponse du gouvernement de la Nouvelle-Galles du Sud en février, les changements réglementaires publiés et les preuves d’approvisionnement des nouveaux projets en services essentiels.",
+                "caveat": "Le Parlement de la Nouvelle-Galles du Sud est la source principale pour les dates de l’enquête et le rapport. Les constats et l’absence de recommandation de moratoire proviennent de Reuters. Rien n’indique que les recommandations australiennes sont déjà obligatoires."
+              }
+            },
+            {
+              "published": "2026-11-05",
+              "priority": "Strategic",
+              "url": "https://www.reuters.com/business/microsoft-tightens-oversight-neocloud-data-center-projects-bloomberg-news-2026-11-05/",
+              "verifiedAt": "2026-11-06T11:23:32.038Z",
+              "title": "Microsoft renforcerait la surveillance de centres de données d’IA spécialisés",
+              "source": "Reuters / Bloomberg",
+              "category": "Livraison des fournisseurs et économie infonuagique",
+              "what": "Reuters a repris un reportage de Bloomberg selon lequel Microsoft surveille plus étroitement certains projets de Nebius, IREN et Nscale. Un autre reportage de Reuters décrit des retards de livraison chez IREN.",
+              "why": "Analyse : la capacité informatique sous contrat dépend de la livraison physique, de l’intégration, de l’acceptation et du rendement du fournisseur.",
+              "takeaway": "Fonder les engagements de livraison sur une capacité utilisable démontrée indépendamment, y compris l’électricité, les réseaux, la sécurité et l’acceptation.",
+              "executiveSummary": {
+                "overview": "Reuters a rapporté le 5 novembre que Microsoft avait renforcé la surveillance de certains projets de centres de données d’intelligence artificielle des fournisseurs spécialisés Nebius, IREN et Nscale. L’information provient initialement de Bloomberg, qui cite des personnes au courant du dossier. Le reportage décrit une attention accrue aux échéanciers, aux coûts et aux difficultés opérationnelles, sans préciser tous les mécanismes de surveillance. Reuters n’a pas indiqué que Microsoft avait annulé les projets concernés. Séparément, Reuters a rapporté qu’IREN avait reporté certaines livraisons d’infrastructures destinées à Microsoft à la suite de changements à la conception du réseau et de délais chez des fournisseurs. L’entreprise affirme que ces retards n’entraîneront pas de pénalités financières contractuelles. Ces développements montrent que les ententes de capacité informatique doivent franchir les étapes de conception, de construction, d’intégration et d’acceptation avant de devenir des services utilisables.",
+                "keyPoints": [
+                  "Bloomberg, cité par Reuters, décrit une surveillance plus étroite par Microsoft de certains projets de Nebius, IREN et Nscale, selon des personnes connaissant les ententes.",
+                  "Les reportages ne démontrent aucune annulation des projets et ne présentent pas les modalités complètes des nouveaux mécanismes de surveillance.",
+                  "Un reportage distinct de Reuters indique que certaines livraisons d’IREN pour Microsoft ont été retardées après des modifications demandées au réseau et des problèmes de calendrier chez les fournisseurs."
+                ],
+                "implications": "Les acheteurs gouvernementaux de matériel-service et de capacité souveraine devraient définir les obligations des fournisseurs en fonction d’une capacité testée et utilisable à des dates précises. Les contrats peuvent prévoir des périodes fermes de livraison, des conditions préalables d’alimentation électrique et de réseau, l’acceptation des contrôles de sécurité, le rendement du service et la préparation à la reprise. Ils devraient aussi attribuer les responsabilités liées aux changements de conception, aux composants livrés en retard et aux délais de mise en service. Les plans de capacité devraient reposer sur des preuves d’acceptation terminée pour prévoir les migrations et les économies. Ces considérations découlent de reportages commerciaux et ne démontrent aucun problème semblable chez un fournisseur fédéral canadien.",
+                "watch": "Suivre les échéanciers révisés, la mise en service réelle, l’état vérifié des réseaux, le financement et les éventuels changements contractuels ou recours rendus publics.",
+                "caveat": "Le reportage sur la surveillance accrue provient de Bloomberg et a été repris par Reuters, en partie à partir de sources anonymes. Les retards d’IREN ont été rapportés séparément par Reuters. Aucun problème précis d’hébergement du gouvernement du Canada n’est confirmé."
+              }
+            }
+          ],
+          "radar": [],
+          "deepRead": {
+            "title": "Principes canadiens pour un développement responsable des centres de données",
+            "source": "Innovation, Sciences et Développement économique Canada",
+            "published": "2026-09-03",
+            "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-launches-canadas-responsible-data-centre-development-principles.html",
+            "verifiedAt": "2026-11-06T11:23:32.038Z",
+            "detail": "Contexte antérieur de la politique canadienne concernant l’électricité, l’eau, les retombées locales, la transparence et la valeur stratégique des centres de données."
+          },
+          "question": "Quelles preuves faut-il exiger avant de considérer que la capacité souveraine projetée est autorisée, alimentée, financée et prête à accueillir des charges de travail ?",
+          "signals": [
+            {
+              "title": "Limites des infrastructures régionales",
+              "detail": "Surveiller les réponses aux effets de la demande des centres de données sur les ressources régionales partagées."
+            },
+            {
+              "title": "Jalons de préparation des fournisseurs",
+              "detail": "Surveiller les preuves de mise en service et d’acceptation de la capacité informatique projetée."
+            }
+          ],
+          "editorialNote": "Sources vérifiées le 6 novembre 2026. Le dossier parlementaire de la Nouvelle-Galles du Sud fournit les dates de l’enquête et du rapport; Reuters en présente les constats. Les informations sur la surveillance de Microsoft proviennent de Bloomberg et ont été reprises par Reuters, tandis que les retards d’IREN ont fait l’objet d’un reportage distinct. Les implications constituent des analyses. La traduction suit les instructions intégrées du module choisi pour le français québécois. La recherche, la rédaction, la traduction et la publication utilisent une automatisation fondée sur l’intelligence artificielle et n’impliquent aucune approbation du gouvernement du Canada.",
+          "readMinutes": 6
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-06T11:23:32.038Z"
+      },
+      "publishedAt": "2026-11-06T11:23:32.038Z"
+    },
+    {
       "id": "2026-11-05",
       "date": "2026-11-05",
       "coverageStart": "2026-11-03T21:59:04.000Z",
@@ -987,161 +1174,6 @@
       "readMinutes": 4,
       "day": "Monday",
       "coverage": "2026-10-31T10:00:00Z to 2026-11-02T10:05:10.788Z"
-    },
-    {
-      "id": "2026-11-01",
-      "date": "2026-11-01",
-      "headline": "Compromised certificate authority keys expose a resilience issue for disconnected cloud environments",
-      "deck": "A certificate-trust vulnerability disclosed by AWS and addressed by Microsoft highlights the importance of securely maintaining trust stores in sovereign and isolated hosting. Few other verified new sovereign cloud policy developments warrant a separate story today.",
-      "coverageStart": "2026-10-30T10:41:13.618Z",
-      "coverageEnd": "2026-11-01T10:01:37.138Z",
-      "generatedAt": "2026-11-01T10:40:05.843Z",
-      "bigPicture": [
-        {
-          "title": "Certificate trust is a critical cloud security dependency",
-          "detail": "AWS updated its security bulletin on October 30 regarding CVE-2026-111943, involving recoverable private keys for eight intermediate eMudhra certificate authorities. Assessment: certificate trust should feature explicitly in sovereign hosting security assurance."
-        },
-        {
-          "title": "Disconnected systems need deliberate trust-store updates",
-          "detail": "Microsoft's October 26 response advises administrators to ensure disconnected Windows systems receive trust-list changes. AWS also identifies instances using restricted connectivity or custom certificate stores. Assessment: isolated private cloud and classified hosting designs need tested out-of-band update procedures."
-        },
-        {
-          "title": "The recent sovereignty policy direction remains the main strategic context",
-          "detail": "No sufficiently substantiated new Canadian sovereign cloud policy or procurement announcement was identified in this morning's research. The October 30 Canada-EU agreement remains important context; its implementation, supplier assurance and procurement consequences are worth monitoring."
-        }
-      ],
-      "reads": [
-        {
-          "title": "Compromised eMudhra certificate authority keys prompt cloud security updates",
-          "priority": "Immediate",
-          "category": "Certificate trust and infrastructure security",
-          "source": "AWS Security Bulletin",
-          "published": "2026-10-24",
-          "updated": "2026-10-30",
-          "url": "https://aws.amazon.com/security/security-bulletins/2026-150-aws/",
-          "what": "AWS security bulletin 2026-150-AWS describes CVE-2026-111943, a key-generation weakness affecting eight eMudhra intermediate certificate authority private keys: six used for TLS and two for code signing. The keys were mathematically recoverable because of insufficient randomness, potentially permitting forged certificates or signatures if affected trust relationships were accepted. AWS's October 30 update describes remediation across services and customer actions for certain systems and images.",
-          "why": "Assessment: certificate trust supports identity verification, secure communications and software integrity in cloud services. AWS and Microsoft identify additional update considerations for disconnected devices, systems with custom trust stores and restricted-connectivity instances. The issue originated in an external certificate authority; neither vendor advisory establishes compromise of a Government of Canada environment.",
-          "takeaway": "Review certificate trust dependencies and how revocation, disallowed certificate lists and trust-store updates reach isolated sovereign and private cloud environments. Confirm whether affected authorities are trusted and whether relevant updates have been applied. Include disconnected and future Secret-level hosting scenarios.",
-          "verifiedAt": "2026-11-01T10:40:05.843Z"
-        }
-      ],
-      "radar": [
-        {
-          "title": "Microsoft advises administrators to update disconnected Windows certificate trust lists",
-          "source": "Microsoft Security Response Center",
-          "published": "2026-10-26",
-          "url": "https://www.microsoft.com/en-us/msrc/blog/2026/10/microsoft-response-to-compromised-emudhra-certificate-authority-keys",
-          "detail": "Microsoft removed the affected certificate authorities from relevant trust lists and advises administrators to ensure disconnected Windows devices receive the changes. Assessment: this guidance offers an immediate control check for isolated hosting environments; it is corroborating context from earlier in the week.",
-          "verifiedAt": "2026-11-01T10:40:05.843Z"
-        }
-      ],
-      "deepRead": {
-        "title": "Sovereign Cloud Framework explained",
-        "source": "European Commission",
-        "published": "2026-06-01",
-        "url": "https://commission.europa.eu/news-and-media/news/sovereign-cloud-framework-explained-2026-06-01_en",
-        "detail": "The European Commission explains its 48-criterion Cloud Sovereignty Framework across eight dimensions, including legal jurisdiction, operational control, supply chains and security. This is background reading from June, newly relevant to the October 30 Canada-EU agreement. Assessment: compare its assurance approach with Canadian cloud supplier evaluation and evidence of operational independence.",
-        "verifiedAt": "2026-11-01T10:40:05.843Z"
-      },
-      "question": "How can sovereign hosting environments maintain trustworthy certificates, authentication and secure software updates when they cannot rely on external services for timely trust changes?",
-      "signals": [
-        {
-          "title": "Certificate lifecycle management is a sovereignty control",
-          "detail": "The eMudhra incident shows how external certificate authorities can affect cloud trust relationships. Watch for affected trust-store inventories, validation evidence and vendor follow-up."
-        },
-        {
-          "title": "Operational independence includes secure maintenance",
-          "detail": "Disconnected services need tested methods for distributing urgent trust and security updates. Watch for operational testing and recovery evidence, especially for sensitive environments."
-        },
-        {
-          "title": "Sovereignty assurance is becoming more measurable",
-          "detail": "The EU's 48-criterion framework provides a method for evaluating operational and legal control. Watch for new Canadian or bilateral assurance requirements emerging from the Canada-EU commitments."
-        }
-      ],
-      "editorialNote": "This edition repairs the November 1, 2026, Morning Scoop that was researched at approximately 6:00 a.m. Atlantic but previously withheld because French translation was inaccessible in the unattended workflow. Original AWS, Microsoft and European Commission publications were rechecked before publication. The AWS bulletin was originally issued October 24 and updated October 30; Microsoft's original post was October 26 and updated October 27; the EU framework is June background material. No independently verified new Canadian sovereign cloud policy announcement was found during the original morning research. The practical implications are analytical assessments. Public sources only. Research, writing and publication are automated using AI, and readers should verify consequential details against cited sources.",
-      "translations": {
-        "fr": {
-          "id": "2026-11-01",
-          "date": "2026-11-01",
-          "headline": "Des clés compromises d’autorités de certification révèlent un enjeu de résilience pour les environnements infonuagiques isolés",
-          "deck": "Une vulnérabilité liée à la confiance accordée aux certificats, divulguée par AWS et prise en charge par Microsoft, souligne l’importance de maintenir de façon sécuritaire les magasins de certificats de confiance dans les environnements souverains et isolés. Peu d’autres développements nouveaux et vérifiés en matière de politique de nuage souverain justifient une analyse distincte aujourd’hui.",
-          "coverageStart": "2026-10-30T10:41:13.618Z",
-          "coverageEnd": "2026-11-01T10:01:37.138Z",
-          "generatedAt": "2026-11-01T10:40:05.843Z",
-          "bigPicture": [
-            {
-              "title": "La confiance accordée aux certificats est une dépendance essentielle à la cybersécurité infonuagique",
-              "detail": "AWS a mis à jour son bulletin de sécurité le 30 octobre concernant CVE-2026-111943, une faille permettant de reconstituer les clés privées de huit autorités de certification intermédiaires d’eMudhra. Analyse : la gestion de la confiance accordée aux certificats devrait faire explicitement partie de l’assurance de la sécurité de l’hébergement souverain."
-            },
-            {
-              "title": "Les systèmes isolés nécessitent des mises à jour planifiées des magasins de certificats de confiance",
-              "detail": "Dans sa communication du 26 octobre, Microsoft recommande aux administrateurs de veiller à ce que les systèmes Windows isolés reçoivent les modifications aux listes de confiance. AWS signale également les instances à connectivité restreinte ou utilisant des magasins de certificats personnalisés. Analyse : les architectures de nuage privé isolé et d’hébergement de données classifiées ont besoin de procédures éprouvées de mise à jour hors bande."
-            },
-            {
-              "title": "Les orientations récentes en matière de souveraineté demeurent le principal contexte stratégique",
-              "detail": "Les recherches de ce matin n’ont révélé aucune nouvelle annonce suffisamment étayée concernant les politiques ou les approvisionnements du Canada en matière de nuage souverain. L’accord Canada-Union européenne du 30 octobre demeure un élément de contexte important. Il faudra surveiller sa mise en œuvre, l’assurance des fournisseurs et ses conséquences sur l’approvisionnement."
-            }
-          ],
-          "reads": [
-            {
-              "title": "Des clés compromises d’autorités de certification eMudhra entraînent des mises à jour de sécurité infonuagique",
-              "priority": "Immediate",
-              "category": "Confiance accordée aux certificats et sécurité de l’infrastructure",
-              "source": "Bulletin de sécurité AWS",
-              "published": "2026-10-24",
-              "updated": "2026-10-30",
-              "url": "https://aws.amazon.com/security/security-bulletins/2026-150-aws/",
-              "what": "Le bulletin de sécurité AWS 2026-150-AWS décrit CVE-2026-111943, une faiblesse de génération de clés touchant huit clés privées d’autorités de certification intermédiaires d’eMudhra : six associées au protocole TLS et deux à la signature de code. Un manque d’aléa permettait de reconstituer mathématiquement ces clés, ce qui pourrait faciliter la création de faux certificats ou de fausses signatures lorsque les chaînes de confiance touchées sont acceptées. La mise à jour d’AWS du 30 octobre décrit les mesures correctives apportées à différents services et les interventions demandées aux clients pour certains systèmes et certaines images.",
-              "why": "Analyse : la confiance accordée aux certificats contribue à la vérification des identités, à la sécurisation des communications et à l’intégrité des logiciels dans les services infonuagiques. AWS et Microsoft signalent des précautions particulières concernant les mises à jour des appareils isolés, des systèmes dotés de magasins de certificats personnalisés et des instances à connectivité restreinte. Le problème provient d’une autorité de certification externe. Aucun des deux bulletins ne démontre qu’un environnement du gouvernement du Canada a été compromis.",
-              "takeaway": "Examiner les dépendances liées à la confiance accordée aux certificats et les méthodes utilisées pour transmettre les renseignements de révocation, les listes de certificats non approuvés et les mises à jour des magasins de confiance aux environnements souverains et privés isolés. Confirmer si les autorités touchées sont reconnues et si les mises à jour pertinentes ont été appliquées. Inclure les scénarios d’hébergement isolé et les futurs environnements de niveau Secret.",
-              "verifiedAt": "2026-11-01T10:40:05.843Z"
-            }
-          ],
-          "radar": [
-            {
-              "title": "Microsoft recommande de mettre à jour les listes de confiance des certificats sur les systèmes Windows isolés",
-              "source": "Centre de réponse aux incidents de sécurité de Microsoft (MSRC)",
-              "published": "2026-10-26",
-              "url": "https://www.microsoft.com/en-us/msrc/blog/2026/10/microsoft-response-to-compromised-emudhra-certificate-authority-keys",
-              "detail": "Microsoft a retiré les autorités de certification touchées des listes de confiance pertinentes et recommande aux administrateurs de veiller à ce que les appareils Windows isolés reçoivent ces changements. Analyse : ces consignes fournissent un contrôle immédiat à vérifier dans les environnements d’hébergement isolés. Il s’agit d’un élément complémentaire publié plus tôt dans la semaine.",
-              "verifiedAt": "2026-11-01T10:40:05.843Z"
-            }
-          ],
-          "deepRead": {
-            "title": "Explication du cadre de souveraineté infonuagique",
-            "source": "Commission européenne",
-            "published": "2026-06-01",
-            "url": "https://commission.europa.eu/news-and-media/news/sovereign-cloud-framework-explained-2026-06-01_en",
-            "detail": "La Commission européenne explique son cadre de souveraineté infonuagique, qui comprend 48 critères répartis en huit dimensions, notamment la compétence juridique, le contrôle opérationnel, les chaînes d’approvisionnement et la sécurité. Ce document de juin sert de référence et prend une pertinence nouvelle à la lumière de l’accord Canada-Union européenne du 30 octobre. Analyse : comparer son approche d’assurance aux méthodes canadiennes d’évaluation des fournisseurs infonuagiques et aux preuves d’indépendance opérationnelle.",
-            "verifiedAt": "2026-11-01T10:40:05.843Z"
-          },
-          "question": "Comment les environnements d’hébergement souverain peuvent-ils maintenir la fiabilité des certificats, de l’authentification et des mises à jour logicielles de sécurité lorsqu’ils ne peuvent pas compter sur des services externes pour recevoir rapidement les changements de confiance ?",
-          "signals": [
-            {
-              "title": "La gestion du cycle de vie des certificats constitue un contrôle de souveraineté",
-              "detail": "L’incident eMudhra montre comment des autorités de certification externes peuvent influer sur les relations de confiance infonuagiques. Surveiller les inventaires des magasins de certificats touchés, les preuves de validation et les mesures de suivi des fournisseurs."
-            },
-            {
-              "title": "L’indépendance opérationnelle comprend la maintenance sécurisée",
-              "detail": "Les services isolés ont besoin de moyens éprouvés pour distribuer les mises à jour urgentes de confiance et de sécurité. Surveiller les résultats des essais opérationnels et les preuves de reprise, surtout pour les environnements sensibles."
-            },
-            {
-              "title": "L’assurance de la souveraineté devient plus mesurable",
-              "detail": "Le cadre européen à 48 critères fournit une méthode d’évaluation du contrôle opérationnel et juridique. Surveiller l’apparition de nouvelles exigences canadiennes ou bilatérales d’assurance découlant des engagements Canada-UE."
-            }
-          ],
-          "editorialNote": "Cette édition corrige le bulletin du matin du 1er novembre 2026, dont la recherche avait été effectuée vers 6 h, heure de l’Atlantique, mais dont la publication avait été suspendue parce que la traduction française était inaccessible dans le processus automatisé. Les publications originales d’AWS, de Microsoft et de la Commission européenne ont été revérifiées avant la publication. Le bulletin d’AWS a été publié initialement le 24 octobre et mis à jour le 30 octobre ; celui de Microsoft date du 26 octobre et a été mis à jour le 27 octobre ; le cadre européen est un document de référence de juin. Aucune nouvelle annonce suffisamment étayée concernant la politique canadienne de nuage souverain n’a été relevée pendant les recherches initiales du matin. Les implications pratiques présentées sont des analyses. Seules des sources publiques sont utilisées. La recherche, la rédaction et la publication sont automatisées au moyen de l’intelligence artificielle. Les lecteurs devraient vérifier les renseignements importants auprès des sources citées.",
-          "readMinutes": 4
-        }
-      },
-      "translation": {
-        "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-01T10:40:05.844Z"
-      },
-      "publishedAt": "2026-11-01T10:40:08.316Z",
-      "readMinutes": 3,
-      "day": "Sunday",
-      "coverage": "2026-10-30T10:41:13.618Z to 2026-11-01T10:01:37.138Z"
     }
   ]
 }
