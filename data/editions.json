@@ -1,6 +1,193 @@
 {
   "editions": [
     {
+      "id": "2026-11-07",
+      "date": "2026-11-07",
+      "coverageStart": "2026-11-06T09:00:00.000Z",
+      "coverageEnd": "2026-11-07T09:58:42.830Z",
+      "generatedAt": "2026-11-07T09:58:42.830Z",
+      "headline": "Infrastructure ownership and technology refresh reshape cloud capacity choices",
+      "deck": "Google's Wyoming site acquisition and reports of Microsoft reducing rented Oracle AI capacity offer two lessons for sovereign hosting: verify infrastructure readiness and plan for changing workload requirements.",
+      "bigPicture": [
+        {
+          "title": "Site development is a chain of dependencies",
+          "detail": "Google's acquisition follows pre-development work on land, approvals and power, illustrating the steps between announced investment and usable hosting capacity."
+        },
+        {
+          "title": "Technology suitability changes over contract life",
+          "detail": "Reported Microsoft and Oracle capacity changes highlight the importance of refresh options and clear acceptance criteria."
+        }
+      ],
+      "reads": [
+        {
+          "url": "https://www.reuters.com/business/google-acquires-wyoming-data-center-site-ai-infrastructure-firm-crusoe-2026-11-06/",
+          "published": "2026-11-06",
+          "priority": "Strategic",
+          "verifiedAt": "2026-11-07T09:58:42.830Z",
+          "title": "Google acquires Crusoe's Wyoming data centre site",
+          "source": "Reuters",
+          "category": "Infrastructure ownership and power",
+          "what": "Crusoe said Google acquired its southeast Wyoming data centre site on November 6, following Google's US$17 billion investment announcement. Crusoe had handled site selection, approvals and power strategy during pre-development.",
+          "why": "Assessment: site ownership, power arrangements and permits are distinct milestones in delivering usable computing capacity.",
+          "takeaway": "Track site control, firm power, approvals and commissioning independently in sovereign hosting capacity plans.",
+          "executiveSummary": {
+            "overview": "On November 6, Reuters reported that Google acquired an AI data centre site in southeast Wyoming from infrastructure developer Crusoe. The announcement followed Google's November 5 disclosure of a planned US$17 billion investment in its first Wyoming data centre. Crusoe said it had completed its role in the pre-development phase, which included selecting the site, securing government approvals and developing a power strategy. The transaction's financial terms were not disclosed. The campus was initially developed by Crusoe and Tallgrass Energy. Google identified Tallgrass Energy, Black Hills Energy, American Electric Power and Related Digital as partners. The report does not provide a confirmed commissioning date or independently established operating capacity for the finished site.",
+            "keyPoints": [
+              "Crusoe announced the transfer of its southeast Wyoming data centre site to Google on November 6, following Google's US$17 billion project announcement the previous day.",
+              "Crusoe said its pre-development responsibilities included site selection, government approvals and a power strategy; the acquisition price was not disclosed.",
+              "Google identified multiple energy and development partners, illustrating that data centre delivery depends on agreements beyond the computing equipment itself."
+            ],
+            "implications": "For sovereign and private cloud capacity planning, the transaction illustrates how an infrastructure project can change hands after early development work. Site control, permitting and power arrangements can be treated as separate milestones from construction and service acceptance. Procurement and investment teams can request evidence that each dependency is secured, assign clear responsibility for unfinished work and distinguish announced expenditure from operational capacity. The deal concerns a United States commercial project and provides a planning comparison, without establishing Canadian procurement obligations.",
+            "watch": "Watch for a verified construction timetable, power-delivery arrangements, commissioning milestones and public details of the site's operational capacity. Monitor whether the project confirms the planned scale and energy configuration.",
+            "caveat": "Reuters is the direct reporting source, citing Crusoe's announcement and Google's prior project statement. The financial terms and completed facility specifications were not disclosed. Portfolio implications are analytical and do not imply any federal Canadian involvement."
+          }
+        },
+        {
+          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+          "published": "2026-11-06",
+          "priority": "Strategic",
+          "verifiedAt": "2026-11-07T09:58:42.830Z",
+          "title": "Microsoft reportedly winds down Oracle AI capacity rental",
+          "source": "Reuters / Bloomberg",
+          "category": "Cloud economics and technology lifecycle",
+          "what": "Reuters relayed Bloomberg reporting that Microsoft was winding down rented AI computing capacity from Oracle because older Nvidia processors no longer suited its evolving requirements. Oracle said demand for its services remained strong.",
+          "why": "Assessment: technology fit and refresh options can materially change the value of multi-year computing contracts.",
+          "takeaway": "Include refresh options, workload benchmarks and exit terms when assessing long-term sovereign computing commitments.",
+          "executiveSummary": {
+            "overview": "On November 6, Reuters reported a Bloomberg account that Microsoft was winding down an agreement to rent artificial intelligence computing capacity from Oracle. Bloomberg cited people familiar with the matter and reported that Microsoft had been switching off capacity over recent months and declined to renew because infrastructure using an older generation of Nvidia graphics processors no longer met its changing requirements. Oracle said demand for its AI infrastructure, including earlier-generation graphics processors, remained strong. Microsoft did not immediately comment in the report. The agreement originated in 2023 and supported the AI-powered Bing service. The report does not disclose the financial terms, remaining capacity or precise contractual expiry dates. This is a separate development from the previous day's reporting about Microsoft scrutiny of specialist AI data centre providers.",
+            "keyPoints": [
+              "Bloomberg, as reported by Reuters on November 6, said Microsoft was winding down rented AI computing capacity from Oracle under an arrangement announced in 2023.",
+              "The report attributed Microsoft's decision partly to the suitability of older-generation Nvidia processors for its evolving requirements; Microsoft had not immediately commented.",
+              "Oracle maintained that demand for its AI infrastructure remained strong, including demand for earlier-generation graphics processing units."
+            ],
+            "implications": "For sovereign cloud and hardware-as-a-service services, this report highlights technology obsolescence and workload suitability as commercial risks. A long-term capacity agreement may become less valuable when the underlying processors, networking or service capabilities no longer match customer requirements. Investment cases should consider technology refresh options, performance benchmarks, exit terms and the ability to move workloads between suitable environments. Decisions about capacity should consider the full service life, including expected demand and migration costs. These are general planning implications, not evidence of a problem in Canadian government services.",
+            "watch": "Watch for confirmation from Microsoft, Oracle's next financial disclosures and any published detail on contract expiry, capacity reduction or technology refresh arrangements.",
+            "caveat": "The central claim comes from Bloomberg reporting relayed by Reuters and relies on unnamed sources. Oracle's position is a company statement. Microsoft did not immediately comment in the cited account. Contract details were not publicly disclosed."
+          }
+        }
+      ],
+      "radar": [],
+      "deepRead": {
+        "title": "Canada's Responsible Data Centre Development Principles",
+        "source": "Innovation, Science and Economic Development Canada",
+        "published": "2026-09-03",
+        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-launches-canadas-responsible-data-centre-development-principles.html",
+        "verifiedAt": "2026-11-07T09:58:42.830Z",
+        "detail": "Earlier Canadian policy context: electricity, water, community benefits and transparency are relevant to the development of sovereign computing infrastructure."
+      },
+      "question": "How should long-term sovereign capacity commitments account for both the time needed to commission facilities and the risk that computing technology becomes unsuitable before a contract ends?",
+      "signals": [
+        {
+          "title": "Power strategy and site control",
+          "detail": "Track confirmed utility arrangements and permitting milestones for announced data centre developments."
+        },
+        {
+          "title": "Compute refresh and exit rights",
+          "detail": "Track how large buyers adjust older GPU capacity contracts as workloads evolve."
+        }
+      ],
+      "editorialNote": "Research checked November 7, 2026. Reuters reports the Google-Crusoe acquisition based on company announcements; the Microsoft-Oracle account originates with Bloomberg and includes Oracle's response. Strategic assessments are analysis. The live Quebec French Translator skill was unavailable; the embedded user-selected instructions were used. AI automates research, writing, translation and publication. No Government of Canada endorsement is implied.",
+      "readMinutes": 5,
+      "day": "Saturday",
+      "coverage": "Developments from November 6",
+      "translations": {
+        "fr": {
+          "id": "2026-11-07",
+          "date": "2026-11-07",
+          "coverageStart": "2026-11-06T09:00:00.000Z",
+          "coverageEnd": "2026-11-07T09:58:42.830Z",
+          "generatedAt": "2026-11-07T09:58:42.830Z",
+          "headline": "La propriété des infrastructures et le renouvellement technologique influencent les choix de capacité infonuagique",
+          "deck": "L’acquisition d’un site au Wyoming par Google et les informations sur la réduction de capacité louée par Microsoft à Oracle offrent deux leçons pour l’hébergement souverain : vérifier la préparation des infrastructures et prévoir l’évolution des besoins.",
+          "bigPicture": [
+            {
+              "title": "Le développement d’un site comporte plusieurs dépendances",
+              "detail": "L’acquisition par Google suit des travaux préparatoires concernant le terrain, les autorisations et l’électricité, illustrant les étapes entre l’investissement annoncé et la capacité utilisable."
+            },
+            {
+              "title": "L’adéquation technologique évolue pendant le contrat",
+              "detail": "Les changements de capacité rapportés entre Microsoft et Oracle soulignent l’importance des options de renouvellement et de critères d’acceptation clairs."
+            }
+          ],
+          "reads": [
+            {
+              "url": "https://www.reuters.com/business/google-acquires-wyoming-data-center-site-ai-infrastructure-firm-crusoe-2026-11-06/",
+              "published": "2026-11-06",
+              "priority": "Strategic",
+              "verifiedAt": "2026-11-07T09:58:42.830Z",
+              "title": "Google acquiert le site d’un centre de données de Crusoe au Wyoming",
+              "source": "Reuters",
+              "category": "Propriété des infrastructures et électricité",
+              "what": "Crusoe indique que Google a acquis son site du sud-est du Wyoming le 6 novembre, après l’annonce d’un investissement de 17 milliards de dollars américains. Crusoe avait assuré le choix du site, les autorisations et la stratégie énergétique durant la préparation.",
+              "why": "Analyse : la propriété du terrain, l’approvisionnement en électricité et les permis constituent des jalons distincts de la livraison de capacité informatique utilisable.",
+              "takeaway": "Suivre séparément la maîtrise du site, l’électricité disponible, les autorisations et la mise en service dans les plans de capacité souveraine.",
+              "executiveSummary": {
+                "overview": "Le 6 novembre, Reuters a rapporté que Google avait acquis de Crusoe, un promoteur d’infrastructures d’intelligence artificielle, un terrain destiné à un centre de données dans le sud-est du Wyoming. L’annonce suit celle du 5 novembre concernant un investissement prévu de 17 milliards de dollars américains pour le premier centre de données de Google dans cet État. Crusoe indique avoir terminé son travail de préparation du projet, notamment le choix du site, les autorisations gouvernementales et la stratégie d’approvisionnement en électricité. Les modalités financières de la transaction n’ont pas été divulguées. Le campus avait initialement été développé par Crusoe et Tallgrass Energy. Google a nommé Tallgrass Energy, Black Hills Energy, American Electric Power et Related Digital parmi ses partenaires. Le reportage ne confirme aucune date de mise en service ni capacité opérationnelle définitive.",
+                "keyPoints": [
+                  "Crusoe a annoncé le transfert de son site du sud-est du Wyoming à Google le 6 novembre, au lendemain de l’annonce d’un projet de 17 milliards de dollars américains.",
+                  "Selon Crusoe, ses travaux préparatoires comprenaient le choix du site, les autorisations gouvernementales et la stratégie énergétique; le prix de vente n’a pas été divulgué.",
+                  "Google a nommé plusieurs partenaires énergétiques et immobiliers, ce qui illustre les dépendances des centres de données au-delà du matériel informatique."
+                ],
+                "implications": "Pour la planification de la capacité des services infonuagiques souverains et privés, cette transaction montre qu’un projet d’infrastructure peut changer de propriétaire après les travaux préparatoires. La maîtrise du terrain, les permis et l’approvisionnement en électricité constituent des jalons distincts de la construction et de l’acceptation du service. Les équipes d’approvisionnement et d’investissement peuvent demander des preuves pour chaque dépendance, attribuer les responsabilités relatives aux travaux inachevés et distinguer les dépenses annoncées de la capacité opérationnelle. Cette transaction commerciale américaine sert de comparaison et ne crée aucune obligation d’approvisionnement canadienne.",
+                "watch": "Surveiller la confirmation de l’échéancier de construction, les ententes d’approvisionnement en électricité, les jalons de mise en service et les détails publics sur la capacité opérationnelle. Vérifier si l’ampleur et la configuration énergétique prévues sont confirmées.",
+                "caveat": "Reuters est la source directe du reportage et cite l’annonce de Crusoe ainsi que la déclaration précédente de Google. Les modalités financières et les caractéristiques définitives de l’installation n’ont pas été divulguées. Les implications pour le portefeuille sont des analyses sans lien établi avec le gouvernement fédéral canadien."
+              }
+            },
+            {
+              "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
+              "published": "2026-11-06",
+              "priority": "Strategic",
+              "verifiedAt": "2026-11-07T09:58:42.830Z",
+              "title": "Microsoft réduirait sa location de capacité d’IA auprès d’Oracle",
+              "source": "Reuters / Bloomberg",
+              "category": "Économie infonuagique et cycle de vie technologique",
+              "what": "Reuters a repris un reportage de Bloomberg selon lequel Microsoft réduirait la capacité informatique d’IA louée à Oracle, les anciens processeurs Nvidia ne répondant plus à ses besoins. Oracle affirme que la demande demeure forte.",
+              "why": "Analyse : l’adéquation technologique et les possibilités de renouvellement peuvent modifier la valeur des contrats informatiques pluriannuels.",
+              "takeaway": "Prévoir des options de renouvellement, des mesures de rendement et des conditions de sortie pour les engagements de calcul souverain à long terme.",
+              "executiveSummary": {
+                "overview": "Le 6 novembre, Reuters a repris un reportage de Bloomberg selon lequel Microsoft réduisait progressivement une entente de location de capacité informatique d’intelligence artificielle auprès d’Oracle. Bloomberg cite des personnes connaissant le dossier et indique que Microsoft désactivait certaines ressources depuis plusieurs mois et avait décidé de ne pas renouveler l’entente, car les infrastructures dotées d’une génération antérieure de processeurs graphiques Nvidia ne répondaient plus à l’évolution de ses besoins. Oracle affirme que la demande pour ses infrastructures d’IA, y compris les processeurs graphiques de générations précédentes, demeure forte. Selon le reportage, Microsoft n’avait pas immédiatement formulé de commentaire. L’entente remonte à 2023 et appuyait le service Bing intégrant l’IA. Le reportage ne précise ni les modalités financières, ni la capacité restante, ni les dates exactes d’échéance contractuelle. Il s’agit d’un développement distinct des informations de la veille concernant la surveillance de fournisseurs spécialisés par Microsoft.",
+                "keyPoints": [
+                  "Selon Bloomberg, repris par Reuters le 6 novembre, Microsoft réduirait la capacité informatique d’IA louée à Oracle dans le cadre d’une entente annoncée en 2023.",
+                  "Le reportage attribue en partie cette décision à l’adéquation de processeurs Nvidia de génération antérieure avec les besoins changeants de Microsoft, qui n’avait pas immédiatement commenté.",
+                  "Oracle soutient que la demande pour ses infrastructures d’IA demeure forte, y compris pour les unités de traitement graphique de générations précédentes."
+                ],
+                "implications": "Pour les services infonuagiques souverains et les offres de matériel-service, ce reportage souligne les risques commerciaux liés au vieillissement technologique et à l’adéquation aux charges de travail. Une entente de capacité à long terme peut perdre de sa valeur lorsque les processeurs, les réseaux ou les fonctions de service ne répondent plus aux besoins des clients. Les dossiers d’investissement devraient prévoir des options de renouvellement technologique, des mesures de rendement, des conditions de sortie et la possibilité de déplacer les charges de travail. Les décisions de capacité devraient tenir compte du cycle de vie complet, notamment de la demande prévue et des coûts de migration. Il s’agit de considérations générales de planification sans problème établi dans les services gouvernementaux canadiens.",
+                "watch": "Surveiller une éventuelle confirmation de Microsoft, les prochaines déclarations financières d’Oracle et les renseignements publiés sur l’échéance du contrat, la réduction de capacité ou les modalités de renouvellement technologique.",
+                "caveat": "L’affirmation principale provient de Bloomberg, repris par Reuters, et repose sur des sources anonymes. La position d’Oracle est une déclaration de l’entreprise. Microsoft n’avait pas immédiatement commenté et les modalités contractuelles ne sont pas publiques."
+              }
+            }
+          ],
+          "radar": [],
+          "deepRead": {
+            "title": "Principes canadiens pour un développement responsable des centres de données",
+            "source": "Innovation, Sciences et Développement économique Canada",
+            "published": "2026-09-03",
+            "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-launches-canadas-responsible-data-centre-development-principles.html",
+            "verifiedAt": "2026-11-07T09:58:42.830Z",
+            "detail": "Contexte antérieur de la politique canadienne : l’électricité, l’eau, les retombées pour les collectivités et la transparence sont pertinentes pour le développement des infrastructures de calcul souveraines."
+          },
+          "question": "Comment les engagements de capacité souveraine à long terme devraient-ils tenir compte des délais de mise en service et du risque que la technologie informatique ne réponde plus aux besoins avant la fin du contrat ?",
+          "signals": [
+            {
+              "title": "Stratégie énergétique et maîtrise du site",
+              "detail": "Suivre les ententes confirmées avec les services publics et les jalons d’autorisation des centres de données annoncés."
+            },
+            {
+              "title": "Renouvellement des ressources de calcul et droits de sortie",
+              "detail": "Suivre la manière dont les grands acheteurs adaptent leurs contrats de capacité graphique ancienne aux nouveaux besoins."
+            }
+          ],
+          "editorialNote": "Recherche vérifiée le 7 novembre 2026. Reuters rapporte l’acquisition du site de Crusoe par Google à partir des annonces des entreprises; le dossier Microsoft-Oracle provient de Bloomberg et comprend la réaction d’Oracle. Les évaluations stratégiques sont des analyses. Le module externe de traduction en français québécois était inaccessible; les instructions intégrées choisies ont été utilisées. L’intelligence artificielle automatise la recherche, la rédaction, la traduction et la publication. Aucune approbation du gouvernement du Canada n’est sous-entendue.",
+          "readMinutes": 6
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-07T09:58:42.833Z"
+      },
+      "publishedAt": "2026-11-07T09:58:42.833Z"
+    },
+    {
       "id": "2026-11-06",
       "date": "2026-11-06",
       "coverageStart": "2026-11-05T09:59:04.000Z",
@@ -973,207 +1160,6 @@
       "readMinutes": 4,
       "day": "Tuesday",
       "coverage": "2026-11-01T22:00:00Z to 2026-11-03T10:03:52.333Z"
-    },
-    {
-      "id": "2026-11-02",
-      "date": "2026-11-02",
-      "headline": "AWS reports sovereign cloud isolation test as Canadian cyber alerts expose control-plane risks",
-      "deck": "A new AWS account of an operational independence exercise offers a useful test for sovereign hosting assurance. Three previously uncovered Canadian cyber alerts highlight risks in identity, software dependencies and virtualization. No verified new federal sovereign-cloud policy announcement emerged in the overnight search.",
-      "coverageStart": "2026-10-31T10:00:00Z",
-      "coverageEnd": "2026-11-02T10:05:10.788Z",
-      "generatedAt": "2026-11-02T10:05:10.788Z",
-      "bigPicture": [
-        {
-          "title": "Sovereign hosting claims can be tested through controlled isolation",
-          "detail": "On November 1, AWS reported that its European Sovereign Cloud continued operating during an October 24 exercise that disconnected two systems linking it to global AWS infrastructure. Traffic moved to public internet routes. Assessment: resilience claims should be tied to defined failure scenarios, measured outcomes and evidence that customers can inspect."
-        },
-        {
-          "title": "Identity recovery is part of cloud operational sovereignty",
-          "detail": "A Canadian Cyber Centre alert from October 28 describes active help-desk impersonation against Canadian organizations, with real-time interception of conventional multifactor authentication. Assessment: privileged account recovery and help-desk verification are material dependencies for sovereign hosting operations."
-        },
-        {
-          "title": "Security exposure can sit below the named cloud service",
-          "detail": "Canadian Cyber Centre alerts from October 28 flag an exploited Brotli decoder vulnerability and a newly listed exploited VMware vulnerability. Assessment: the inventory and patch evidence needed for reliable hosting extend to embedded libraries, virtualization components and supporting services."
-        }
-      ],
-      "reads": [
-        {
-          "title": "AWS publishes results of a European Sovereign Cloud isolation exercise",
-          "priority": "Strategic",
-          "category": "Sovereign operations and resilience",
-          "source": "AWS Security Blog",
-          "published": "2026-11-01",
-          "url": "https://aws.amazon.com/blogs/security/inside-a-successful-aws-european-sovereign-cloud-exercise-to-demonstrate-independent-operation/",
-          "what": "AWS says that on October 24 it disabled the European Sovereign Cloud's connection to the AWS Global Network backbone and a separate system for limited operational-data transfers. For several hours, workloads continued running and customers retained access, with traffic rerouted over public internet connections. The November 1 report describes the exercise as successful. These results are reported by AWS itself; an independent test report was not identified.",
-          "why": "Assessment: the exercise offers a concrete model for testing operational independence of Canadian-controlled commercial cloud and GC private cloud. Its scope matters: the test did not remove every external network path or demonstrate that a customer's own identity, deployment, monitoring and recovery dependencies would function during a wider disruption. Legal control and foreign-jurisdiction risks also require separate assurance.",
-          "takeaway": "Define a small set of sovereignty resilience tests with observable pass criteria: loss of external management links, local privileged access, deployment and patching, certificate trust, backup restore and incident response. Require documented evidence for each service.",
-          "verifiedAt": "2026-11-02T10:05:10.788Z"
-        },
-        {
-          "title": "Canadian Cyber Centre warns of ongoing help-desk voice phishing targeting Canadian organizations",
-          "priority": "Immediate",
-          "category": "Identity security and operational access",
-          "source": "Canadian Centre for Cyber Security",
-          "published": "2026-10-28",
-          "url": "https://www.cyber.gc.ca/en/alerts-advisories/al26-028-ongoing-help-desk-voice-phishing-campaign-targeting-canadian-organizations",
-          "what": "Alert AL26-028 describes callers posing as internal IT support who direct staff to fraudulent sign-in pages for supposed passkey, multifactor authentication or password changes. The campaign has targeted Canadian legal and financial organizations, with October activity concentrated on the legal sector. Real-time relay can defeat conventional multifactor authentication; reported follow-on actions include registering attacker-controlled authentication methods and accessing Microsoft 365 data.",
-          "why": "Assessment: cloud administrators, service desks and privileged access teams face a relevant identity threat, although the alert does not establish that a GC cloud service has been targeted. An attacker with a valid administrative session could undermine otherwise strong infrastructure controls. The Cyber Centre recommends phishing-resistant authentication and stronger verification for recovery and enrolment.",
-          "takeaway": "Confirm that privileged accounts use phishing-resistant authentication where possible and that help-desk account recovery requires independent verification. Check monitoring for unexpected MFA enrolments, session changes and suspicious privileged activity.",
-          "verifiedAt": "2026-11-02T10:05:10.788Z"
-        },
-        {
-          "title": "Exploited Brotli decoder vulnerability reaches common cloud software dependencies",
-          "priority": "Immediate",
-          "category": "Application and platform security",
-          "source": "Canadian Centre for Cyber Security",
-          "published": "2026-10-28",
-          "url": "https://www.cyber.gc.ca/en/alerts-advisories/al26-027-critical-vulnerability-impacting-google-brotli-cve-2026-111497",
-          "what": "Alert AL26-027 covers CVE-2026-111497, an out-of-bounds write in the Google Brotli decoder that can be triggered remotely without authentication through crafted compressed data in affected applications. CISA added the CVE to its Known Exploited Vulnerabilities catalogue on October 27. The Cyber Centre identifies possible downstream dependencies including Node.js, .NET, Envoy Proxy, Istio and Python Brotli packages, with fixed Brotli versions 1.0.10, 1.1.1 and 1.2.1 for their respective affected branches.",
-          "why": "Assessment: vulnerable compression code may be embedded in applications and network components even when Brotli is absent from a top-level product inventory. Exposure and exploitability depend on the versions and processing paths actually deployed; the alert does not establish compromise of any GC environment.",
-          "takeaway": "Ask platform and application owners to assess software bills of materials and vendor advisories for Brotli dependencies. Prioritize exposed decoders processing untrusted content, verify fixes and document temporary mitigations where patching is delayed.",
-          "verifiedAt": "2026-11-02T10:05:10.788Z"
-        }
-      ],
-      "radar": [
-        {
-          "title": "VMware advisory adds another known-exploited vulnerability",
-          "source": "Canadian Centre for Cyber Security",
-          "published": "2026-07-30",
-          "url": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-763",
-          "detail": "The October 28 update to advisory AV26-763 reports that CISA added CVE-2026-41709 to its exploited-vulnerabilities catalogue. The notice covers VMware products including Cloud Foundation, ESX and vCenter. Confirm actual deployed versions and remediation status before inferring exposure.",
-          "verifiedAt": "2026-11-02T10:05:10.788Z"
-        }
-      ],
-      "deepRead": {
-        "title": "Sovereign failover: Design for digital sovereignty using the AWS European Sovereign Cloud",
-        "source": "AWS Architecture Blog",
-        "published": "2026-01-30",
-        "url": "https://aws.amazon.com/blogs/architecture/sovereign-failover-design-for-digital-sovereignty-using-the-aws-european-sovereign-cloud/",
-        "detail": "This older technical article explains recovery across isolated cloud partitions, including separate identity systems, network connections, replication limits and the extra cost of standby capacity. Read the sections on cross-partition recovery and authentication, then compare the architecture assumptions with a Canadian-controlled service and its backup/recovery arrangements. It is AWS-authored design guidance, not independent assurance.",
-        "verifiedAt": "2026-11-02T10:05:10.788Z"
-      },
-      "question": "Which external dependencies would prevent our sovereign hosting services from being operated, secured or restored during a prolonged loss of connectivity, and how could we demonstrate that through a controlled exercise?",
-      "signals": [
-        {
-          "title": "Sovereignty assurance is moving toward demonstrable operational tests",
-          "detail": "AWS's November 1 report provides a public example of a planned disconnection exercise. Watch for independent validation, detailed test conditions and comparable evidence from other sovereign providers."
-        },
-        {
-          "title": "Identity administration remains a potential single point of failure",
-          "detail": "The Canadian voice-phishing alert shows how account recovery and session controls can be exploited. Watch for verified adoption of phishing-resistant authentication and stronger help-desk recovery controls."
-        },
-        {
-          "title": "Platform assurance increasingly depends on component-level visibility",
-          "detail": "The Brotli and VMware advisories reinforce the need for complete dependency inventories. Watch for reliable software component inventories, patch evidence and timely review of known-exploited vulnerabilities."
-        }
-      ],
-      "editorialNote": "Research conducted November 2, 2026, using English and French official Canadian sources and a November 1 AWS primary account. The reporting period covers the weekend; the October 28 Cyber Centre alerts are older, previously uncovered items selected for immediate operational relevance. AWS's October 24 exercise results are vendor-reported and have not been independently validated here. No new verified Canadian sovereign cloud policy or procurement announcement was identified overnight. Portfolio implications are analytical assessments. The live Quebec French Translator skill was unavailable in this unattended run, so the complete user-selected translator instructions embedded in the existing task were applied directly to the French translation. The translation provider metadata names that selected method and does not imply the external plugin ran. Public sources only. Research, writing and publication are automated using AI; readers should verify consequential details with original sources.",
-      "translations": {
-        "fr": {
-          "id": "2026-11-02",
-          "date": "2026-11-02",
-          "headline": "AWS rend compte d’un essai d’isolement de son nuage souverain, tandis que des alertes canadiennes révèlent des risques pour les systèmes de contrôle",
-          "deck": "Un nouveau compte rendu d’AWS sur un exercice d’indépendance opérationnelle offre une piste concrète pour évaluer l’hébergement souverain. Trois alertes canadiennes de cybersécurité, qui n’avaient pas encore été traitées, soulignent des risques touchant les identités, les dépendances logicielles et la virtualisation. Les recherches effectuées pendant la nuit n’ont révélé aucune nouvelle annonce fédérale vérifiée sur la politique de nuage souverain.",
-          "coverageStart": "2026-10-31T10:00:00Z",
-          "coverageEnd": "2026-11-02T10:05:10.788Z",
-          "generatedAt": "2026-11-02T10:05:10.788Z",
-          "bigPicture": [
-            {
-              "title": "L’indépendance de l’hébergement souverain peut être éprouvée par des exercices d’isolement contrôlé",
-              "detail": "Le 1er novembre, AWS a indiqué que son nuage souverain européen avait continué de fonctionner pendant un exercice réalisé le 24 octobre, au cours duquel deux systèmes le reliant à l’infrastructure mondiale d’AWS avaient été déconnectés. Le trafic a été acheminé par des liaisons Internet publiques. Analyse : les affirmations de résilience devraient être appuyées par des scénarios de défaillance définis, des résultats mesurés et des preuves que les clients peuvent examiner."
-            },
-            {
-              "title": "La récupération des accès fait partie de la souveraineté opérationnelle infonuagique",
-              "detail": "Une alerte du Centre canadien pour la cybersécurité datée du 28 octobre décrit une campagne active d’usurpation de l’identité du soutien technique visant des organisations canadiennes, avec interception en temps réel de l’authentification multifacteur classique. Analyse : la récupération des comptes privilégiés et la vérification des demandes adressées au soutien technique sont des dépendances importantes des opérations d’hébergement souverain."
-            },
-            {
-              "title": "Les risques de sécurité peuvent se trouver dans les composants sous-jacents aux services infonuagiques",
-              "detail": "Des alertes du Centre canadien pour la cybersécurité du 28 octobre signalent une vulnérabilité exploitée du décodeur Brotli et une vulnérabilité VMware nouvellement inscrite parmi les failles exploitées connues. Analyse : les inventaires et les preuves de correction nécessaires à un hébergement fiable doivent couvrir les bibliothèques intégrées, les composants de virtualisation et les services de soutien."
-            }
-          ],
-          "reads": [
-            {
-              "title": "AWS publie les résultats d’un exercice d’isolement de son nuage souverain européen",
-              "priority": "Strategic",
-              "category": "Opérations souveraines et résilience",
-              "source": "Blogue sur la sécurité d’AWS",
-              "published": "2026-11-01",
-              "url": "https://aws.amazon.com/blogs/security/inside-a-successful-aws-european-sovereign-cloud-exercise-to-demonstrate-independent-operation/",
-              "what": "Selon AWS, le 24 octobre, l’entreprise a désactivé la connexion de son nuage souverain européen au réseau dorsal mondial d’AWS ainsi qu’un système distinct servant aux transferts limités de données opérationnelles. Pendant plusieurs heures, les charges de travail ont continué de fonctionner et les clients ont conservé l’accès à leurs données, le trafic étant réacheminé par des connexions Internet publiques. Le compte rendu du 1er novembre présente l’exercice comme une réussite. Ces résultats sont rapportés par AWS elle-même ; aucun rapport d’essai indépendant n’a été trouvé.",
-              "why": "Analyse : l’exercice offre un modèle concret pour mettre à l’épreuve l’indépendance opérationnelle des services infonuagiques commerciaux sous contrôle canadien et du nuage privé du gouvernement du Canada (GC). Sa portée est importante : l’essai n’a pas supprimé toutes les connexions externes et n’a pas démontré que les systèmes d’identité, de déploiement, de surveillance et de reprise propres aux clients fonctionneraient pendant une interruption plus étendue. Le contrôle juridique et les risques liés aux lois étrangères nécessitent également une assurance distincte.",
-              "takeaway": "Définir un petit ensemble d’essais de résilience souveraine assortis de critères de réussite observables : perte des liens de gestion externes, accès privilégié local, déploiement et application des correctifs, confiance accordée aux certificats, restauration des sauvegardes et intervention en cas d’incident. Exiger des preuves documentées pour chaque service.",
-              "verifiedAt": "2026-11-02T10:05:10.788Z"
-            },
-            {
-              "title": "Le Centre canadien pour la cybersécurité signale une campagne continue d’hameçonnage vocal usurpant le soutien technique",
-              "priority": "Immediate",
-              "category": "Sécurité des identités et accès opérationnels",
-              "source": "Centre canadien pour la cybersécurité",
-              "published": "2026-10-28",
-              "url": "https://www.cyber.gc.ca/en/alerts-advisories/al26-028-ongoing-help-desk-voice-phishing-campaign-targeting-canadian-organizations",
-              "what": "L’alerte AL26-028 décrit des personnes qui se font passer pour le soutien informatique interne et dirigent le personnel vers de fausses pages de connexion sous prétexte de modifier une clé d’accès, l’authentification multifacteur (AMF) ou un mot de passe. La campagne a ciblé des organisations canadiennes des secteurs juridique et financier, particulièrement le secteur juridique en octobre. Un relais en temps réel peut contourner l’AMF classique. Parmi les activités signalées après une compromission figurent l’inscription de méthodes d’authentification contrôlées par l’attaquant et l’accès aux données de Microsoft 365.",
-              "why": "Analyse : les administrateurs infonuagiques, les équipes de soutien et les responsables des accès privilégiés sont exposés à une menace pertinente, même si l’alerte ne démontre pas qu’un service infonuagique du GC a été ciblé. Une session administrative valide obtenue par un attaquant pourrait compromettre des contrôles d’infrastructure pourtant solides. Le Centre recommande l’authentification résistante à l’hameçonnage et une vérification renforcée lors de la récupération et de l’inscription des comptes.",
-              "takeaway": "Confirmer que les comptes privilégiés utilisent, dans la mesure du possible, une authentification résistante à l’hameçonnage et que la récupération des comptes par le soutien technique exige une vérification indépendante. Vérifier la surveillance des inscriptions inattendues à l’AMF, des modifications de session et des activités privilégiées suspectes.",
-              "verifiedAt": "2026-11-02T10:05:10.788Z"
-            },
-            {
-              "title": "Une vulnérabilité exploitée du décodeur Brotli touche des dépendances logicielles courantes dans le nuage",
-              "priority": "Immediate",
-              "category": "Sécurité des applications et des plateformes",
-              "source": "Centre canadien pour la cybersécurité",
-              "published": "2026-10-28",
-              "url": "https://www.cyber.gc.ca/en/alerts-advisories/al26-027-critical-vulnerability-impacting-google-brotli-cve-2026-111497",
-              "what": "L’alerte AL26-027 porte sur CVE-2026-111497, une écriture hors limites dans le décodeur Google Brotli qui peut être déclenchée à distance, sans authentification, au moyen de données compressées spécialement conçues dans les applications touchées. La Cybersecurity and Infrastructure Security Agency (CISA) a ajouté cette vulnérabilité à son catalogue des vulnérabilités exploitées connues (KEV) le 27 octobre. Le Centre signale notamment des dépendances possibles dans Node.js, .NET, Envoy Proxy, Istio et les modules Python Brotli. Les versions corrigées sont 1.0.10, 1.1.1 et 1.2.1 pour les branches touchées correspondantes.",
-              "why": "Analyse : le code de compression vulnérable peut être intégré aux applications et aux composants réseau, même si Brotli ne figure pas dans l’inventaire des produits principaux. L’exposition et la possibilité d’exploitation dépendent des versions et des chemins de traitement réellement déployés. L’alerte ne démontre aucune compromission d’un environnement du GC.",
-              "takeaway": "Demander aux responsables des plateformes et des applications d’examiner les nomenclatures logicielles et les avis des fournisseurs pour repérer les dépendances à Brotli. Accorder la priorité aux décodeurs exposés qui traitent du contenu non fiable, vérifier les correctifs et documenter les mesures temporaires lorsque l’application des mises à jour est retardée.",
-              "verifiedAt": "2026-11-02T10:05:10.788Z"
-            }
-          ],
-          "radar": [
-            {
-              "title": "Un bulletin VMware ajoute une autre vulnérabilité exploitée connue",
-              "source": "Centre canadien pour la cybersécurité",
-              "published": "2026-07-30",
-              "url": "https://www.cyber.gc.ca/en/alerts-advisories/vmware-security-advisory-av26-763",
-              "detail": "La mise à jour du 28 octobre du bulletin AV26-763 indique que la CISA a ajouté CVE-2026-41709 à son catalogue des vulnérabilités exploitées connues. L’avis vise notamment VMware Cloud Foundation, ESX et vCenter. Il faut confirmer les versions réellement déployées et l’état des correctifs avant de conclure à une exposition.",
-              "verifiedAt": "2026-11-02T10:05:10.788Z"
-            }
-          ],
-          "deepRead": {
-            "title": "Basculement souverain : concevoir la souveraineté numérique avec le nuage souverain européen d’AWS",
-            "source": "Blogue d’architecture d’AWS",
-            "published": "2026-01-30",
-            "url": "https://aws.amazon.com/blogs/architecture/sovereign-failover-design-for-digital-sovereignty-using-the-aws-european-sovereign-cloud/",
-            "detail": "Cet article technique plus ancien explique la reprise entre des environnements infonuagiques isolés, notamment les systèmes d’identité distincts, les connexions réseau, les limites de réplication et les coûts supplémentaires d’une capacité de relève. Lire les sections sur la reprise entre environnements isolés et l’authentification, puis comparer les hypothèses d’architecture à celles d’un service sous contrôle canadien et de ses mécanismes de sauvegarde et de reprise. Il s’agit de conseils de conception rédigés par AWS, sans assurance indépendante.",
-            "verifiedAt": "2026-11-02T10:05:10.788Z"
-          },
-          "question": "Quelles dépendances externes empêcheraient l’exploitation, la sécurisation ou la restauration de nos services d’hébergement souverain pendant une perte de connectivité prolongée, et comment pourrions-nous le démontrer par un exercice contrôlé ?",
-          "signals": [
-            {
-              "title": "L’assurance de la souveraineté s’appuie davantage sur des essais opérationnels démontrables",
-              "detail": "Le compte rendu d’AWS du 1er novembre présente un exemple public d’exercice de déconnexion planifié. Surveiller les validations indépendantes, les conditions détaillées des essais et les preuves comparables provenant d’autres fournisseurs souverains."
-            },
-            {
-              "title": "L’administration des identités demeure un point de défaillance possible",
-              "detail": "L’alerte canadienne sur l’hameçonnage vocal montre comment la récupération des comptes et les contrôles de session peuvent être exploités. Surveiller l’adoption vérifiée de l’authentification résistante à l’hameçonnage et le renforcement des contrôles de récupération par le soutien technique."
-            },
-            {
-              "title": "L’assurance des plateformes dépend de plus en plus de la visibilité sur leurs composants",
-              "detail": "Les bulletins sur Brotli et VMware soulignent la nécessité d’inventaires complets des dépendances. Surveiller la fiabilité des inventaires de composants logiciels, les preuves de correction et l’examen rapide des vulnérabilités exploitées connues."
-            }
-          ],
-          "editorialNote": "Recherche effectuée le 2 novembre 2026 à partir de sources gouvernementales canadiennes officielles en anglais et en français et d’un compte rendu d’AWS publié le 1er novembre. La période de recherche couvre la fin de semaine ; les alertes du Centre canadien pour la cybersécurité du 28 octobre sont plus anciennes, mais n’avaient pas encore été traitées et présentent une pertinence opérationnelle immédiate. Les résultats de l’exercice d’AWS du 24 octobre proviennent du fournisseur et n’ont pas fait l’objet d’une validation indépendante dans le cadre de cette recherche. Aucune nouvelle annonce canadienne vérifiée concernant les politiques ou les approvisionnements en nuage souverain n’a été relevée pendant la nuit. Les implications pour le portefeuille sont des analyses. Les instructions du module externe Quebec French Translator n’étaient pas accessibles directement pendant cette exécution automatisée ; la traduction française a donc été produite selon la copie intégrale des instructions du module sélectionné, intégrée à la tâche existante. Les métadonnées du fournisseur de traduction désignent cette méthode et ne signifient pas que le module externe a été exécuté. Seules des sources publiques ont été utilisées. La recherche, la rédaction et la publication sont automatisées au moyen de l’intelligence artificielle ; les lecteurs devraient vérifier les renseignements importants auprès des sources originales.",
-          "readMinutes": 6
-        }
-      },
-      "translation": {
-        "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-02T10:05:10.788Z"
-      },
-      "publishedAt": "2026-11-02T10:05:13.278Z",
-      "readMinutes": 4,
-      "day": "Monday",
-      "coverage": "2026-10-31T10:00:00Z to 2026-11-02T10:05:10.788Z"
     }
   ]
 }
