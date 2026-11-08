@@ -1,6 +1,49 @@
 {
   "editions": [
     {
+      "id": "2026-11-08",
+      "date": "2026-11-08",
+      "coverageStart": "2026-11-07T10:00:00.000Z",
+      "coverageEnd": "2026-11-08T10:57:45.000Z",
+      "generatedAt": "2026-11-08T10:57:45.000Z",
+      "headline": "No material new sovereign cloud developments identified today",
+      "deck": "The November 8 research review found no sufficiently verified, consequential developments warranting a new Must Read story. The daily check is complete, and the latest substantive coverage remains available in the archive.",
+      "bigPicture": [],
+      "reads": [],
+      "radar": [],
+      "question": "Which emerging dependency in sovereign hosting capacity, security authorization or recovery readiness would most benefit from clearer evidence over the next 12 months?",
+      "signals": [],
+      "editorialNote": "November 8, 2026 daily no-news edition. A fresh review of public English- and French-language sources was completed for sovereign/private cloud, data centre infrastructure, sovereignty, security, classified hosting, backup and recovery, and cloud economics. No sufficiently verified material new developments met the editorial threshold for a new article. This edition intentionally contains no Must Read or Radar stories; previously reported developments remain in their original dated editions. The live Quebec French Translator skill was unavailable; the embedded user-selected Quebec French instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
+      "readMinutes": 1,
+      "day": "Sunday",
+      "coverage": "November 7–8, 2026",
+      "translations": {
+        "fr": {
+          "id": "2026-11-08",
+          "date": "2026-11-08",
+          "coverageStart": "2026-11-07T10:00:00.000Z",
+          "coverageEnd": "2026-11-08T10:57:45.000Z",
+          "generatedAt": "2026-11-08T10:57:45.000Z",
+          "headline": "Aucun nouveau développement majeur relevé aujourd’hui dans le domaine infonuagique souverain",
+          "deck": "La veille du 8 novembre n’a relevé aucun développement suffisamment vérifié et important pour justifier un nouvel article à lire. La vérification quotidienne est terminée et les dernières nouvelles de fond demeurent accessibles dans les éditions précédentes.",
+          "bigPicture": [],
+          "reads": [],
+          "radar": [],
+          "question": "Quelle dépendance émergente liée à la capacité d’hébergement souverain, à l’autorisation de sécurité ou à la préparation à la reprise bénéficierait le plus de preuves plus claires au cours des 12 prochains mois ?",
+          "signals": [],
+          "editorialNote": "Édition du 8 novembre 2026 sans nouvelle majeure. Une nouvelle revue des sources publiques en anglais et en français a été réalisée sur les nuages souverains et privés, les infrastructures des centres de données, la souveraineté, la sécurité, l’hébergement classifié, la sauvegarde et la reprise ainsi que l’économie infonuagique. Aucun développement nouveau suffisamment vérifié et important ne répondait au seuil éditorial pour un nouvel article. Cette édition ne contient volontairement aucun article à lire ni sujet à surveiller; les développements déjà rapportés demeurent dans leurs éditions datées d’origine. Le module de traduction en français québécois n’était pas accessible; ses instructions intégrées choisies par l’utilisateur ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’intelligence artificielle. Aucune approbation du gouvernement du Canada n’est sous-entendue.",
+          "readMinutes": 1,
+          "day": "Dimanche",
+          "coverage": "7 et 8 novembre 2026"
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-08T10:57:45.003Z"
+      },
+      "publishedAt": "2026-11-08T10:57:45.003Z"
+    },
+    {
       "id": "2026-11-07",
       "date": "2026-11-07",
       "coverageStart": "2026-11-06T09:00:00.000Z",
