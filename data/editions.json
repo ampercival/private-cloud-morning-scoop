@@ -1,6 +1,49 @@
 {
   "editions": [
     {
+      "id": "2026-11-11",
+      "date": "2026-11-11",
+      "coverageStart": "2026-11-10T10:00:00.000Z",
+      "coverageEnd": "2026-11-11T09:58:59.571Z",
+      "generatedAt": "2026-11-11T09:58:59.571Z",
+      "headline": "No material new sovereign cloud developments identified today",
+      "deck": "The November 11 public-source review found no sufficiently verified new development warranting a Must Read article. The daily review is complete, and recent substantive coverage remains available in the five-day archive.",
+      "bigPicture": [],
+      "reads": [],
+      "radar": [],
+      "question": "Which evidence of sovereign control, recovery readiness and available capacity should be mandatory before a hosting service is offered to partners?",
+      "signals": [],
+      "editorialNote": "Daily no-news edition for November 11, 2026. Fresh public-source searches covered English and French Canadian government material, international reporting, sovereign/private cloud, secure hosting, recovery, data centre power and capacity, and cloud economics. No sufficiently verified new development met the editorial threshold. Previously reported news has not been repeated. The original research and live Quebec French Translator skills were not exposed by the available skill list; the embedded user-selected Quebec French translation instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
+      "readMinutes": 1,
+      "day": "Wednesday",
+      "coverage": "November 10–11, 2026",
+      "translations": {
+        "fr": {
+          "id": "2026-11-11",
+          "date": "2026-11-11",
+          "coverageStart": "2026-11-10T10:00:00.000Z",
+          "coverageEnd": "2026-11-11T09:58:59.571Z",
+          "generatedAt": "2026-11-11T09:58:59.571Z",
+          "headline": "Aucun nouveau développement majeur relevé aujourd’hui dans le domaine infonuagique souverain",
+          "deck": "La revue des sources publiques du 11 novembre n’a relevé aucun nouveau développement suffisamment vérifié pour justifier un article à lire. La veille quotidienne est terminée et les nouvelles de fond récentes demeurent accessibles dans les cinq dernières éditions.",
+          "bigPicture": [],
+          "reads": [],
+          "radar": [],
+          "question": "Quelles preuves de contrôle souverain, de préparation à la reprise et de capacité disponible devrait-on exiger avant d’offrir un service d’hébergement aux partenaires ?",
+          "signals": [],
+          "editorialNote": "Édition du 11 novembre 2026 sans nouvelle majeure. De nouvelles recherches ont été effectuées dans des sources publiques gouvernementales canadiennes en français et en anglais et dans des médias internationaux. La veille portait sur les nuages souverains et privés, l’hébergement sécurisé, la reprise, l’alimentation électrique et la capacité des centres de données ainsi que l’économie infonuagique. Aucun nouveau développement suffisamment vérifié ne répondait au seuil éditorial. Les nouvelles déjà rapportées n’ont pas été reprises. Les modules de recherche d’origine et de traduction en français québécois n’étaient pas accessibles dans la liste des compétences disponibles; les instructions intégrées choisies par l’utilisateur ont été appliquées pour la traduction. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’intelligence artificielle. Aucune approbation du gouvernement du Canada n’est sous-entendue.",
+          "readMinutes": 1,
+          "day": "Mercredi",
+          "coverage": "10 et 11 novembre 2026"
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-11T09:58:59.574Z"
+      },
+      "publishedAt": "2026-11-11T09:58:59.574Z"
+    },
+    {
       "id": "2026-11-10",
       "date": "2026-11-10",
       "coverageStart": "2026-11-09T10:00:00.000Z",
@@ -527,193 +570,6 @@
         "translatedAt": "2026-11-07T09:58:42.833Z"
       },
       "publishedAt": "2026-11-07T09:58:42.833Z"
-    },
-    {
-      "id": "2026-11-06",
-      "date": "2026-11-06",
-      "coverageStart": "2026-11-05T09:59:04.000Z",
-      "coverageEnd": "2026-11-06T11:23:32.038Z",
-      "generatedAt": "2026-11-06T11:23:32.038Z",
-      "headline": "Sovereign hosting capacity depends on utilities and supplier delivery",
-      "deck": "An Australian data centre inquiry examines cumulative infrastructure demands while reports of closer Microsoft oversight highlight risks to contracted computing capacity.",
-      "bigPicture": [
-        {
-          "title": "Physical infrastructure determines delivery",
-          "detail": "New South Wales parliamentary findings highlight electricity, water and planning constraints affecting multiple data centre developments."
-        },
-        {
-          "title": "Supplier assurances require acceptance evidence",
-          "detail": "Reported scrutiny of AI data centre projects illustrates why signed contracts and forecasts require verified delivery milestones."
-        }
-      ],
-      "reads": [
-        {
-          "published": "2026-11-05",
-          "priority": "Strategic",
-          "url": "https://www.parliament.nsw.gov.au/parliamentary-business/committees/inquiry-details?committeeInquiryId=3169",
-          "verifiedAt": "2026-11-06T11:23:32.038Z",
-          "title": "Australian inquiry urges coordinated planning for data centres",
-          "source": "Parliament of New South Wales",
-          "category": "Infrastructure planning and sovereign capacity",
-          "what": "A New South Wales parliamentary committee tabled its final data centres report November 5. Reuters reported concerns about cumulative electricity, water and infrastructure impacts and recommendations for coordinated planning.",
-          "why": "Assessment: regional utility constraints can undermine data centre project timelines and hosting capacity forecasts.",
-          "takeaway": "Require evidence of firm electricity, cooling, permits and commissioning timelines before depending on proposed sovereign hosting capacity.",
-          "executiveSummary": {
-            "overview": "The Public Accountability and Works Committee of the New South Wales Parliament tabled its final report on data centres on November 5, 2026. The official parliamentary inquiry record shows an inquiry launched in January, public hearings through July and a government response due February 5, 2027. Reuters reported that the committee identified shortcomings in how data centre development proposals are assessed for cumulative impacts on electricity demand, water supply and existing infrastructure. It recommended greater coordination and a comprehensive state strategy. A proposal to halt developments through a moratorium was not adopted. These are findings and recommendations of a parliamentary inquiry, rather than changes already enacted in law.",
-            "keyPoints": [
-              "The official parliamentary record confirms that the final report was tabled on November 5, 2026, with a government response scheduled for February 2027.",
-              "The inquiry examined the environmental and infrastructure requirements of data centres and the aggregate effects of multiple proposed facilities.",
-              "Reuters reported recommendations for coordinated planning and confirmed that the committee did not endorse a general moratorium on development."
-            ],
-            "implications": "Sovereign and private cloud capacity planning should distinguish announced facilities from capacity backed by firm electricity, cooling, network, permits and commissioning evidence. Multiple planned data centres can compete for the same regional supplies, potentially invalidating delivery assumptions. Procurement and investment assessments can require a practical timeline for each enabling dependency and identify who bears the cost of delay. The Australian report is a useful comparator for Canada, without creating a Canadian legal obligation.",
-            "watch": "Monitor the New South Wales government's February response, published regulatory changes and evidence that future developments have secured their needed utilities.",
-            "caveat": "The New South Wales Parliament is the primary source for inquiry dates and the report. Findings and the absence of a moratorium recommendation are based on Reuters reporting. This account does not claim any Australian recommendations are already binding."
-          }
-        },
-        {
-          "published": "2026-11-05",
-          "priority": "Strategic",
-          "url": "https://www.reuters.com/business/microsoft-tightens-oversight-neocloud-data-center-projects-bloomberg-news-2026-11-05/",
-          "verifiedAt": "2026-11-06T11:23:32.038Z",
-          "title": "Microsoft reportedly tightens oversight of specialist AI data centres",
-          "source": "Reuters / Bloomberg",
-          "category": "Supplier delivery and cloud economics",
-          "what": "Reuters relayed Bloomberg reporting that Microsoft increased oversight of selected data centre projects involving Nebius, IREN and Nscale. Separate Reuters coverage describes delays to certain IREN deliveries.",
-          "why": "Assessment: contracted computing capacity depends on physical delivery, integration, acceptance and supplier performance.",
-          "takeaway": "Set delivery commitments around independently demonstrated usable capacity, including power, networks, security and acceptance.",
-          "executiveSummary": {
-            "overview": "Reuters reported on November 5 that Microsoft had increased oversight of selected artificial intelligence data centre developments involving the specialist providers Nebius, IREN and Nscale. The underlying report originated with Bloomberg and cited people familiar with the matter. It described greater attention to projects amid concerns about delivery timelines, costs and operational challenges, while providing limited detail about the actual oversight procedures. Reuters did not report that Microsoft cancelled the identified projects. Separately, Reuters reported that IREN delayed some infrastructure deliveries linked to Microsoft following network-design changes and supplier timing issues. The company said that the delays would not create contractual financial penalties. These developments show that agreements for computing capacity must still pass through design, construction, integration and acceptance before becoming usable services.",
-            "keyPoints": [
-              "Bloomberg, as reported by Reuters, described closer Microsoft oversight of selected projects involving Nebius, IREN and Nscale, citing people familiar with the arrangements.",
-              "The news reports did not establish project cancellations or provide the complete terms of revised oversight arrangements.",
-              "Separate Reuters reporting said certain IREN infrastructure deliveries for Microsoft were delayed following customer-requested network changes and supplier timing issues."
-            ],
-            "implications": "Government buyers of hardware-as-a-service and sovereign computing should define the supplier's obligation in terms of tested, usable capacity at specified dates. Contracts can identify firm delivery windows, power and network prerequisites, security acceptance, service performance and recovery readiness. They should also allocate responsibility for design changes, late component delivery and delays in commissioning. Capacity plans should use evidence of completed acceptance when forecasting workload migrations and expected savings. These are portfolio considerations inferred from commercial reports; they do not establish that any Canadian federal provider has encountered the same problem.",
-            "watch": "Track revised project schedules, actual commissioning, verified network readiness, financing milestones and any public contract changes or remedies.",
-            "caveat": "The report of tightened oversight originated with Bloomberg and was repeated by Reuters, partly using anonymous sources. The IREN delay is separately reported by Reuters. Neither report confirms a specific Government of Canada hosting issue."
-          }
-        }
-      ],
-      "radar": [],
-      "deepRead": {
-        "title": "Canada's Responsible Data Centre Development Principles",
-        "source": "Innovation, Science and Economic Development Canada",
-        "published": "2026-09-03",
-        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-launches-canadas-responsible-data-centre-development-principles.html",
-        "verifiedAt": "2026-11-06T11:23:32.038Z",
-        "detail": "Earlier Canadian policy context covering electricity, water, local benefits, transparency and the strategic value of data centre projects."
-      },
-      "question": "What evidence should be required before proposed sovereign hosting capacity is considered approved, powered, financed and ready to accept workloads?",
-      "signals": [
-        {
-          "title": "Regional infrastructure limits",
-          "detail": "Monitor responses to data centre demand on shared regional resources."
-        },
-        {
-          "title": "Supplier readiness milestones",
-          "detail": "Monitor evidence that proposed computing capacity has been commissioned and accepted."
-        }
-      ],
-      "editorialNote": "Sources checked November 6, 2026. The New South Wales parliamentary record provides the inquiry dates and report; Reuters reports its findings. Microsoft oversight reporting originates with Bloomberg and was relayed by Reuters, with IREN delays separately reported. Implications are analytical. Translation used the user-selected Quebec French Translator's embedded instructions. Research, writing, translation and publication use AI automation and imply no Government of Canada endorsement.",
-      "readMinutes": 5,
-      "day": "Friday",
-      "coverage": "Developments of November 5, 2026",
-      "translations": {
-        "fr": {
-          "id": "2026-11-06",
-          "date": "2026-11-06",
-          "coverageStart": "2026-11-05T09:59:04.000Z",
-          "coverageEnd": "2026-11-06T11:23:32.038Z",
-          "generatedAt": "2026-11-06T11:23:32.038Z",
-          "headline": "La capacité d’hébergement souverain dépend des infrastructures et des livraisons des fournisseurs",
-          "deck": "Une enquête australienne sur les centres de données examine les besoins cumulatifs en infrastructures. Des reportages sur une surveillance accrue de Microsoft soulignent les risques associés à la capacité informatique sous contrat.",
-          "bigPicture": [
-            {
-              "title": "Les infrastructures physiques déterminent les livraisons",
-              "detail": "Les constats parlementaires de la Nouvelle-Galles du Sud soulignent les contraintes d’électricité, d’eau et de planification qui touchent plusieurs projets."
-            },
-            {
-              "title": "Les garanties des fournisseurs exigent des preuves d’acceptation",
-              "detail": "La surveillance rapportée de projets de centres de données d’IA montre pourquoi les contrats et les prévisions doivent reposer sur des jalons de livraison vérifiables."
-            }
-          ],
-          "reads": [
-            {
-              "published": "2026-11-05",
-              "priority": "Strategic",
-              "url": "https://www.parliament.nsw.gov.au/parliamentary-business/committees/inquiry-details?committeeInquiryId=3169",
-              "verifiedAt": "2026-11-06T11:23:32.038Z",
-              "title": "Une enquête australienne préconise une planification coordonnée des centres de données",
-              "source": "Parlement de la Nouvelle-Galles du Sud",
-              "category": "Planification des infrastructures et capacité souveraine",
-              "what": "Un comité parlementaire de la Nouvelle-Galles du Sud a déposé son rapport final sur les centres de données le 5 novembre. Reuters relève des préoccupations concernant les effets cumulatifs sur l’électricité, l’eau et les infrastructures et des recommandations de planification coordonnée.",
-              "why": "Analyse : les contraintes régionales des services publics peuvent compromettre les échéanciers des centres de données et les prévisions de capacité.",
-              "takeaway": "Exiger des preuves d’électricité disponible, de refroidissement, de permis et de dates de mise en service avant de compter sur la capacité souveraine projetée.",
-              "executiveSummary": {
-                "overview": "Le comité de la responsabilité publique et des travaux du Parlement de la Nouvelle-Galles du Sud a déposé son rapport final sur les centres de données le 5 novembre 2026. Le dossier parlementaire officiel fait état d’une enquête lancée en janvier, d’audiences publiques jusqu’en juillet et d’une réponse gouvernementale attendue le 5 février 2027. Selon Reuters, le comité a relevé des lacunes dans l’évaluation des effets cumulatifs des projets de centres de données sur la demande d’électricité, l’approvisionnement en eau et les infrastructures existantes. Il recommande une meilleure coordination et une stratégie globale pour l’État. Une proposition de moratoire sur les nouveaux projets n’a pas été retenue. Il s’agit de constats et de recommandations issus d’une enquête parlementaire, et non de changements législatifs déjà en vigueur.",
-                "keyPoints": [
-                  "Le dossier parlementaire officiel confirme le dépôt du rapport final le 5 novembre 2026 et prévoit une réponse gouvernementale en février 2027.",
-                  "L’enquête a examiné les besoins environnementaux et infrastructurels des centres de données ainsi que les effets combinés de plusieurs installations projetées.",
-                  "Reuters fait état de recommandations de planification coordonnée et confirme que le comité n’a pas retenu de moratoire général sur les projets."
-                ],
-                "implications": "La planification de la capacité des nuages souverains et privés devrait distinguer les installations annoncées de la capacité appuyée par des preuves fermes d’alimentation électrique, de refroidissement, de réseau, de permis et de mise en service. Plusieurs centres de données projetés peuvent se disputer les mêmes ressources régionales et rendre irréalistes certains échéanciers. Les évaluations d’approvisionnement et d’investissement peuvent exiger un calendrier des dépendances essentielles et préciser qui assume le coût des retards. Le rapport australien offre un point de comparaison utile pour le Canada, sans créer d’obligation juridique canadienne.",
-                "watch": "Surveiller la réponse du gouvernement de la Nouvelle-Galles du Sud en février, les changements réglementaires publiés et les preuves d’approvisionnement des nouveaux projets en services essentiels.",
-                "caveat": "Le Parlement de la Nouvelle-Galles du Sud est la source principale pour les dates de l’enquête et le rapport. Les constats et l’absence de recommandation de moratoire proviennent de Reuters. Rien n’indique que les recommandations australiennes sont déjà obligatoires."
-              }
-            },
-            {
-              "published": "2026-11-05",
-              "priority": "Strategic",
-              "url": "https://www.reuters.com/business/microsoft-tightens-oversight-neocloud-data-center-projects-bloomberg-news-2026-11-05/",
-              "verifiedAt": "2026-11-06T11:23:32.038Z",
-              "title": "Microsoft renforcerait la surveillance de centres de données d’IA spécialisés",
-              "source": "Reuters / Bloomberg",
-              "category": "Livraison des fournisseurs et économie infonuagique",
-              "what": "Reuters a repris un reportage de Bloomberg selon lequel Microsoft surveille plus étroitement certains projets de Nebius, IREN et Nscale. Un autre reportage de Reuters décrit des retards de livraison chez IREN.",
-              "why": "Analyse : la capacité informatique sous contrat dépend de la livraison physique, de l’intégration, de l’acceptation et du rendement du fournisseur.",
-              "takeaway": "Fonder les engagements de livraison sur une capacité utilisable démontrée indépendamment, y compris l’électricité, les réseaux, la sécurité et l’acceptation.",
-              "executiveSummary": {
-                "overview": "Reuters a rapporté le 5 novembre que Microsoft avait renforcé la surveillance de certains projets de centres de données d’intelligence artificielle des fournisseurs spécialisés Nebius, IREN et Nscale. L’information provient initialement de Bloomberg, qui cite des personnes au courant du dossier. Le reportage décrit une attention accrue aux échéanciers, aux coûts et aux difficultés opérationnelles, sans préciser tous les mécanismes de surveillance. Reuters n’a pas indiqué que Microsoft avait annulé les projets concernés. Séparément, Reuters a rapporté qu’IREN avait reporté certaines livraisons d’infrastructures destinées à Microsoft à la suite de changements à la conception du réseau et de délais chez des fournisseurs. L’entreprise affirme que ces retards n’entraîneront pas de pénalités financières contractuelles. Ces développements montrent que les ententes de capacité informatique doivent franchir les étapes de conception, de construction, d’intégration et d’acceptation avant de devenir des services utilisables.",
-                "keyPoints": [
-                  "Bloomberg, cité par Reuters, décrit une surveillance plus étroite par Microsoft de certains projets de Nebius, IREN et Nscale, selon des personnes connaissant les ententes.",
-                  "Les reportages ne démontrent aucune annulation des projets et ne présentent pas les modalités complètes des nouveaux mécanismes de surveillance.",
-                  "Un reportage distinct de Reuters indique que certaines livraisons d’IREN pour Microsoft ont été retardées après des modifications demandées au réseau et des problèmes de calendrier chez les fournisseurs."
-                ],
-                "implications": "Les acheteurs gouvernementaux de matériel-service et de capacité souveraine devraient définir les obligations des fournisseurs en fonction d’une capacité testée et utilisable à des dates précises. Les contrats peuvent prévoir des périodes fermes de livraison, des conditions préalables d’alimentation électrique et de réseau, l’acceptation des contrôles de sécurité, le rendement du service et la préparation à la reprise. Ils devraient aussi attribuer les responsabilités liées aux changements de conception, aux composants livrés en retard et aux délais de mise en service. Les plans de capacité devraient reposer sur des preuves d’acceptation terminée pour prévoir les migrations et les économies. Ces considérations découlent de reportages commerciaux et ne démontrent aucun problème semblable chez un fournisseur fédéral canadien.",
-                "watch": "Suivre les échéanciers révisés, la mise en service réelle, l’état vérifié des réseaux, le financement et les éventuels changements contractuels ou recours rendus publics.",
-                "caveat": "Le reportage sur la surveillance accrue provient de Bloomberg et a été repris par Reuters, en partie à partir de sources anonymes. Les retards d’IREN ont été rapportés séparément par Reuters. Aucun problème précis d’hébergement du gouvernement du Canada n’est confirmé."
-              }
-            }
-          ],
-          "radar": [],
-          "deepRead": {
-            "title": "Principes canadiens pour un développement responsable des centres de données",
-            "source": "Innovation, Sciences et Développement économique Canada",
-            "published": "2026-09-03",
-            "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-launches-canadas-responsible-data-centre-development-principles.html",
-            "verifiedAt": "2026-11-06T11:23:32.038Z",
-            "detail": "Contexte antérieur de la politique canadienne concernant l’électricité, l’eau, les retombées locales, la transparence et la valeur stratégique des centres de données."
-          },
-          "question": "Quelles preuves faut-il exiger avant de considérer que la capacité souveraine projetée est autorisée, alimentée, financée et prête à accueillir des charges de travail ?",
-          "signals": [
-            {
-              "title": "Limites des infrastructures régionales",
-              "detail": "Surveiller les réponses aux effets de la demande des centres de données sur les ressources régionales partagées."
-            },
-            {
-              "title": "Jalons de préparation des fournisseurs",
-              "detail": "Surveiller les preuves de mise en service et d’acceptation de la capacité informatique projetée."
-            }
-          ],
-          "editorialNote": "Sources vérifiées le 6 novembre 2026. Le dossier parlementaire de la Nouvelle-Galles du Sud fournit les dates de l’enquête et du rapport; Reuters en présente les constats. Les informations sur la surveillance de Microsoft proviennent de Bloomberg et ont été reprises par Reuters, tandis que les retards d’IREN ont fait l’objet d’un reportage distinct. Les implications constituent des analyses. La traduction suit les instructions intégrées du module choisi pour le français québécois. La recherche, la rédaction, la traduction et la publication utilisent une automatisation fondée sur l’intelligence artificielle et n’impliquent aucune approbation du gouvernement du Canada.",
-          "readMinutes": 6
-        }
-      },
-      "translation": {
-        "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-06T11:23:32.038Z"
-      },
-      "publishedAt": "2026-11-06T11:23:32.038Z"
     }
   ]
 }
