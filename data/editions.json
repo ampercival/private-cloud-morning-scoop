@@ -1,6 +1,101 @@
 {
   "editions": [
     {
+      "id": "2026-11-12",
+      "date": "2026-11-12",
+      "coverageStart": "2026-11-11T10:00:00.000Z",
+      "coverageEnd": "2026-11-12T10:01:46.122Z",
+      "generatedAt": "2026-11-12T10:01:46.122Z",
+      "headline": "EU cloud procurement proposals sharpen debate over sovereign control",
+      "deck": "A UK industry group has warned that proposed European cloud assurance requirements could restrict access to public contracts. The debate highlights the growing importance of operational and legal control in sovereign hosting.",
+      "bigPicture": [
+        "Proposed assurance levels extend sovereignty discussions to operational staffing, data handling and foreign control."
+      ],
+      "reads": [
+        {
+          "source": "ITPro",
+          "published": "2026-11-11",
+          "priority": "Strategic",
+          "url": "https://www.itpro.com/business/policy-and-legislation/new-eu-cloud-sovereignty-laws-could-lock-british-firms-out-of-public-contracts",
+          "verifiedAt": "2026-11-12T10:01:46.122Z",
+          "title": "UK industry warns of proposed EU sovereign cloud procurement restrictions",
+          "category": "Sovereignty and procurement",
+          "what": "ITPro reports that techUK is concerned proposed EU cloud assurance tiers could restrict British firms' eligibility for higher-assurance public contracts. The requirements remain under consideration.",
+          "why": "Portfolio assessment: sovereignty procurement rules may increasingly require evidence of control over operations, staff and legal exposure.",
+          "takeaway": "Define measurable sovereignty assurance requirements for sensitive hosting services and monitor the European proposal.",
+          "executiveSummary": {
+            "overview": "A November 11 report describes concerns raised by UK technology industry group techUK about the European Union's proposed Cloud and AI Development Act. The proposal is described as establishing four assurance levels for cloud and AI suppliers seeking European public contracts. The higher levels would impose requirements concerning regional staffing, data processing, storage and foreign control. The report says techUK estimates that British firms could face substantial lost opportunities if the strictest criteria are adopted. These remain proposals and industry estimates, rather than enacted procurement requirements.",
+            "keyPoints": [
+              "The reported proposal would introduce four assurance levels for cloud and AI services in European public procurement.",
+              "At higher levels, eligibility would depend on operational control, personnel location and exposure to foreign ownership or influence.",
+              "UK industry group techUK has warned that these requirements could restrict British suppliers' access to some public contracts."
+            ],
+            "implications": "For Canadian sovereign hosting portfolios, the development provides a useful policy comparison. Sovereignty assurance may increasingly require documented evidence about operational authority, privileged access, personnel, subcontractors and legal control. Procurement teams should distinguish enforceable requirements from proposals and consider proportionate assurance tiers for workloads with different sensitivities.",
+            "watch": "Monitor the European Commission's legislative text, consultation process, eventual definitions of assurance levels, and any trusted-partner provisions. Assess whether comparable evidence requirements appear in Canadian procurement or security policy.",
+            "caveat": "This account relies on ITPro's November 11 reporting of techUK's position and proposed European measures. Economic impact figures are industry estimates. The final legislative text, implementation schedule and procurement consequences remain uncertain."
+          }
+        }
+      ],
+      "radar": [],
+      "question": "What evidence should distinguish baseline Canadian data residency from higher-assurance sovereign hosting for sensitive workloads?",
+      "signals": [],
+      "editorialNote": "Review of public English and French sources through November 12, 2026. The featured report is a November 11 secondary account of an industry response to proposed EU rules; the legislative outcome is uncertain. The original research and live translation skills were unavailable; embedded Quebec French translation instructions were used. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
+      "readMinutes": 3,
+      "day": "Thursday",
+      "coverage": "November 11–12, 2026",
+      "translations": {
+        "fr": {
+          "id": "2026-11-12",
+          "date": "2026-11-12",
+          "coverageStart": "2026-11-11T10:00:00.000Z",
+          "coverageEnd": "2026-11-12T10:01:46.122Z",
+          "generatedAt": "2026-11-12T10:01:46.122Z",
+          "headline": "Les propositions européennes d’approvisionnement infonuagique relancent le débat sur le contrôle souverain",
+          "deck": "Une association britannique du secteur technologique prévient que les exigences européennes proposées en matière d’assurance infonuagique pourraient limiter l’accès aux marchés publics. Ce débat souligne l’importance croissante du contrôle opérationnel et juridique dans l’hébergement souverain.",
+          "bigPicture": [
+            "Les niveaux d’assurance proposés élargissent le débat sur la souveraineté au personnel opérationnel, au traitement des données et au contrôle étranger."
+          ],
+          "reads": [
+            {
+              "source": "ITPro",
+              "published": "2026-11-11",
+              "priority": "Strategic",
+              "url": "https://www.itpro.com/business/policy-and-legislation/new-eu-cloud-sovereignty-laws-could-lock-british-firms-out-of-public-contracts",
+              "verifiedAt": "2026-11-12T10:01:46.122Z",
+              "title": "L’industrie britannique s’inquiète des restrictions proposées pour les marchés publics infonuagiques souverains de l’UE",
+              "category": "Souveraineté et approvisionnement",
+              "what": "Selon ITPro, techUK craint que les niveaux d’assurance infonuagique proposés par l’Union européenne limitent l’admissibilité des entreprises britanniques aux contrats publics les plus sensibles. Les exigences sont encore à l’étude.",
+              "why": "Analyse du portefeuille : les règles d’approvisionnement souverain pourraient exiger davantage de preuves sur le contrôle des opérations, du personnel et des risques juridiques.",
+              "takeaway": "Définir des exigences vérifiables d’assurance de souveraineté pour l’hébergement sensible et suivre l’évolution de la proposition européenne.",
+              "executiveSummary": {
+                "overview": "Un article publié le 11 novembre présente les préoccupations de techUK, une association britannique du secteur technologique, au sujet du projet européen de loi sur le développement de l’infonuagique et de l’intelligence artificielle. Selon cet article, la proposition prévoirait quatre niveaux d’assurance pour les fournisseurs qui souhaitent obtenir des contrats publics européens. Les niveaux supérieurs imposeraient des exigences touchant le personnel, le traitement et le stockage des données dans la région ainsi que le contrôle étranger. techUK estime que les entreprises britanniques pourraient perdre des débouchés importants. Il s’agit de propositions et d’estimations sectorielles, et non de règles d’approvisionnement déjà en vigueur.",
+                "keyPoints": [
+                  "La proposition décrite établirait quatre niveaux d’assurance pour les services infonuagiques et d’intelligence artificielle dans les marchés publics européens.",
+                  "Aux niveaux supérieurs, l’admissibilité dépendrait notamment du contrôle opérationnel, du lieu de travail du personnel et de l’influence étrangère.",
+                  "L’association britannique techUK prévient que ces critères pourraient limiter l’accès de fournisseurs britanniques à certains marchés publics."
+                ],
+                "implications": "Pour les portefeuilles canadiens d’hébergement souverain, cette évolution offre un point de comparaison utile. L’assurance de souveraineté pourrait exiger davantage de preuves concernant le pouvoir de décision opérationnel, les accès privilégiés, le personnel, les sous-traitants et le contrôle juridique. Les responsables de l’approvisionnement devraient distinguer les obligations en vigueur des propositions et envisager des niveaux d’assurance adaptés à la sensibilité des charges de travail.",
+                "watch": "Suivre le texte législatif de la Commission européenne, les consultations, la définition définitive des niveaux d’assurance et les dispositions éventuelles pour les partenaires de confiance. Vérifier si des exigences semblables apparaissent dans les politiques canadiennes de sécurité ou d’approvisionnement.",
+                "caveat": "Cette synthèse repose sur un article d’ITPro du 11 novembre présentant la position de techUK et les mesures européennes proposées. Les répercussions économiques annoncées sont des estimations de l’industrie. Le texte définitif, le calendrier et les conséquences sur l’approvisionnement demeurent incertains."
+              }
+            }
+          ],
+          "radar": [],
+          "question": "Quelles preuves devraient distinguer la simple résidence des données au Canada d’un hébergement souverain offrant une assurance renforcée pour les charges de travail sensibles ?",
+          "signals": [],
+          "editorialNote": "Revue de sources publiques en français et en anglais jusqu’au 12 novembre 2026. L’article retenu, publié le 11 novembre, présente la réaction d’une association sectorielle à des règles européennes proposées; l’issue législative demeure incertaine. Les compétences de recherche d’origine et de traduction en direct n’étaient pas accessibles; les instructions intégrées de traduction en français québécois ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’intelligence artificielle. Aucune approbation du gouvernement du Canada n’est sous-entendue.",
+          "readMinutes": 3,
+          "day": "Jeudi",
+          "coverage": "11 et 12 novembre 2026"
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-12T10:01:46.122Z"
+      },
+      "publishedAt": "2026-11-12T10:01:46.122Z"
+    },
+    {
       "id": "2026-11-11",
       "date": "2026-11-11",
       "coverageStart": "2026-11-10T10:00:00.000Z",
@@ -383,193 +478,6 @@
         "translatedAt": "2026-11-08T10:57:45.003Z"
       },
       "publishedAt": "2026-11-08T10:57:45.003Z"
-    },
-    {
-      "id": "2026-11-07",
-      "date": "2026-11-07",
-      "coverageStart": "2026-11-06T09:00:00.000Z",
-      "coverageEnd": "2026-11-07T09:58:42.830Z",
-      "generatedAt": "2026-11-07T09:58:42.830Z",
-      "headline": "Infrastructure ownership and technology refresh reshape cloud capacity choices",
-      "deck": "Google's Wyoming site acquisition and reports of Microsoft reducing rented Oracle AI capacity offer two lessons for sovereign hosting: verify infrastructure readiness and plan for changing workload requirements.",
-      "bigPicture": [
-        {
-          "title": "Site development is a chain of dependencies",
-          "detail": "Google's acquisition follows pre-development work on land, approvals and power, illustrating the steps between announced investment and usable hosting capacity."
-        },
-        {
-          "title": "Technology suitability changes over contract life",
-          "detail": "Reported Microsoft and Oracle capacity changes highlight the importance of refresh options and clear acceptance criteria."
-        }
-      ],
-      "reads": [
-        {
-          "url": "https://www.reuters.com/business/google-acquires-wyoming-data-center-site-ai-infrastructure-firm-crusoe-2026-11-06/",
-          "published": "2026-11-06",
-          "priority": "Strategic",
-          "verifiedAt": "2026-11-07T09:58:42.830Z",
-          "title": "Google acquires Crusoe's Wyoming data centre site",
-          "source": "Reuters",
-          "category": "Infrastructure ownership and power",
-          "what": "Crusoe said Google acquired its southeast Wyoming data centre site on November 6, following Google's US$17 billion investment announcement. Crusoe had handled site selection, approvals and power strategy during pre-development.",
-          "why": "Assessment: site ownership, power arrangements and permits are distinct milestones in delivering usable computing capacity.",
-          "takeaway": "Track site control, firm power, approvals and commissioning independently in sovereign hosting capacity plans.",
-          "executiveSummary": {
-            "overview": "On November 6, Reuters reported that Google acquired an AI data centre site in southeast Wyoming from infrastructure developer Crusoe. The announcement followed Google's November 5 disclosure of a planned US$17 billion investment in its first Wyoming data centre. Crusoe said it had completed its role in the pre-development phase, which included selecting the site, securing government approvals and developing a power strategy. The transaction's financial terms were not disclosed. The campus was initially developed by Crusoe and Tallgrass Energy. Google identified Tallgrass Energy, Black Hills Energy, American Electric Power and Related Digital as partners. The report does not provide a confirmed commissioning date or independently established operating capacity for the finished site.",
-            "keyPoints": [
-              "Crusoe announced the transfer of its southeast Wyoming data centre site to Google on November 6, following Google's US$17 billion project announcement the previous day.",
-              "Crusoe said its pre-development responsibilities included site selection, government approvals and a power strategy; the acquisition price was not disclosed.",
-              "Google identified multiple energy and development partners, illustrating that data centre delivery depends on agreements beyond the computing equipment itself."
-            ],
-            "implications": "For sovereign and private cloud capacity planning, the transaction illustrates how an infrastructure project can change hands after early development work. Site control, permitting and power arrangements can be treated as separate milestones from construction and service acceptance. Procurement and investment teams can request evidence that each dependency is secured, assign clear responsibility for unfinished work and distinguish announced expenditure from operational capacity. The deal concerns a United States commercial project and provides a planning comparison, without establishing Canadian procurement obligations.",
-            "watch": "Watch for a verified construction timetable, power-delivery arrangements, commissioning milestones and public details of the site's operational capacity. Monitor whether the project confirms the planned scale and energy configuration.",
-            "caveat": "Reuters is the direct reporting source, citing Crusoe's announcement and Google's prior project statement. The financial terms and completed facility specifications were not disclosed. Portfolio implications are analytical and do not imply any federal Canadian involvement."
-          }
-        },
-        {
-          "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
-          "published": "2026-11-06",
-          "priority": "Strategic",
-          "verifiedAt": "2026-11-07T09:58:42.830Z",
-          "title": "Microsoft reportedly winds down Oracle AI capacity rental",
-          "source": "Reuters / Bloomberg",
-          "category": "Cloud economics and technology lifecycle",
-          "what": "Reuters relayed Bloomberg reporting that Microsoft was winding down rented AI computing capacity from Oracle because older Nvidia processors no longer suited its evolving requirements. Oracle said demand for its services remained strong.",
-          "why": "Assessment: technology fit and refresh options can materially change the value of multi-year computing contracts.",
-          "takeaway": "Include refresh options, workload benchmarks and exit terms when assessing long-term sovereign computing commitments.",
-          "executiveSummary": {
-            "overview": "On November 6, Reuters reported a Bloomberg account that Microsoft was winding down an agreement to rent artificial intelligence computing capacity from Oracle. Bloomberg cited people familiar with the matter and reported that Microsoft had been switching off capacity over recent months and declined to renew because infrastructure using an older generation of Nvidia graphics processors no longer met its changing requirements. Oracle said demand for its AI infrastructure, including earlier-generation graphics processors, remained strong. Microsoft did not immediately comment in the report. The agreement originated in 2023 and supported the AI-powered Bing service. The report does not disclose the financial terms, remaining capacity or precise contractual expiry dates. This is a separate development from the previous day's reporting about Microsoft scrutiny of specialist AI data centre providers.",
-            "keyPoints": [
-              "Bloomberg, as reported by Reuters on November 6, said Microsoft was winding down rented AI computing capacity from Oracle under an arrangement announced in 2023.",
-              "The report attributed Microsoft's decision partly to the suitability of older-generation Nvidia processors for its evolving requirements; Microsoft had not immediately commented.",
-              "Oracle maintained that demand for its AI infrastructure remained strong, including demand for earlier-generation graphics processing units."
-            ],
-            "implications": "For sovereign cloud and hardware-as-a-service services, this report highlights technology obsolescence and workload suitability as commercial risks. A long-term capacity agreement may become less valuable when the underlying processors, networking or service capabilities no longer match customer requirements. Investment cases should consider technology refresh options, performance benchmarks, exit terms and the ability to move workloads between suitable environments. Decisions about capacity should consider the full service life, including expected demand and migration costs. These are general planning implications, not evidence of a problem in Canadian government services.",
-            "watch": "Watch for confirmation from Microsoft, Oracle's next financial disclosures and any published detail on contract expiry, capacity reduction or technology refresh arrangements.",
-            "caveat": "The central claim comes from Bloomberg reporting relayed by Reuters and relies on unnamed sources. Oracle's position is a company statement. Microsoft did not immediately comment in the cited account. Contract details were not publicly disclosed."
-          }
-        }
-      ],
-      "radar": [],
-      "deepRead": {
-        "title": "Canada's Responsible Data Centre Development Principles",
-        "source": "Innovation, Science and Economic Development Canada",
-        "published": "2026-09-03",
-        "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-launches-canadas-responsible-data-centre-development-principles.html",
-        "verifiedAt": "2026-11-07T09:58:42.830Z",
-        "detail": "Earlier Canadian policy context: electricity, water, community benefits and transparency are relevant to the development of sovereign computing infrastructure."
-      },
-      "question": "How should long-term sovereign capacity commitments account for both the time needed to commission facilities and the risk that computing technology becomes unsuitable before a contract ends?",
-      "signals": [
-        {
-          "title": "Power strategy and site control",
-          "detail": "Track confirmed utility arrangements and permitting milestones for announced data centre developments."
-        },
-        {
-          "title": "Compute refresh and exit rights",
-          "detail": "Track how large buyers adjust older GPU capacity contracts as workloads evolve."
-        }
-      ],
-      "editorialNote": "Research checked November 7, 2026. Reuters reports the Google-Crusoe acquisition based on company announcements; the Microsoft-Oracle account originates with Bloomberg and includes Oracle's response. Strategic assessments are analysis. The live Quebec French Translator skill was unavailable; the embedded user-selected instructions were used. AI automates research, writing, translation and publication. No Government of Canada endorsement is implied.",
-      "readMinutes": 5,
-      "day": "Saturday",
-      "coverage": "Developments from November 6",
-      "translations": {
-        "fr": {
-          "id": "2026-11-07",
-          "date": "2026-11-07",
-          "coverageStart": "2026-11-06T09:00:00.000Z",
-          "coverageEnd": "2026-11-07T09:58:42.830Z",
-          "generatedAt": "2026-11-07T09:58:42.830Z",
-          "headline": "La propriété des infrastructures et le renouvellement technologique influencent les choix de capacité infonuagique",
-          "deck": "L’acquisition d’un site au Wyoming par Google et les informations sur la réduction de capacité louée par Microsoft à Oracle offrent deux leçons pour l’hébergement souverain : vérifier la préparation des infrastructures et prévoir l’évolution des besoins.",
-          "bigPicture": [
-            {
-              "title": "Le développement d’un site comporte plusieurs dépendances",
-              "detail": "L’acquisition par Google suit des travaux préparatoires concernant le terrain, les autorisations et l’électricité, illustrant les étapes entre l’investissement annoncé et la capacité utilisable."
-            },
-            {
-              "title": "L’adéquation technologique évolue pendant le contrat",
-              "detail": "Les changements de capacité rapportés entre Microsoft et Oracle soulignent l’importance des options de renouvellement et de critères d’acceptation clairs."
-            }
-          ],
-          "reads": [
-            {
-              "url": "https://www.reuters.com/business/google-acquires-wyoming-data-center-site-ai-infrastructure-firm-crusoe-2026-11-06/",
-              "published": "2026-11-06",
-              "priority": "Strategic",
-              "verifiedAt": "2026-11-07T09:58:42.830Z",
-              "title": "Google acquiert le site d’un centre de données de Crusoe au Wyoming",
-              "source": "Reuters",
-              "category": "Propriété des infrastructures et électricité",
-              "what": "Crusoe indique que Google a acquis son site du sud-est du Wyoming le 6 novembre, après l’annonce d’un investissement de 17 milliards de dollars américains. Crusoe avait assuré le choix du site, les autorisations et la stratégie énergétique durant la préparation.",
-              "why": "Analyse : la propriété du terrain, l’approvisionnement en électricité et les permis constituent des jalons distincts de la livraison de capacité informatique utilisable.",
-              "takeaway": "Suivre séparément la maîtrise du site, l’électricité disponible, les autorisations et la mise en service dans les plans de capacité souveraine.",
-              "executiveSummary": {
-                "overview": "Le 6 novembre, Reuters a rapporté que Google avait acquis de Crusoe, un promoteur d’infrastructures d’intelligence artificielle, un terrain destiné à un centre de données dans le sud-est du Wyoming. L’annonce suit celle du 5 novembre concernant un investissement prévu de 17 milliards de dollars américains pour le premier centre de données de Google dans cet État. Crusoe indique avoir terminé son travail de préparation du projet, notamment le choix du site, les autorisations gouvernementales et la stratégie d’approvisionnement en électricité. Les modalités financières de la transaction n’ont pas été divulguées. Le campus avait initialement été développé par Crusoe et Tallgrass Energy. Google a nommé Tallgrass Energy, Black Hills Energy, American Electric Power et Related Digital parmi ses partenaires. Le reportage ne confirme aucune date de mise en service ni capacité opérationnelle définitive.",
-                "keyPoints": [
-                  "Crusoe a annoncé le transfert de son site du sud-est du Wyoming à Google le 6 novembre, au lendemain de l’annonce d’un projet de 17 milliards de dollars américains.",
-                  "Selon Crusoe, ses travaux préparatoires comprenaient le choix du site, les autorisations gouvernementales et la stratégie énergétique; le prix de vente n’a pas été divulgué.",
-                  "Google a nommé plusieurs partenaires énergétiques et immobiliers, ce qui illustre les dépendances des centres de données au-delà du matériel informatique."
-                ],
-                "implications": "Pour la planification de la capacité des services infonuagiques souverains et privés, cette transaction montre qu’un projet d’infrastructure peut changer de propriétaire après les travaux préparatoires. La maîtrise du terrain, les permis et l’approvisionnement en électricité constituent des jalons distincts de la construction et de l’acceptation du service. Les équipes d’approvisionnement et d’investissement peuvent demander des preuves pour chaque dépendance, attribuer les responsabilités relatives aux travaux inachevés et distinguer les dépenses annoncées de la capacité opérationnelle. Cette transaction commerciale américaine sert de comparaison et ne crée aucune obligation d’approvisionnement canadienne.",
-                "watch": "Surveiller la confirmation de l’échéancier de construction, les ententes d’approvisionnement en électricité, les jalons de mise en service et les détails publics sur la capacité opérationnelle. Vérifier si l’ampleur et la configuration énergétique prévues sont confirmées.",
-                "caveat": "Reuters est la source directe du reportage et cite l’annonce de Crusoe ainsi que la déclaration précédente de Google. Les modalités financières et les caractéristiques définitives de l’installation n’ont pas été divulguées. Les implications pour le portefeuille sont des analyses sans lien établi avec le gouvernement fédéral canadien."
-              }
-            },
-            {
-              "url": "https://www.reuters.com/business/microsoft-is-winding-down-oracle-deal-rent-ai-cloud-capacity-bloomberg-news-2026-11-06/",
-              "published": "2026-11-06",
-              "priority": "Strategic",
-              "verifiedAt": "2026-11-07T09:58:42.830Z",
-              "title": "Microsoft réduirait sa location de capacité d’IA auprès d’Oracle",
-              "source": "Reuters / Bloomberg",
-              "category": "Économie infonuagique et cycle de vie technologique",
-              "what": "Reuters a repris un reportage de Bloomberg selon lequel Microsoft réduirait la capacité informatique d’IA louée à Oracle, les anciens processeurs Nvidia ne répondant plus à ses besoins. Oracle affirme que la demande demeure forte.",
-              "why": "Analyse : l’adéquation technologique et les possibilités de renouvellement peuvent modifier la valeur des contrats informatiques pluriannuels.",
-              "takeaway": "Prévoir des options de renouvellement, des mesures de rendement et des conditions de sortie pour les engagements de calcul souverain à long terme.",
-              "executiveSummary": {
-                "overview": "Le 6 novembre, Reuters a repris un reportage de Bloomberg selon lequel Microsoft réduisait progressivement une entente de location de capacité informatique d’intelligence artificielle auprès d’Oracle. Bloomberg cite des personnes connaissant le dossier et indique que Microsoft désactivait certaines ressources depuis plusieurs mois et avait décidé de ne pas renouveler l’entente, car les infrastructures dotées d’une génération antérieure de processeurs graphiques Nvidia ne répondaient plus à l’évolution de ses besoins. Oracle affirme que la demande pour ses infrastructures d’IA, y compris les processeurs graphiques de générations précédentes, demeure forte. Selon le reportage, Microsoft n’avait pas immédiatement formulé de commentaire. L’entente remonte à 2023 et appuyait le service Bing intégrant l’IA. Le reportage ne précise ni les modalités financières, ni la capacité restante, ni les dates exactes d’échéance contractuelle. Il s’agit d’un développement distinct des informations de la veille concernant la surveillance de fournisseurs spécialisés par Microsoft.",
-                "keyPoints": [
-                  "Selon Bloomberg, repris par Reuters le 6 novembre, Microsoft réduirait la capacité informatique d’IA louée à Oracle dans le cadre d’une entente annoncée en 2023.",
-                  "Le reportage attribue en partie cette décision à l’adéquation de processeurs Nvidia de génération antérieure avec les besoins changeants de Microsoft, qui n’avait pas immédiatement commenté.",
-                  "Oracle soutient que la demande pour ses infrastructures d’IA demeure forte, y compris pour les unités de traitement graphique de générations précédentes."
-                ],
-                "implications": "Pour les services infonuagiques souverains et les offres de matériel-service, ce reportage souligne les risques commerciaux liés au vieillissement technologique et à l’adéquation aux charges de travail. Une entente de capacité à long terme peut perdre de sa valeur lorsque les processeurs, les réseaux ou les fonctions de service ne répondent plus aux besoins des clients. Les dossiers d’investissement devraient prévoir des options de renouvellement technologique, des mesures de rendement, des conditions de sortie et la possibilité de déplacer les charges de travail. Les décisions de capacité devraient tenir compte du cycle de vie complet, notamment de la demande prévue et des coûts de migration. Il s’agit de considérations générales de planification sans problème établi dans les services gouvernementaux canadiens.",
-                "watch": "Surveiller une éventuelle confirmation de Microsoft, les prochaines déclarations financières d’Oracle et les renseignements publiés sur l’échéance du contrat, la réduction de capacité ou les modalités de renouvellement technologique.",
-                "caveat": "L’affirmation principale provient de Bloomberg, repris par Reuters, et repose sur des sources anonymes. La position d’Oracle est une déclaration de l’entreprise. Microsoft n’avait pas immédiatement commenté et les modalités contractuelles ne sont pas publiques."
-              }
-            }
-          ],
-          "radar": [],
-          "deepRead": {
-            "title": "Principes canadiens pour un développement responsable des centres de données",
-            "source": "Innovation, Sciences et Développement économique Canada",
-            "published": "2026-09-03",
-            "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/09/government-of-canada-launches-canadas-responsible-data-centre-development-principles.html",
-            "verifiedAt": "2026-11-07T09:58:42.830Z",
-            "detail": "Contexte antérieur de la politique canadienne : l’électricité, l’eau, les retombées pour les collectivités et la transparence sont pertinentes pour le développement des infrastructures de calcul souveraines."
-          },
-          "question": "Comment les engagements de capacité souveraine à long terme devraient-ils tenir compte des délais de mise en service et du risque que la technologie informatique ne réponde plus aux besoins avant la fin du contrat ?",
-          "signals": [
-            {
-              "title": "Stratégie énergétique et maîtrise du site",
-              "detail": "Suivre les ententes confirmées avec les services publics et les jalons d’autorisation des centres de données annoncés."
-            },
-            {
-              "title": "Renouvellement des ressources de calcul et droits de sortie",
-              "detail": "Suivre la manière dont les grands acheteurs adaptent leurs contrats de capacité graphique ancienne aux nouveaux besoins."
-            }
-          ],
-          "editorialNote": "Recherche vérifiée le 7 novembre 2026. Reuters rapporte l’acquisition du site de Crusoe par Google à partir des annonces des entreprises; le dossier Microsoft-Oracle provient de Bloomberg et comprend la réaction d’Oracle. Les évaluations stratégiques sont des analyses. Le module externe de traduction en français québécois était inaccessible; les instructions intégrées choisies ont été utilisées. L’intelligence artificielle automatise la recherche, la rédaction, la traduction et la publication. Aucune approbation du gouvernement du Canada n’est sous-entendue.",
-          "readMinutes": 6
-        }
-      },
-      "translation": {
-        "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-07T09:58:42.833Z"
-      },
-      "publishedAt": "2026-11-07T09:58:42.833Z"
     }
   ]
 }
