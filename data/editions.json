@@ -4,44 +4,154 @@
       "id": "2026-11-13",
       "date": "2026-11-13",
       "coverageStart": "2026-11-12T10:00:00.000Z",
-      "coverageEnd": "2026-11-13T10:01:22.624Z",
-      "generatedAt": "2026-11-13T10:01:22.624Z",
-      "headline": "No verified material new sovereign cloud developments today",
-      "deck": "The November 13 review found no sufficiently verified new development meeting the editorial threshold. The daily edition is available, and substantive recent coverage remains in the dated archive.",
-      "bigPicture": [],
-      "reads": [],
+      "coverageEnd": "2026-11-13T12:01:27.696Z",
+      "generatedAt": "2026-11-13T12:01:27.696Z",
+      "headline": "Sovereign cloud controls and frontier AI assurance move into focus",
+      "deck": "France's public-sector health-data migration highlights specific security controls beyond cloud certification. Canada has also endorsed international cooperation on evaluating advanced AI and reporting serious incidents. Both developments have practical implications for sovereign hosting and AI platforms.",
+      "bigPicture": [
+        "France is defining sensitive cloud hosting through enforceable network isolation and customer-controlled configuration, suggesting practical evidence for higher-assurance services.",
+        "Canada's endorsement of the November 9 AI declaration signals interest in common model-risk evaluation and incident reporting as sovereign AI infrastructure expands."
+      ],
+      "reads": [
+        {
+          "url": "https://www.numerique.gouv.fr/actualites/donnees-de-sante-de-la-migration-vers-un-cloud-souverain-a-la-preparation-du-cadre-europeen/",
+          "published": "2026-11-12",
+          "priority": "Strategic",
+          "verifiedAt": "2026-11-13T12:01:27.696Z",
+          "title": "France details sovereign-cloud migration controls for sensitive health data",
+          "source": "France's Interministerial Digital Directorate (DINUM)",
+          "category": "Sovereign cloud and sensitive-data architecture",
+          "what": "France's interministerial digital directorate reported on November 12 that the Health Data Platform's planned move to French provider Scaleway is shaping technical requirements for sensitive cloud workloads. Beyond SecNumCloud qualification, officials described internal network isolation and customer-enforced configuration policies.",
+          "why": "Portfolio assessment: assurance for highly sensitive workloads depends on verifiable network boundaries, consistent configuration controls and managed data exports alongside sovereign operational control.",
+          "takeaway": "Define measurable network-isolation, configuration-enforcement and audit controls for higher-assurance sovereign hosting, with evidence that partner departments can inspect.",
+          "executiveSummary": {
+            "overview": "France's interministerial digital directorate, DINUM, published a November 12 update about a November 5 technical exchange with the national Health Data Platform and French cloud suppliers. The platform supports research using particularly sensitive health records. In April 2026, following a selection involving more than 350 technical criteria, the platform chose French provider Scaleway for its planned cloud migration. The November update describes progress and security design requirements; it does not report that the migration is finished. DINUM identifies two requirements extending beyond the SecNumCloud assurance baseline. First, cloud services should isolate internal network flows so communications are confined to authorized instances, limiting opportunities to divert information if an application or credential is compromised. Second, customers should be able to impose configuration and access rules throughout their environments to prevent unsafe defaults or misconfiguration. The platform plans to document security patterns and share lessons with public buyers and suppliers. The same meeting considered forthcoming European Health Data Space rules for secure processing environments, including access limitations, encryption, logging and controlled extraction of results.",
+            "keyPoints": [
+              "The update was published November 12 about work discussed November 5; the French government has not declared migration complete.",
+              "Scaleway was selected in April after an assessment involving more than 350 technical criteria, according to the French government.",
+              "The government identified internal network isolation and customer-enforced configuration policies as controls beyond baseline cloud qualification.",
+              "The platform intends to share technical patterns and prepare for future European requirements for secure health-data processing."
+            ],
+            "implications": "For GC sovereign and private cloud services, this is a practical reference for expressing sovereignty and data-sensitivity goals as testable service requirements. Network segmentation, tenant policy enforcement, audit evidence, administrator restrictions and data export controls could be included in assurance profiles for sensitive workloads. French regulation does not govern Canadian federal hosting; these are potential architectural lessons for local assessment.",
+            "watch": "Monitor whether France publishes detailed architecture patterns, what controls are demonstrated in deployment, and the European Commission's implementing rules for secure processing environments. Separate planned migration milestones from verified operational cutover.",
+            "caveat": "The evidence comes from DINUM's French-language government account published November 12. Its description of the selection process and technical needs has not been independently audited here. The announced migration remains in progress and the related European technical requirements are still evolving."
+          }
+        },
+        {
+          "url": "https://www.pm.gc.ca/en/news/statements/2026/11/09/joint-declaration-paris-call-ai-safety-and-security",
+          "published": "2026-11-09",
+          "priority": "Strategic",
+          "verifiedAt": "2026-11-13T12:01:27.696Z",
+          "title": "Canada joins Paris declaration on frontier AI safety, evaluation and incident reporting",
+          "source": "Prime Minister of Canada",
+          "category": "Sovereign AI governance and security",
+          "what": "Canada endorsed a November 9 joint declaration with five other governments, Cohere and other AI developers. It calls for common evaluation methods for frontier models, publication of non-sensitive test findings, lifecycle accountability and early warning of serious AI or cyber incidents.",
+          "why": "Portfolio assessment: the growth of sovereign AI hosting may create demand for model-risk assurance, evaluation evidence and incident responsibilities that extend beyond conventional infrastructure security.",
+          "takeaway": "Identify which evaluation reports, incident arrangements and authority boundaries would be needed between sovereign compute operators, AI platform owners, model developers and departments.",
+          "executiveSummary": {
+            "overview": "On November 9, Canada joined Bahrain, Finland, France, Norway and the Netherlands in endorsing a Paris declaration on AI safety and security. Canadian developer Cohere signed alongside several international AI firms and civil-society participants. The declaration sets out three areas of cooperation. First, governments, researchers and developers aim to develop compatible methods, tools and technical standards for evaluating risks in advanced AI models. The text contemplates standardized release of non-sensitive evaluation findings and a shared repository for benchmarks, red-team protocols and other materials. Second, it promotes accountability throughout the model lifecycle, including disclosure of capabilities, limits and known risks, proportionate independent evaluation, continuing risk management and mechanisms to suspend model operations where appropriate. Third, it calls for better information sharing and early warning about serious cybersecurity and AI-control incidents. The signatories acknowledge differing roles for policymakers, developers and researchers. The statement expresses international cooperation and voluntary commitments. It does not itself establish Canadian legislation, an enforceable procurement rule or a DTC operational obligation. It remains a relevant newly uncovered item within the seven-day research lookback.",
+            "keyPoints": [
+              "Canada and five other governments endorsed the declaration on November 9, alongside Cohere and other AI developers.",
+              "Signatories support common frontier-model evaluation tools and standardized publication of non-sensitive safety findings.",
+              "The declaration addresses model lifecycle accountability, incident information sharing and arrangements for rapid warning.",
+              "The statement is cooperative and voluntary; it does not itself establish a Canadian hosting requirement or assign DTC delivery responsibility."
+            ],
+            "implications": "As Canadian sovereign AI infrastructure and public-sector AI services expand, hosting and platform teams may need to distinguish responsibilities for secure infrastructure, model evaluation, access controls, safety interventions and incident response. Procurement and service design could seek evidence about model tests and escalation arrangements where risk warrants it. These are planning considerations rather than requirements created by this declaration.",
+            "watch": "Monitor subsequent Canadian policy or procurement decisions, common evaluation standards, a public evidence repository, and concrete arrangements to report serious AI-control or cyber incidents. Watch for explicit divisions of responsibility between infrastructure suppliers, platform operators and model developers.",
+            "caveat": "The primary source is the Prime Minister of Canada's November 9 statement. The signatory list may be updated. Aspirational commitments and proposed cooperation should not be described as enacted law, mandatory standards, funded infrastructure or completed government delivery."
+          }
+        }
+      ],
       "radar": [],
-      "question": "What minimum evidence of Canadian operational control and recovery authority should accompany every sovereign hosting service before partner onboarding?",
-      "signals": [],
-      "editorialNote": "November 13, 2026 research reviewed current English- and French-language public sources concerning Canadian sovereign hosting, cloud policy, security, data centre capacity and international regulation. No newly dated, sufficiently verified material development qualified as a Must Read or Radar article. An official Shared Services Canada 2025–26 departmental results report was located, but its exact publication date could not be independently established during this review; it has not been represented as newly published news. The live Quebec French Translator skill was unavailable; the embedded user-selected Quebec French instructions were used. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
-      "readMinutes": 1,
+      "question": "Which assurance evidence should be required from a sovereign AI service across the infrastructure, platform and model layers before a sensitive government workload is onboarded?",
+      "signals": [
+        "Security assurance for sensitive sovereign hosting increasingly includes customer-enforced network and configuration controls, beyond provider certification.",
+        "International AI cooperation is moving toward more consistent model evaluations and reporting of serious incidents; Canadian implementation remains to be determined."
+      ],
+      "editorialNote": "Research refreshed November 13, 2026 using expanded mandatory DTC, sovereign AI, Canadian public-sector IT and cloud source checks in English and French. The French government item was published November 12; the Canadian AI declaration is a consequential November 9 item newly uncovered within the seven-day lookback. Both are supported by public government primary sources. Strategic implications are explicitly labelled as assessment, and no unsupported Canadian implementation decision is inferred. The live Sovereign Cloud Morning Scoop and Quebec French Translator skills were accessible and read for this run. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
+      "readMinutes": 5,
       "day": "Friday",
-      "coverage": "November 12–13, 2026",
+      "coverage": "November 9–13, 2026",
       "translations": {
         "fr": {
           "id": "2026-11-13",
           "date": "2026-11-13",
           "coverageStart": "2026-11-12T10:00:00.000Z",
-          "coverageEnd": "2026-11-13T10:01:22.624Z",
-          "generatedAt": "2026-11-13T10:01:22.624Z",
-          "headline": "Aucun nouveau développement majeur vérifié aujourd’hui dans le domaine infonuagique souverain",
-          "deck": "La veille du 13 novembre n’a révélé aucun nouveau développement suffisamment vérifié répondant au seuil éditorial. L’édition quotidienne est disponible et les nouvelles récentes de fond demeurent dans les archives datées.",
-          "bigPicture": [],
-          "reads": [],
+          "coverageEnd": "2026-11-13T12:01:27.696Z",
+          "generatedAt": "2026-11-13T12:01:27.696Z",
+          "headline": "Les contrôles de l'infonuagique souveraine et l'assurance de sécurité de l'IA avancée retiennent l'attention",
+          "deck": "La migration des données de santé du secteur public français met en lumière des contrôles de sécurité précis qui complètent les certifications infonuagiques. Le Canada a également appuyé une coopération internationale visant l'évaluation des modèles avancés et le signalement des incidents graves. Ces deux développements présentent des implications concrètes pour l'hébergement souverain et les plateformes d'IA.",
+          "bigPicture": [
+            "La France définit l'hébergement sensible au moyen du cloisonnement réseau et de politiques de configuration applicables par les clients, ce qui offre des exemples de preuves pour les services à assurance renforcée.",
+            "L'adhésion du Canada à la déclaration du 9 novembre sur l'IA témoigne d'un intérêt pour les évaluations communes des risques des modèles et le signalement des incidents, alors que se développe l'infrastructure d'IA souveraine."
+          ],
+          "reads": [
+            {
+              "url": "https://www.numerique.gouv.fr/actualites/donnees-de-sante-de-la-migration-vers-un-cloud-souverain-a-la-preparation-du-cadre-europeen/",
+              "published": "2026-11-12",
+              "priority": "Strategic",
+              "verifiedAt": "2026-11-13T12:01:27.696Z",
+              "title": "La France précise les contrôles de sécurité pour la migration de données de santé vers un nuage souverain",
+              "source": "Direction interministérielle du numérique (France)",
+              "category": "Infonuagique souveraine et architecture des données sensibles",
+              "what": "Le 12 novembre, la direction interministérielle du numérique de la France a décrit les exigences de sécurité liées à la migration prévue de la Plateforme des données de santé vers Scaleway. Au-delà de la qualification SecNumCloud, elle a souligné le cloisonnement des communications réseau internes et l'application de politiques de configuration par les clients.",
+              "why": "Analyse du portefeuille : l'assurance des charges de travail très sensibles repose sur des limites réseau vérifiables, des règles de configuration cohérentes et des exportations de données contrôlées, en plus du contrôle opérationnel souverain.",
+              "takeaway": "Établir des contrôles vérifiables de cloisonnement réseau, d'application des configurations et de traçabilité pour l'hébergement souverain à assurance renforcée, avec des preuves accessibles aux ministères partenaires.",
+              "executiveSummary": {
+                "overview": "La Direction interministérielle du numérique (DINUM) de la France a publié, le 12 novembre, une mise à jour concernant une rencontre technique tenue le 5 novembre avec la Plateforme des données de santé et des fournisseurs infonuagiques français. La plateforme appuie la recherche menée à partir de renseignements de santé particulièrement sensibles. En avril 2026, à l'issue d'une sélection comportant plus de 350 critères techniques, elle avait choisi le fournisseur français Scaleway pour sa migration infonuagique prévue. La publication de novembre décrit l'avancement et les exigences de conception de la sécurité; elle ne confirme pas la fin de la migration. La DINUM relève deux exigences qui dépassent le cadre d'assurance SecNumCloud. D'abord, les services infonuagiques devraient cloisonner les communications réseau internes afin de les limiter aux instances autorisées et de réduire les risques de détournement des données en cas de compromission d'une application ou d'identifiants. Ensuite, les clients devraient pouvoir imposer des règles de configuration et d'accès à l'échelle de leurs environnements afin de prévenir les paramètres dangereux ou les erreurs de configuration. La plateforme souhaite documenter ces modèles de sécurité et partager ses enseignements avec les acheteurs publics et les fournisseurs. La rencontre a également abordé les futures règles de l'Espace européen des données de santé concernant les environnements de traitement sécurisés, notamment les restrictions d'accès, le chiffrement, la journalisation et le contrôle des résultats exportés.",
+                "keyPoints": [
+                  "La mise à jour, publiée le 12 novembre, rend compte de travaux discutés le 5 novembre; le gouvernement français n'a pas annoncé la fin de la migration.",
+                  "Scaleway a été retenu en avril après l'examen de plus de 350 critères techniques, selon le gouvernement français.",
+                  "Le gouvernement a souligné le cloisonnement réseau interne et les politiques de configuration imposées par les clients, au-delà de la qualification infonuagique de base.",
+                  "La plateforme entend partager des modèles techniques et se préparer aux futures exigences européennes de traitement sécurisé des données de santé."
+                ],
+                "implications": "Pour les services infonuagiques souverains et privés du gouvernement du Canada, cet exemple montre comment traduire la souveraineté et la sensibilité des données en exigences de service vérifiables. La segmentation du réseau, l'application de politiques aux locataires, les preuves d'audit, les restrictions administratives et les contrôles d'exportation pourraient figurer dans des profils d'assurance pour les charges de travail sensibles. La réglementation française ne régit pas l'hébergement fédéral canadien; ces mesures constituent des pistes d'analyse architecturale.",
+                "watch": "Surveiller la publication éventuelle des modèles d'architecture français, les contrôles démontrés en exploitation et les règles d'application européennes sur les environnements de traitement sécurisés. Distinguer les étapes de migration prévues de la mise en service effectivement confirmée.",
+                "caveat": "Les renseignements proviennent du compte rendu gouvernemental francophone de la DINUM publié le 12 novembre. La sélection du fournisseur et les besoins techniques décrits n'ont pas fait l'objet d'un audit indépendant dans cette revue. La migration est en cours et les exigences techniques européennes continuent d'évoluer."
+              }
+            },
+            {
+              "url": "https://www.pm.gc.ca/en/news/statements/2026/11/09/joint-declaration-paris-call-ai-safety-and-security",
+              "published": "2026-11-09",
+              "priority": "Strategic",
+              "verifiedAt": "2026-11-13T12:01:27.696Z",
+              "title": "Le Canada adhère à la déclaration de Paris sur la sécurité, l'évaluation et le signalement des incidents liés à l'IA avancée",
+              "source": "Premier ministre du Canada",
+              "category": "Gouvernance et sécurité de l'IA souveraine",
+              "what": "Le 9 novembre, le Canada a appuyé une déclaration conjointe avec cinq autres gouvernements, Cohere et d'autres développeurs d'IA. Elle préconise des méthodes communes d'évaluation des modèles avancés, la publication de résultats d'essais non sensibles, la responsabilisation durant le cycle de vie et l'alerte rapide lors d'incidents graves touchant l'IA ou la cybersécurité.",
+              "why": "Analyse du portefeuille : l'expansion de l'hébergement d'IA souveraine pourrait accroître les besoins de preuves sur les risques des modèles, les évaluations et les responsabilités liées aux incidents, au-delà de la sécurité de l'infrastructure.",
+              "takeaway": "Déterminer quelles preuves d'évaluation, quelles modalités de gestion des incidents et quelles limites de responsabilité devraient s'appliquer aux exploitants du calcul souverain, aux plateformes d'IA, aux développeurs de modèles et aux ministères.",
+              "executiveSummary": {
+                "overview": "Le 9 novembre, le Canada s'est joint à Bahreïn, à la Finlande, à la France, à la Norvège et aux Pays-Bas pour appuyer une déclaration de Paris sur la sécurité de l'intelligence artificielle. Le développeur canadien Cohere a signé le texte avec plusieurs entreprises internationales d'IA et des représentants de la société civile. La déclaration établit trois domaines de coopération. Premièrement, les gouvernements, les chercheurs et les développeurs souhaitent mettre au point des méthodes, des outils et des normes techniques compatibles pour évaluer les risques des modèles d'IA avancés. Le texte envisage la publication normalisée de résultats d'évaluation non sensibles et la création d'un dépôt commun de données de référence, de protocoles d'essais adversariaux et d'autres documents. Deuxièmement, il favorise la responsabilisation durant le cycle de vie des modèles, notamment la divulgation de leurs capacités, limites et risques connus, des évaluations indépendantes proportionnées, la gestion continue des risques et des mécanismes permettant d'interrompre leur fonctionnement lorsque cela convient. Troisièmement, il encourage un meilleur échange d'information et l'alerte rapide en cas d'incidents graves de cybersécurité ou de perte de contrôle des systèmes d'IA. Les signataires reconnaissent les rôles distincts des décideurs publics, des développeurs et des chercheurs. Il s'agit d'une déclaration de coopération et d'engagements volontaires. Elle ne crée pas en elle-même de loi canadienne, de règle d'approvisionnement obligatoire ni d'obligation opérationnelle pour DTC. Cet élément pertinent a été découvert dans la période élargie de recherche de sept jours.",
+                "keyPoints": [
+                  "Le Canada et cinq autres gouvernements ont appuyé la déclaration du 9 novembre, aux côtés de Cohere et d'autres développeurs d'IA.",
+                  "Les signataires favorisent des outils communs d'évaluation des modèles de pointe et la publication normalisée des résultats de sécurité non sensibles.",
+                  "La déclaration traite de la responsabilité durant le cycle de vie, de l'échange d'information sur les incidents et des mécanismes d'alerte rapide.",
+                  "Cette déclaration volontaire n'établit pas à elle seule d'exigence canadienne d'hébergement et ne confie aucun mandat de livraison à DTC."
+                ],
+                "implications": "À mesure que se développent l'infrastructure canadienne d'IA souveraine et les services fédéraux utilisant l'IA, les équipes d'hébergement et de plateformes pourraient devoir préciser qui assume la sécurité de l'infrastructure, l'évaluation des modèles, les contrôles d'accès, les mesures d'intervention et la réponse aux incidents. Les exigences d'approvisionnement et de service pourraient demander des résultats d'essais et des procédures d'escalade lorsque le risque le justifie. Il s'agit d'éléments de planification, et non d'obligations créées par la déclaration.",
+                "watch": "Suivre les décisions canadiennes ultérieures sur les politiques et l'approvisionnement, les normes communes d'évaluation, la création d'un dépôt public de preuves et les mécanismes concrets de signalement des incidents graves liés à l'IA ou à la cybersécurité. Examiner la répartition des responsabilités entre fournisseurs d'infrastructure, exploitants de plateformes et développeurs.",
+                "caveat": "La source principale est la déclaration du premier ministre du Canada datée du 9 novembre. La liste des signataires peut évoluer. Les engagements et projets de coopération ne constituent ni une loi adoptée, ni des normes obligatoires, ni une infrastructure financée, ni une réalisation gouvernementale achevée."
+              }
+            }
+          ],
           "radar": [],
-          "question": "Quelles preuves minimales de contrôle opérationnel canadien et d’autorité en matière de reprise devraient accompagner chaque service d’hébergement souverain avant l’accueil des ministères partenaires ?",
-          "signals": [],
-          "editorialNote": "La veille du 13 novembre 2026 a porté sur les sources publiques récentes en français et en anglais concernant l’hébergement souverain canadien, les politiques infonuagiques, la sécurité, la capacité des centres de données et la réglementation internationale. Aucun nouveau développement important, suffisamment vérifié et daté, ne répondait au seuil de sélection des articles. Un rapport officiel de Services partagés Canada sur les résultats ministériels de 2025-2026 a été repéré, mais sa date exacte de publication n’a pas pu être confirmée indépendamment pendant cette revue; il n’est donc pas présenté comme une nouvelle publication. La compétence de traduction en français québécois n’était pas accessible; les instructions intégrées choisies par l’utilisateur ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’intelligence artificielle. Aucune approbation du gouvernement du Canada n’est sous-entendue.",
-          "readMinutes": 1,
+          "question": "Quelles preuves d'assurance devrait-on exiger d'un service d'IA souveraine, pour les couches d'infrastructure, de plateforme et de modèle, avant d'y accueillir une charge de travail gouvernementale sensible ?",
+          "signals": [
+            "L'assurance des services d'hébergement souverain sensibles inclut de plus en plus des contrôles réseau et de configuration applicables par les clients, au-delà de la certification du fournisseur.",
+            "La coopération internationale en IA évolue vers des évaluations plus cohérentes des modèles et le signalement des incidents graves; les modalités d'application canadiennes restent à déterminer."
+          ],
+          "editorialNote": "La recherche a été reprise le 13 novembre 2026 selon la couverture élargie obligatoire concernant DTC, l'IA souveraine, les technologies du secteur public canadien et l'infonuagique, à partir de sources publiques en français et en anglais. L'article gouvernemental français date du 12 novembre; la déclaration canadienne sur l'IA date du 9 novembre et a été repérée dans la période élargie autorisée de sept jours. Les deux nouvelles reposent sur des sources gouvernementales primaires accessibles au public. Les conséquences stratégiques sont explicitement présentées comme des analyses, sans présumer de décisions canadiennes de mise en œuvre. Les compétences d'origine du Morning Scoop et du traducteur en français québécois étaient accessibles et ont été consultées durant cette revue. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l'intelligence artificielle. Aucune approbation du gouvernement du Canada n'est sous-entendue.",
+          "readMinutes": 6,
           "day": "Vendredi",
-          "coverage": "12 et 13 novembre 2026"
+          "coverage": "9 au 13 novembre 2026"
         }
       },
       "translation": {
         "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-13T10:01:22.624Z"
+        "translatedAt": "2026-11-13T12:01:27.696Z"
       },
-      "publishedAt": "2026-11-13T10:01:22.624Z"
+      "publishedAt": "2026-11-13T12:01:27.696Z"
     },
     {
       "id": "2026-11-12",
