@@ -1,6 +1,109 @@
 {
   "editions": [
     {
+      "id": "2026-11-14",
+      "date": "2026-11-14",
+      "coverageStart": "2026-11-13T10:00:00.000Z",
+      "coverageEnd": "2026-11-14T09:58:43.555Z",
+      "generatedAt": "2026-11-14T09:58:43.555Z",
+      "headline": "European leaders put sovereign AI capacity and public-sector adoption on the agenda",
+      "deck": "The European Council's November 13 AI discussion connected infrastructure, energy, supply-chain resilience and public-sector adoption. Its official results offer a useful international comparison for Canada's sovereign AI and DTC priorities.",
+      "bigPicture": [
+        "European leaders linked AI sovereignty to computing infrastructure, energy access, investment and critical supplier dependencies.",
+        "Public administrations were explicitly included in discussions of faster AI adoption, while safety and cybersecurity were considered alongside competitiveness."
+      ],
+      "reads": [
+        {
+          "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/11/13/",
+          "published": "2026-11-13",
+          "priority": "Strategic",
+          "verifiedAt": "2026-11-14T09:58:43.555Z",
+          "title": "EU leaders place AI sovereignty, compute infrastructure and public-sector adoption on strategic agenda",
+          "source": "European Council",
+          "category": "International AI sovereignty and public-sector transformation",
+          "what": "At an informal European Council meeting in Dublin on November 13, EU leaders held their first dedicated strategic discussion of AI. The published meeting results identify sovereign AI capabilities, investment, secure value chains, energy and adoption by public administrations alongside cybersecurity and trust.",
+          "why": "Portfolio assessment: sovereign AI programmes increasingly depend on aligned decisions about compute, electricity, domestic capabilities, procurement and public-sector use. These considerations are relevant to Canada's sovereign AI and DTC planning.",
+          "takeaway": "Track the EU's follow-on funding, infrastructure and AI-governance decisions as comparative evidence for Canadian sovereign compute and public-sector platform choices.",
+          "executiveSummary": {
+            "overview": "The European Council's official record of an informal meeting in Dublin on November 13, 2026 confirms that European Union leaders held their first strategic discussion dedicated to artificial intelligence. The agenda connected AI competitiveness and adoption with sovereignty, security and societal trust. During the competitiveness session, leaders met Arthur Mensch, chief executive of Mistral AI, to examine Europe's position in the global AI market and the choices required to strengthen European capabilities. The official meeting summary identifies mobilising public and private investment, developing infrastructure, securing value chains, reducing critical dependencies and ensuring affordable clean energy as areas of discussion. Leaders also considered faster adoption by companies and public administrations. European Council President António Costa linked the ambitions to future European funding, including the next long-term EU budget and the proposed European Competitiveness Fund. In a second session with researcher Geoffrey Hinton, leaders discussed fundamental rights, democratic processes, labour markets, market concentration, cybersecurity and international cooperation on advanced AI safety. Costa pointed to the EU AI Act as an existing governance framework. The Council also identified future meetings on AI's labour-market effects. The published results describe strategic discussion and existing initiatives; they do not announce a new sovereign-cloud procurement, a binding infrastructure allocation or an adopted budget decision.",
+            "keyPoints": [
+              "EU heads of state and government held a dedicated strategic AI discussion in Dublin on November 13, according to the European Council's meeting results.",
+              "The sovereignty discussion covered infrastructure investment, European AI capabilities, supply-chain dependencies and affordable clean energy.",
+              "Leaders considered wider adoption of AI by public administrations and businesses, linking infrastructure capacity to practical service use.",
+              "A separate discussion examined cybersecurity, market concentration, societal trust and cooperation on advanced AI safety."
+            ],
+            "implications": "For Canadian sovereign and private cloud services and DTC, the EU discussion offers a comparative planning lens. AI sovereignty involves capacity, power availability, operational control, supplier dependencies and assurance at the platform and model layers. Public-sector adoption creates requirements for onboarding, security review, service pricing and support. These are analytical considerations for Canadian planning; the European meeting creates no obligation for the Government of Canada.",
+            "watch": "Watch for formal European Council conclusions, Commission financing proposals, specific compute infrastructure investments, procurement rules and implementation guidance for public-sector AI. Verify whether subsequent measures change actual capacity or governance requirements before treating strategic discussion as delivery.",
+            "caveat": "This account relies on the European Council's official November 13 meeting results and its earlier published invitation. The meeting was informal. No new binding funding decision, cloud-service requirement or Canadian policy change was identified in the source. Statements about Canadian portfolio implications are editorial analysis."
+          }
+        }
+      ],
+      "radar": [],
+      "question": "How should Canadian sovereign AI service planning connect compute capacity, power and operational control with the assurance and onboarding needs of federal departments?",
+      "signals": [
+        "European AI sovereignty discussions increasingly connect public-sector adoption with infrastructure and energy decisions."
+      ],
+      "editorialNote": "Research completed November 14, 2026, covering DTC and Canadian federal IT, sovereign AI, cloud security, technology economics and international developments. English and French primary-source searches and a quiet-day follow-up scan were performed. One newly reported November 13 European Council development met the editorial threshold; older Canadian announcements and routine advisories were excluded. The live Morning Scoop and Quebec French Translator skills were unavailable in this runtime; the established research instructions and embedded Quebec French translation instructions were applied. The source reports strategic discussion, not a new binding policy. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
+      "readMinutes": 4,
+      "day": "Saturday",
+      "coverage": "November 13–14, 2026",
+      "translations": {
+        "fr": {
+          "id": "2026-11-14",
+          "date": "2026-11-14",
+          "coverageStart": "2026-11-13T10:00:00.000Z",
+          "coverageEnd": "2026-11-14T09:58:43.555Z",
+          "generatedAt": "2026-11-14T09:58:43.555Z",
+          "headline": "Les dirigeants européens placent les capacités d'IA souveraine et leur adoption dans le secteur public à l'ordre du jour",
+          "deck": "La discussion du Conseil européen du 13 novembre sur l'IA a relié l'infrastructure, l'énergie, la résilience des chaînes d'approvisionnement et l'adoption dans le secteur public. Son compte rendu officiel fournit un point de comparaison pour les priorités canadiennes en IA souveraine et celles de DTC.",
+          "bigPicture": [
+            "Les dirigeants européens ont associé la souveraineté de l'IA à l'infrastructure de calcul, à l'accès à l'énergie, aux investissements et aux dépendances envers des fournisseurs essentiels.",
+            "Les administrations publiques ont été explicitement incluses dans les échanges sur l'adoption accélérée de l'IA, tandis que la sécurité et la cybersécurité ont été examinées avec la compétitivité."
+          ],
+          "reads": [
+            {
+              "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/11/13/",
+              "published": "2026-11-13",
+              "priority": "Strategic",
+              "verifiedAt": "2026-11-14T09:58:43.555Z",
+              "title": "Les dirigeants européens placent la souveraineté de l'IA, l'infrastructure de calcul et l'adoption dans le secteur public à leur programme stratégique",
+              "source": "Conseil européen",
+              "category": "Souveraineté internationale de l'IA et transformation du secteur public",
+              "what": "Lors d'une réunion informelle tenue à Dublin le 13 novembre, les dirigeants de l'Union européenne ont consacré pour la première fois une discussion stratégique à l'IA. Le compte rendu officiel traite des capacités souveraines, des investissements, des chaînes d'approvisionnement, de l'énergie et de l'adoption par les administrations publiques, ainsi que de la cybersécurité et de la confiance.",
+              "why": "Analyse du portefeuille : les programmes d'IA souveraine dépendent de décisions coordonnées concernant le calcul, l'électricité, les capacités nationales, l'approvisionnement et les usages publics. Ces enjeux éclairent la planification canadienne de l'IA souveraine et de DTC.",
+              "takeaway": "Suivre les décisions européennes sur le financement, l'infrastructure et la gouvernance de l'IA afin de disposer de points de comparaison pour les choix canadiens en calcul souverain et en plateformes du secteur public.",
+              "executiveSummary": {
+                "overview": "Le compte rendu officiel du Conseil européen confirme que les dirigeants de l'Union européenne ont tenu, à Dublin le 13 novembre 2026, leur première discussion stratégique entièrement consacrée à l'intelligence artificielle. Les échanges ont rapproché la compétitivité et l'adoption de l'IA des questions de souveraineté, de sécurité et de confiance sociale. Durant la séance sur la compétitivité, les dirigeants ont rencontré Arthur Mensch, chef de la direction de Mistral AI, afin d'examiner la place de l'Europe sur le marché mondial de l'IA et les choix nécessaires au renforcement des capacités européennes. Le compte rendu cite la mobilisation des investissements publics et privés, le développement de l'infrastructure, la sécurisation des chaînes d'approvisionnement, la réduction des dépendances critiques et l'accès à une énergie propre et abordable. Les dirigeants ont aussi abordé l'adoption accélérée de l'IA par les entreprises et les administrations publiques. Le président du Conseil européen, António Costa, a lié ces ambitions aux futurs financements européens, dont le prochain budget pluriannuel et le Fonds européen pour la compétitivité proposé. Lors d'une seconde séance avec le chercheur Geoffrey Hinton, les participants ont discuté des droits fondamentaux, des processus démocratiques, des marchés du travail, de la concentration du marché, de la cybersécurité et de la coopération internationale en matière de sécurité de l'IA avancée. M. Costa a rappelé l'existence du règlement européen sur l'IA. D'autres rencontres aborderont les effets de l'IA sur l'emploi. Les résultats publiés rendent compte d'orientations stratégiques et d'initiatives existantes; ils n'annoncent aucun nouvel approvisionnement infonuagique souverain, aucune allocation d'infrastructure contraignante et aucune décision budgétaire adoptée.",
+                "keyPoints": [
+                  "Les chefs d'État et de gouvernement de l'UE ont tenu le 13 novembre à Dublin une discussion stratégique consacrée à l'IA, selon le Conseil européen.",
+                  "Les échanges sur la souveraineté ont porté sur les investissements dans l'infrastructure, les capacités européennes, les dépendances d'approvisionnement et l'énergie propre abordable.",
+                  "Les dirigeants ont examiné l'adoption de l'IA dans les administrations publiques et les entreprises, reliant les capacités techniques aux services concrets.",
+                  "Une séance distincte a traité de cybersécurité, de concentration du marché, de confiance sociale et de coopération sur la sécurité de l'IA avancée."
+                ],
+                "implications": "Pour les services infonuagiques souverains et privés du Canada et DTC, les échanges européens offrent un point de comparaison pour la planification. La souveraineté de l'IA englobe la capacité de calcul, l'approvisionnement énergétique, le contrôle opérationnel, les dépendances envers les fournisseurs et l'assurance des plateformes et des modèles. L'adoption dans le secteur public entraîne des besoins en intégration des clients, en examen de sécurité, en tarification et en soutien. Il s'agit de considérations analytiques canadiennes; la réunion européenne ne crée aucune obligation pour le gouvernement du Canada.",
+                "watch": "Surveiller les conclusions officielles ultérieures du Conseil européen, les propositions de financement de la Commission, les investissements précis en calcul, les règles d'approvisionnement et les directives d'adoption de l'IA dans le secteur public. Vérifier les mesures concrètes avant de présenter ces échanges comme des réalisations.",
+                "caveat": "Ce résumé s'appuie sur le compte rendu officiel de la réunion du 13 novembre et sur l'invitation publiée auparavant par le Conseil européen. La réunion était informelle. La source ne fait état d'aucune nouvelle décision de financement obligatoire, d'aucune exigence de service infonuagique ni d'aucun changement de politique canadienne. Les implications pour le portefeuille canadien relèvent de l'analyse éditoriale."
+              }
+            }
+          ],
+          "radar": [],
+          "question": "Comment la planification des services canadiens d'IA souveraine devrait-elle relier la capacité de calcul, l'énergie et le contrôle opérationnel aux besoins d'assurance et d'intégration des ministères fédéraux ?",
+          "signals": [
+            "Les discussions européennes sur la souveraineté de l'IA associent de plus en plus l'adoption dans le secteur public aux décisions sur l'infrastructure et l'énergie."
+          ],
+          "editorialNote": "La recherche a été réalisée le 14 novembre 2026 et a couvert DTC et les TI fédérales canadiennes, l'IA souveraine, la sécurité infonuagique, l'économie des technologies et les développements internationaux. Des recherches dans les sources primaires en français et en anglais ainsi qu'une seconde vérification des journées peu chargées ont été effectuées. Un seul développement du Conseil européen daté du 13 novembre a satisfait aux critères éditoriaux; les annonces canadiennes plus anciennes et les avis courants ont été écartés. Les compétences en direct du Morning Scoop et du traducteur en français québécois n'étaient pas accessibles dans cet environnement; les consignes de recherche établies et les instructions intégrées de traduction en français québécois ont été appliquées. La source décrit des échanges stratégiques et aucune nouvelle politique contraignante. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l'intelligence artificielle. Aucune approbation du gouvernement du Canada n'est sous-entendue.",
+          "readMinutes": 4,
+          "day": "Samedi",
+          "coverage": "13 et 14 novembre 2026"
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-14T09:58:43.555Z"
+      },
+      "publishedAt": "2026-11-14T09:58:43.555Z"
+    },
+    {
       "id": "2026-11-13",
       "date": "2026-11-13",
       "coverageStart": "2026-11-12T10:00:00.000Z",
@@ -487,107 +590,6 @@
         "translatedAt": "2026-11-10T10:01:18.878Z"
       },
       "publishedAt": "2026-11-10T10:01:18.878Z"
-    },
-    {
-      "id": "2026-11-09",
-      "date": "2026-11-09",
-      "coverageStart": "2026-11-08T10:57:45.000Z",
-      "coverageEnd": "2026-11-09T10:07:30.786Z",
-      "generatedAt": "2026-11-09T10:07:30.786Z",
-      "headline": "Power supply takes centre stage in AI hosting capacity planning",
-      "deck": "A reported US$3.4 billion generator arrangement illustrates the power needs of large AI data centres. The transaction has not been independently verified by Reuters.",
-      "bigPicture": [
-        {
-          "title": "Electricity infrastructure needs separate milestones",
-          "detail": "Reported commitments for generators highlight the distinction between planned power and commissioned computing capacity."
-        }
-      ],
-      "reads": [
-        {
-          "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/",
-          "published": "2026-11-08",
-          "priority": "Strategic",
-          "verifiedAt": "2026-11-09T10:07:30.786Z",
-          "title": "Anthropic reportedly secures US$3.4 billion in generators for AI data centres",
-          "source": "Reuters, citing Financial Times",
-          "category": "Power and infrastructure capacity",
-          "what": "Reuters relayed a Financial Times report of an approximately US$3.4 billion agreement for 1.7 gigawatts of gas-fired generators. Reuters could not independently verify the transaction.",
-          "why": "Assessment: electricity supply and commissioning are critical dependencies for the availability and cost of planned computing capacity.",
-          "takeaway": "Require evidence of power availability, approvals, equipment delivery and commissioning before counting future sovereign hosting capacity.",
-          "executiveSummary": {
-            "overview": "Reuters reported on November 8 that Anthropic had reportedly secured commitments for approximately US$3.4 billion in gas-fired power generators for AI data centres. The original account came from the Financial Times, which said the transaction involved 1.7 gigawatts of heavy-duty generating equipment from OnePWR Solutions in Texas. The agreement was reportedly reached in late September and included engineering and construction capabilities to install the generators. Anthropic did not reportedly acquire OnePWR or its employees. Reuters said it could not independently verify the transaction and that the companies had not responded to requests for comment. This reported transaction highlights the power requirements of AI infrastructure expansion, while the equipment commitments alone do not demonstrate installed, permitted or operational capacity.",
-            "keyPoints": [
-              "Reuters published the story on November 8, attributing the approximately US$3.4 billion agreement to Financial Times reporting.",
-              "The reported equipment commitments total 1.7 gigawatts of gas-fired generating capacity from OnePWR Solutions.",
-              "Reuters could not independently verify the report and did not receive immediate responses from either company."
-            ],
-            "implications": "Sovereign cloud capacity plans should track electricity supply, permits, generator delivery, construction and commissioning as distinct milestones. Contracted power or equipment commitments do not guarantee usable compute capacity. Competition for generating equipment may also affect cost and timing. These are planning considerations, with no specific Canadian government project implicated.",
-            "watch": "Watch for company confirmation, regulatory approvals, equipment delivery dates, commissioning and operational capacity evidence.",
-            "caveat": "The account originated with the Financial Times and was relayed by Reuters. Reuters could not independently verify it, so the reported amount and generating capacity remain unconfirmed."
-          }
-        }
-      ],
-      "radar": [],
-      "question": "What evidence of firm electricity supply and commissioning should be required before planned sovereign hosting capacity enters the delivery roadmap?",
-      "signals": [],
-      "editorialNote": "November 9, 2026 review of English and French public sources. The November 8 Reuters article cites Financial Times reporting that Reuters could not independently verify. Portfolio implications are analysis. The live research and Quebec French translation skills were unavailable; embedded user-selected translation instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
-      "readMinutes": 3,
-      "day": "Monday",
-      "coverage": "November 8–9, 2026",
-      "translations": {
-        "fr": {
-          "id": "2026-11-09",
-          "date": "2026-11-09",
-          "coverageStart": "2026-11-08T10:57:45.000Z",
-          "coverageEnd": "2026-11-09T10:07:30.786Z",
-          "generatedAt": "2026-11-09T10:07:30.786Z",
-          "headline": "L’approvisionnement en électricité devient central dans la planification de l’hébergement pour l’IA",
-          "deck": "Une entente rapportée de 3,4 milliards de dollars américains pour des groupes électrogènes illustre les besoins électriques des grands centres de données d’IA. Reuters n’a pas pu vérifier la transaction de façon indépendante.",
-          "bigPicture": [
-            {
-              "title": "Les infrastructures électriques nécessitent des jalons distincts",
-              "detail": "Les engagements rapportés pour des groupes électrogènes soulignent la différence entre la production projetée et la capacité informatique mise en service."
-            }
-          ],
-          "reads": [
-            {
-              "url": "https://www.reuters.com/business/energy/anthropic-secures-34-billion-generator-deal-ai-data-centers-ft-reports-2026-11-08/",
-              "published": "2026-11-08",
-              "priority": "Strategic",
-              "verifiedAt": "2026-11-09T10:07:30.786Z",
-              "title": "Anthropic aurait obtenu pour 3,4 milliards de dollars américains de groupes électrogènes pour l’IA",
-              "source": "Reuters, citant le Financial Times",
-              "category": "Électricité et capacité des infrastructures",
-              "what": "Reuters a repris un reportage du Financial Times sur une entente d’environ 3,4 milliards de dollars américains pour 1,7 gigawatt de groupes électrogènes au gaz. Reuters n’a pas pu vérifier la transaction de façon indépendante.",
-              "why": "Analyse : l’approvisionnement électrique et la mise en service sont des dépendances essentielles pour la disponibilité et le coût de la capacité informatique projetée.",
-              "takeaway": "Exiger des preuves de disponibilité de l’électricité, d’autorisations, de livraison des équipements et de mise en service avant de compter sur la capacité souveraine future.",
-              "executiveSummary": {
-                "overview": "Reuters a rapporté le 8 novembre qu’Anthropic aurait obtenu des engagements d’environ 3,4 milliards de dollars américains pour des groupes électrogènes au gaz destinés à des centres de données d’IA. L’information provient du Financial Times, selon lequel la transaction porterait sur des équipements de production d’électricité de 1,7 gigawatt auprès de OnePWR Solutions, au Texas. L’entente aurait été conclue à la fin de septembre et comprendrait des capacités d’ingénierie et de construction nécessaires à l’installation des équipements. Anthropic n’aurait pas acquis OnePWR ni repris ses employés. Reuters précise ne pas avoir pu vérifier la transaction de façon indépendante et n’avoir reçu aucun commentaire des entreprises. La transaction rapportée illustre les besoins énergétiques de l’expansion des infrastructures d’IA, mais les engagements d’équipement ne démontrent pas à eux seuls l’existence d’une capacité installée, autorisée ou opérationnelle.",
-                "keyPoints": [
-                  "Reuters a publié le reportage le 8 novembre en attribuant au Financial Times l’entente d’environ 3,4 milliards de dollars américains.",
-                  "Les engagements rapportés portent sur une capacité de production d’électricité au gaz de 1,7 gigawatt auprès de OnePWR Solutions.",
-                  "Reuters n’a pas pu vérifier le reportage de façon indépendante et n’a reçu aucune réponse immédiate des entreprises."
-                ],
-                "implications": "Les plans de capacité infonuagique souveraine devraient suivre séparément l’approvisionnement en électricité, les permis, la livraison des groupes électrogènes, la construction et la mise en service. Les engagements d’approvisionnement en électricité ou en équipements ne garantissent pas une capacité informatique utilisable. La concurrence pour les équipements de production peut aussi influencer les coûts et les échéanciers. Il s’agit de considérations de planification sans lien établi avec un projet précis du gouvernement du Canada.",
-                "watch": "Surveiller les confirmations des entreprises, les autorisations réglementaires, les dates de livraison, la mise en service et les preuves de capacité opérationnelle.",
-                "caveat": "Le reportage provient du Financial Times et a été repris par Reuters. Reuters n’a pas pu le vérifier de façon indépendante; les montants et la capacité rapportés demeurent à confirmer."
-              }
-            }
-          ],
-          "radar": [],
-          "question": "Quelles preuves d’approvisionnement ferme en électricité et de mise en service faut-il exiger avant d’inscrire une capacité souveraine projetée dans la feuille de route de livraison ?",
-          "signals": [],
-          "editorialNote": "Revue du 9 novembre 2026 de sources publiques en anglais et en français. L’article de Reuters du 8 novembre cite un reportage du Financial Times que Reuters n’a pas pu vérifier de façon indépendante. Les implications pour le portefeuille sont des analyses. Les modules de recherche et de traduction externe en français québécois étaient inaccessibles; les instructions de traduction intégrées choisies par l’utilisateur ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’intelligence artificielle. Aucune approbation du gouvernement du Canada n’est sous-entendue.",
-          "readMinutes": 3,
-          "day": "Lundi",
-          "coverage": "8 et 9 novembre 2026"
-        }
-      },
-      "translation": {
-        "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-09T10:07:30.786Z"
-      },
-      "publishedAt": "2026-11-09T10:07:30.786Z"
     }
   ]
 }
