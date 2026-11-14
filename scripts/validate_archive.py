@@ -26,6 +26,17 @@ for e in items:
         assert isinstance(fr.get(k),str) and fr[k].strip(), f"Missing French {k}"
     for sec in ("bigPicture","reads","radar","signals"):
         assert len(e.get(sec,[]))==len(fr.get(sec,[])), f"{e['date']}: {sec} count differs"
+    # Key observations may use either legacy {title, detail} objects or plain text.
+    # The site's renderer supports both, and each locale must have visible content.
+    for original, translated in zip(e.get("bigPicture", []), fr.get("bigPicture", [])):
+        assert type(original) is type(translated), f"{e['date']}: bigPicture representation differs"
+        if isinstance(original, str):
+            assert original.strip() and translated.strip(), f"{e['date']}: blank bigPicture text"
+        else:
+            assert isinstance(original, dict), f"{e['date']}: unsupported bigPicture entry"
+            for field in ("title", "detail"):
+                assert isinstance(original.get(field), str) and original[field].strip(), f"{e['date']}: blank English bigPicture.{field}"
+                assert isinstance(translated.get(field), str) and translated[field].strip(), f"{e['date']}: blank French bigPicture.{field}"
     for sec in ("reads","radar"):
         for original,translated in zip(e.get(sec,[]),fr.get(sec,[])):
             for field in ("url","published","updated","verifiedAt","priority"):
