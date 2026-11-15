@@ -1,6 +1,49 @@
 {
   "editions": [
     {
+      "id": "2026-11-15",
+      "date": "2026-11-15",
+      "coverageStart": "2026-11-14T09:58:43.555Z",
+      "coverageEnd": "2026-11-15T09:59:55.556Z",
+      "generatedAt": "2026-11-15T09:59:55.556Z",
+      "headline": "No material new sovereign cloud developments verified today",
+      "deck": "The November 15 scan of Canadian and international public sources found no new development that met the briefing's significance and verification threshold. Recent substantive coverage remains available in the dated archive.",
+      "bigPicture": [],
+      "reads": [],
+      "radar": [],
+      "question": "Which service-level evidence would best demonstrate Canadian operational control, resilience and predictable costs for sensitive sovereign cloud workloads?",
+      "signals": [],
+      "editorialNote": "Research on November 15, 2026 reviewed Canadian federal digital transformation and sovereign AI announcements, English and French government publications, cloud infrastructure and procurement developments, international AI sovereignty coverage, and Canadian Centre for Cyber Security advisories. The November 13 Apache HTTP Server, n8n and Johnson Controls advisories were considered routine product advisories without evidence in the reviewed sources of a significant federal hosting incident or portfolio-wide decision. Older Canadian sovereign compute announcements and the November 13 European Council discussion were excluded as previously reported or outside the new-news window. No newly dated, sufficiently verified material development qualified for Must Read or Radar. The live Morning Scoop and Quebec French Translator skills were unavailable in this runtime; the established research instructions and embedded Quebec French translation instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
+      "readMinutes": 1,
+      "day": "Sunday",
+      "coverage": "November 14–15, 2026",
+      "translations": {
+        "fr": {
+          "id": "2026-11-15",
+          "date": "2026-11-15",
+          "coverageStart": "2026-11-14T09:58:43.555Z",
+          "coverageEnd": "2026-11-15T09:59:55.556Z",
+          "generatedAt": "2026-11-15T09:59:55.556Z",
+          "headline": "Aucun nouveau développement majeur vérifié aujourd’hui dans le domaine de l’infonuagique souveraine",
+          "deck": "La veille du 15 novembre dans les sources publiques canadiennes et internationales n’a révélé aucun nouveau développement répondant aux critères de pertinence et de vérification du bulletin. Les nouvelles importantes récentes demeurent accessibles dans les archives datées.",
+          "bigPicture": [],
+          "reads": [],
+          "radar": [],
+          "question": "Quelles preuves liées aux niveaux de service démontreraient le mieux le contrôle opérationnel canadien, la résilience et la prévisibilité des coûts pour les charges de travail sensibles dans l’infonuagique souveraine?",
+          "signals": [],
+          "editorialNote": "La veille du 15 novembre 2026 a porté sur la transformation numérique fédérale, les annonces canadiennes sur l’IA souveraine, les publications gouvernementales en français et en anglais, l’infrastructure et l’approvisionnement infonuagiques, les développements internationaux en souveraineté de l’IA et les avis du Centre canadien pour la cybersécurité. Les avis du 13 novembre concernant Apache HTTP Server, n8n et Johnson Controls ont été examinés comme des avis courants sur des produits, sans preuve dans les sources consultées d’un incident important touchant l’hébergement fédéral ou d’une décision à l’échelle du portefeuille. Les anciennes annonces canadiennes sur le calcul souverain et les discussions du Conseil européen du 13 novembre ont été exclues parce qu’elles avaient déjà été couvertes ou ne constituaient pas de nouvelles informations. Aucun nouveau développement suffisamment important, daté et vérifié ne répondait aux critères de sélection des articles prioritaires ou à surveiller. Les compétences en direct du Morning Scoop et du traducteur en français québécois n’étaient pas accessibles dans cet environnement; les instructions de recherche établies et les instructions intégrées de traduction en français québécois ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’intelligence artificielle. Aucune approbation du gouvernement du Canada n’est sous-entendue.",
+          "readMinutes": 1,
+          "day": "Dimanche",
+          "coverage": "14 et 15 novembre 2026"
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-15T09:59:55.556Z"
+      },
+      "publishedAt": "2026-11-15T09:59:55.556Z"
+    },
+    {
       "id": "2026-11-14",
       "date": "2026-11-14",
       "coverageStart": "2026-11-13T10:00:00.000Z",
@@ -393,203 +436,6 @@
         "translatedAt": "2026-11-11T09:58:59.574Z"
       },
       "publishedAt": "2026-11-11T09:58:59.574Z"
-    },
-    {
-      "id": "2026-11-10",
-      "date": "2026-11-10",
-      "coverageStart": "2026-11-09T10:00:00.000Z",
-      "coverageEnd": "2026-11-10T10:01:18.875Z",
-      "generatedAt": "2026-11-10T10:01:18.875Z",
-      "headline": "Norway pauses data centre grid reservations as power equipment shortages deepen",
-      "deck": "Norway's grid operator has paused new capacity reservations for data centres while the government considers tighter oversight. Global shortages of generating equipment add pressure to hosting delivery schedules.",
-      "bigPicture": [
-        {
-          "title": "Grid approval is a distinct capacity milestone",
-          "detail": "Norway's grid operator reports large differences between connected, reserved and queued data centre power."
-        },
-        {
-          "title": "Data centre electrical behaviour is under scrutiny",
-          "detail": "Statnett identifies rapid software-driven changes in power consumption and disturbance sensitivity as operational concerns."
-        },
-        {
-          "title": "Generating equipment has long delivery lead times",
-          "detail": "Reuters reports demand for refurbished turbines and retired jet engines as new turbine production struggles to keep up."
-        }
-      ],
-      "reads": [
-        {
-          "published": "2026-11-09",
-          "priority": "Strategic",
-          "url": "https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/",
-          "verifiedAt": "2026-11-10T10:01:18.875Z",
-          "title": "Norway's grid operator pauses new data centre power reservations",
-          "source": "Statnett (Norway)",
-          "category": "Sovereign infrastructure and grid policy",
-          "what": "Statnett announced a temporary halt to new grid-capacity reservations for data centres on November 9, expected to end by August 1, 2027. Existing connections are unaffected. Norway's government separately outlined plans to consider a licensing framework.",
-          "why": "Portfolio assessment: power availability and technical grid approval should be tracked separately from announced or reserved computing capacity.",
-          "takeaway": "Use distinct milestones for connected electricity, reserved capacity, grid approvals and commissioned hosting services.",
-          "executiveSummary": {
-            "overview": "On November 9, Norway's electricity transmission operator Statnett announced a temporary pause on new grid-capacity reservations for data centres and certain applications for technical approval of facilities. It expects to lift the pause by August 1, 2027 at the latest, after developing technical requirements and compliance mechanisms. Statnett said 800 megawatts of data centres are connected to the grid, 4,200 MW have reserved capacity, 9,100 MW are queued, and further requests total 18,000 MW. Norway's peak national demand is a little over 25,000 MW. The operator emphasized that existing connections are unaffected and that the measure is not a blanket ban on all connections: some facilities with previously approved technical requirements may still connect. It identified risks from rapid changes in data centre power draw, software-controlled loads and sensitivity to disturbances. In a separate November 9 announcement, Norway's government said it was considering a licensing framework for data centres, potentially incorporating security, emergency preparedness and domestic AI capacity needs. The framework is a proposal, not a law already in force.",
-            "keyPoints": [
-              "Statnett announced a temporary pause on new data-centre grid reservations and selected technical approval applications on November 9, with an expected end no later than August 1, 2027.",
-              "Statnett reported 800 MW already connected, 4,200 MW reserved, 9,100 MW queued and a further 18,000 MW in connection requests, reflecting very different stages of readiness.",
-              "Norway's government separately announced work toward a possible data-centre licensing regime that could assess security, preparedness and socially valuable computing capacity."
-            ],
-            "implications": "Sovereign hosting capacity roadmaps should distinguish connected power, reserved power, applications in a queue and preliminary requests. These stages carry materially different delivery confidence. Procurement and programme reviews can require evidence of grid approval, operational requirements and the ability of facilities to manage abrupt workload-driven power changes. A proposed licensing regime that considers critical services also suggests the value of explaining the public purpose of government-controlled capacity. Norwegian decisions do not apply directly to Canada, but the operational constraints are relevant to planning any large data centre portfolio.",
-            "watch": "Monitor Statnett's consultation on functional requirements, its regulator's approvals, the actual resumption of reservations and Norway's proposed licensing legislation.",
-            "caveat": "Figures, scope and exceptions are taken from Statnett's November 9 primary-source statement. The government's licensing intentions come from its separate official announcement. Both original releases are in Norwegian. Future requirements remain subject to development and consultation."
-          }
-        },
-        {
-          "published": "2026-11-09",
-          "priority": "Strategic",
-          "url": "https://www.reuters.com/business/aerospace-defense/ai-power-rush-sends-data-centres-hunting-used-turbines-jet-engines-2026-11-09/",
-          "verifiedAt": "2026-11-10T10:01:18.875Z",
-          "title": "AI data centre developers seek used turbines and jet engines amid power shortages",
-          "source": "Reuters",
-          "category": "Supply chain and power infrastructure",
-          "what": "Reuters reports strong demand for gas turbines and long manufacturing lead times, prompting some developers to seek refurbished generating equipment and converted jet engines.",
-          "why": "Portfolio assessment: electricity generation and related equipment may be a critical supply-chain constraint for planned hosting capacity.",
-          "takeaway": "Verify power-equipment delivery and operating readiness before committing to future hosting capacity dates.",
-          "executiveSummary": {
-            "overview": "Reuters reported on November 9 that strong demand for electricity to supply artificial intelligence data centres is driving developers and utilities toward used and refurbished gas turbines, mothballed equipment and converted jet engines. Manufacturers are facing an order backlog. Reuters reported more than 100 gigawatts of global gas-turbine orders against estimated annual manufacturing capacity of roughly 60 to 70 GW, with some new equipment delivery discussions stretching into 2030 or 2031. Developers are therefore examining second-hand units as a faster route to power generation. Used equipment has limitations: availability is finite, service histories can be incomplete, and equipment originally built for different duty cycles may require significant work before continuous operation. The Reuters account also noted that grid connections and permits remain constraints even where generating equipment can be obtained. This is an international market trend; the reporting does not establish that Canadian government cloud projects are seeking these specific technologies.",
-            "keyPoints": [
-              "Reuters reported that demand for gas turbines has exceeded manufacturing capacity, with orders above 100 GW and annual output estimated around 60 to 70 GW.",
-              "Data centre developers and utilities are reportedly considering refurbished turbines, retired jet engines and previously mothballed equipment to reduce waiting times.",
-              "Equipment availability alone does not establish power readiness because permits, grid connections, installation, maintenance and operating suitability remain necessary."
-            ],
-            "implications": "Long-term hosting and hardware procurement plans should treat electrical generation equipment as a potential supply-chain dependency, with delivery windows supported by supplier evidence. When vendors propose temporary or refurbished generation, diligence should cover remaining useful life, reliability, maintenance, emissions requirements and integration with grid and backup systems. Total cost should include installation and ongoing operation rather than equipment purchase alone. Public-sector capacity commitments should be linked to demonstrated commissioned power. This is an analytical application of global reporting and does not suggest a specific Government of Canada project uses refurbished turbines.",
-            "watch": "Track manufacturer delivery lead times, secondary-market equipment prices, permitting constraints and evidence that proposed generating equipment has entered sustained operation.",
-            "caveat": "The source is Reuters reporting on global equipment markets and industry participants. Estimates and lead times may vary by equipment class and region. Canadian federal project implications are analytical rather than reported facts."
-          }
-        }
-      ],
-      "radar": [],
-      "deepRead": {
-        "title": "Norway's government outlines plans for controlled data centre growth",
-        "source": "Government of Norway",
-        "published": "2026-11-09",
-        "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/",
-        "verifiedAt": "2026-11-10T10:01:18.875Z",
-        "detail": "A complementary primary-source statement describes a possible licensing regime and the role of security, emergency preparedness and domestic AI computing needs."
-      },
-      "question": "Which stages of electricity readiness should be mandatory evidence before planned sovereign hosting capacity is counted in a three-year delivery roadmap?",
-      "signals": [
-        {
-          "title": "Grid technical requirements",
-          "detail": "Watch for new data centre power-management and disturbance-tolerance requirements."
-        },
-        {
-          "title": "Priority for critical digital infrastructure",
-          "detail": "Watch how governments assess the public value and security role of proposed facilities."
-        }
-      ],
-      "editorialNote": "Research checked on November 10, 2026 against Norwegian primary sources and Reuters. Statnett's announcement and the Norwegian government's separate statement were published November 9. The latter describes a proposed licensing framework, not enacted requirements. The global turbine market article is Reuters reporting. Portfolio implications are analytical. The original research and live Quebec French Translator skills were unavailable; the embedded user-selected Quebec French translation instructions were applied. Research, writing, translation and publication are automated using AI; no Government of Canada endorsement is implied.",
-      "readMinutes": 6,
-      "day": "Tuesday",
-      "coverage": "November 9–10, 2026",
-      "translations": {
-        "fr": {
-          "id": "2026-11-10",
-          "date": "2026-11-10",
-          "coverageStart": "2026-11-09T10:00:00.000Z",
-          "coverageEnd": "2026-11-10T10:01:18.875Z",
-          "generatedAt": "2026-11-10T10:01:18.875Z",
-          "headline": "La Norvège suspend les réservations d’électricité pour les centres de données sur fond de pénurie d’équipements",
-          "deck": "Le gestionnaire du réseau norvégien suspend les nouvelles réservations de capacité des centres de données pendant que le gouvernement envisage un encadrement accru. La pénurie mondiale d’équipements de production électrique complique aussi les échéanciers d’hébergement.",
-          "bigPicture": [
-            {
-              "title": "L’approbation du raccordement est un jalon distinct",
-              "detail": "Le gestionnaire norvégien du réseau souligne les différences importantes entre la capacité raccordée, réservée et en attente pour les centres de données."
-            },
-            {
-              "title": "Le comportement électrique des centres de données est examiné",
-              "detail": "Statnett signale les variations rapides de consommation commandées par logiciel et la sensibilité aux perturbations comme des enjeux opérationnels."
-            },
-            {
-              "title": "Les délais de livraison des équipements de production sont longs",
-              "detail": "Reuters fait état d’une demande accrue pour des turbines remises à neuf et d’anciens moteurs d’avion, alors que la production de nouvelles turbines peine à suivre."
-            }
-          ],
-          "reads": [
-            {
-              "published": "2026-11-09",
-              "priority": "Strategic",
-              "url": "https://www.statnett.no/om-statnett/nyheter-og-pressemeldinger/nyhetsarkiv-2026/midlertidige-tiltak-for-fortsatt-forsvarlig-systemdrift/",
-              "verifiedAt": "2026-11-10T10:01:18.875Z",
-              "title": "Le gestionnaire norvégien du réseau suspend les nouvelles réservations d’électricité pour les centres de données",
-              "source": "Statnett (Norvège)",
-              "category": "Infrastructures souveraines et politique du réseau électrique",
-              "what": "Statnett a annoncé le 9 novembre une suspension temporaire des nouvelles réservations de capacité du réseau pour les centres de données, qui devrait prendre fin au plus tard le 1er août 2027. Les raccordements existants ne sont pas touchés. Le gouvernement envisage séparément un régime de permis.",
-              "why": "Analyse du portefeuille : la disponibilité de l’électricité et les approbations techniques du réseau devraient être suivies séparément de la capacité informatique annoncée ou réservée.",
-              "takeaway": "Prévoir des jalons distincts pour l’électricité raccordée, la capacité réservée, les approbations du réseau et les services d’hébergement mis en exploitation.",
-              "executiveSummary": {
-                "overview": "Le 9 novembre, le gestionnaire norvégien du réseau de transport d’électricité, Statnett, a annoncé une suspension temporaire des nouvelles réservations de capacité du réseau pour les centres de données ainsi que de certaines demandes d’approbation technique des installations. Il prévoit lever la suspension au plus tard le 1er août 2027, après avoir établi des exigences techniques et des mécanismes de conformité. Selon Statnett, des centres de données représentant 800 mégawatts sont raccordés au réseau, 4 200 MW disposent de réservations, 9 100 MW attendent dans la file et d’autres demandes totalisent 18 000 MW. La demande nationale maximale dépasse légèrement 25 000 MW. Le gestionnaire précise que les raccordements existants ne sont pas touchés et que la mesure ne constitue pas une interdiction générale de tout nouveau raccordement : certaines installations ayant déjà obtenu les approbations techniques nécessaires peuvent encore être raccordées. Statnett signale les risques associés aux variations rapides de la consommation, aux charges contrôlées par logiciel et à la sensibilité aux perturbations. Dans une annonce distincte du 9 novembre, le gouvernement norvégien a indiqué envisager un régime de permis pour les centres de données qui pourrait tenir compte de la sécurité, de la préparation aux urgences et des besoins nationaux en capacité de calcul pour l’IA. Ce régime demeure un projet et n’est pas une loi en vigueur.",
-                "keyPoints": [
-                  "Statnett a annoncé le 9 novembre une suspension temporaire des nouvelles réservations de capacité et de certaines demandes d’approbation technique, dont la fin est prévue au plus tard le 1er août 2027.",
-                  "Statnett dénombre 800 MW déjà raccordés, 4 200 MW réservés, 9 100 MW en attente et 18 000 MW de demandes supplémentaires, ce qui correspond à des niveaux de préparation très différents.",
-                  "Le gouvernement norvégien a annoncé séparément des travaux en vue d’un éventuel régime de permis tenant compte de la sécurité, de la préparation aux urgences et de l’utilité sociale de la capacité de calcul."
-                ],
-                "implications": "Les feuilles de route d’hébergement souverain devraient distinguer l’électricité effectivement raccordée, la capacité réservée, les demandes en attente et les demandes préliminaires. Ces étapes présentent des degrés de confiance très différents quant à la livraison. Les examens d’approvisionnement et de programmes peuvent exiger des preuves d’autorisation de raccordement, de respect des exigences opérationnelles et de capacité des installations à gérer des variations rapides de consommation liées aux charges de travail. Un éventuel régime de permis tenant compte des services essentiels souligne aussi l’importance de démontrer la valeur publique des capacités contrôlées par le gouvernement. Les décisions norvégiennes ne s’appliquent pas directement au Canada, mais les contraintes opérationnelles sont pertinentes pour la planification des grands portefeuilles de centres de données.",
-                "watch": "Surveiller la consultation de Statnett sur les exigences fonctionnelles, les approbations de l’autorité de réglementation, la reprise effective des réservations et le projet de régime de permis norvégien.",
-                "caveat": "Les chiffres, la portée et les exceptions proviennent de la déclaration officielle de Statnett du 9 novembre. Les intentions relatives aux permis proviennent d’une annonce gouvernementale distincte. Les deux communiqués originaux sont en norvégien. Les exigences futures demeurent à élaborer et à soumettre à consultation."
-              }
-            },
-            {
-              "published": "2026-11-09",
-              "priority": "Strategic",
-              "url": "https://www.reuters.com/business/aerospace-defense/ai-power-rush-sends-data-centres-hunting-used-turbines-jet-engines-2026-11-09/",
-              "verifiedAt": "2026-11-10T10:01:18.875Z",
-              "title": "Les promoteurs de centres de données d’IA recherchent des turbines usagées et des moteurs d’avion",
-              "source": "Reuters",
-              "category": "Chaîne d’approvisionnement et infrastructures électriques",
-              "what": "Reuters signale une forte demande de turbines à gaz et de longs délais de fabrication, qui poussent certains promoteurs à rechercher des équipements de production remis à neuf et des moteurs d’avion convertis.",
-              "why": "Analyse du portefeuille : la production d’électricité et les équipements connexes peuvent constituer une contrainte majeure de la chaîne d’approvisionnement pour la capacité d’hébergement projetée.",
-              "takeaway": "Vérifier la livraison des équipements électriques et leur préparation opérationnelle avant de fixer les dates de disponibilité de la capacité d’hébergement.",
-              "executiveSummary": {
-                "overview": "Reuters a rapporté le 9 novembre que la forte demande d’électricité des centres de données d’intelligence artificielle pousse les promoteurs et les services publics à rechercher des turbines à gaz usagées ou remises à neuf, des équipements mis hors service et des moteurs d’avion convertis. Les fabricants font face à un carnet de commandes important. Selon Reuters, les commandes mondiales de turbines à gaz dépassent 100 gigawatts, tandis que la capacité annuelle de fabrication est estimée à environ 60 à 70 GW. Certaines discussions sur la livraison de nouveaux équipements portent déjà sur 2030 ou 2031. Les promoteurs examinent donc le matériel d’occasion pour accélérer la production d’électricité. Ces équipements comportent des limites : les stocks sont restreints, l’historique d’entretien peut être incomplet et le matériel conçu pour d’autres conditions d’utilisation peut nécessiter d’importantes modifications avant de fonctionner en continu. Reuters souligne aussi que les raccordements au réseau et les permis demeurent des contraintes, même lorsque l’équipement de production est disponible. Il s’agit d’une tendance internationale; le reportage n’établit pas que des projets infonuagiques du gouvernement du Canada recherchent ces technologies précises.",
-                "keyPoints": [
-                  "Selon Reuters, les commandes de turbines à gaz dépassent la capacité de fabrication, avec plus de 100 GW de commandes et une production annuelle estimée entre 60 et 70 GW.",
-                  "Des promoteurs de centres de données et des services publics envisageraient des turbines remises à neuf, d’anciens moteurs d’avion et des équipements précédemment mis hors service pour réduire les délais.",
-                  "La disponibilité des équipements ne garantit pas une alimentation électrique prête à fonctionner : les permis, le raccordement, l’installation, l’entretien et l’aptitude à l’exploitation demeurent nécessaires."
-                ],
-                "implications": "Les plans d’hébergement et d’approvisionnement en matériel à long terme devraient traiter les équipements de production électrique comme une dépendance possible de la chaîne d’approvisionnement, avec des délais appuyés par des preuves des fournisseurs. Lorsqu’un fournisseur propose une production temporaire ou du matériel remis à neuf, l’analyse devrait porter sur la durée de vie restante, la fiabilité, l’entretien, les exigences environnementales et l’intégration au réseau et aux systèmes de secours. Le coût total devrait inclure l’installation et l’exploitation continue. Les engagements de capacité du secteur public devraient être liés à une alimentation électrique effectivement mise en service. Il s’agit d’une analyse de tendances mondiales, sans indication qu’un projet précis du gouvernement du Canada utilise des turbines remises à neuf.",
-                "watch": "Suivre les délais de livraison des fabricants, les prix du matériel d’occasion, les contraintes liées aux permis et les preuves de mise en exploitation continue des équipements proposés.",
-                "caveat": "La source est un reportage de Reuters sur les marchés mondiaux des équipements et les intervenants de l’industrie. Les estimations et les délais varient selon le type d’équipement et la région. Les implications pour les projets fédéraux canadiens relèvent de l’analyse."
-              }
-            }
-          ],
-          "radar": [],
-          "deepRead": {
-            "title": "Le gouvernement norvégien présente ses projets de croissance encadrée des centres de données",
-            "source": "Gouvernement de la Norvège",
-            "published": "2026-11-09",
-            "url": "https://www.regjeringen.no/no/aktuelt/regjeringen-vil-ha-en-kontrollert-vekst-av-samfunnsnyttige-datasentre-i-norge/id3192054/",
-            "verifiedAt": "2026-11-10T10:01:18.875Z",
-            "detail": "Cette déclaration officielle complémentaire décrit un éventuel régime de permis et l’importance de la sécurité, de la préparation aux urgences et des besoins nationaux en calcul pour l’IA."
-          },
-          "question": "Quelles étapes de préparation de l’alimentation électrique devraient être obligatoirement démontrées avant de compter la capacité souveraine projetée dans une feuille de route de livraison sur trois ans ?",
-          "signals": [
-            {
-              "title": "Exigences techniques du réseau",
-              "detail": "Surveiller les nouvelles exigences de gestion de la consommation et de tolérance aux perturbations pour les centres de données."
-            },
-            {
-              "title": "Priorité aux infrastructures numériques essentielles",
-              "detail": "Surveiller les méthodes utilisées par les gouvernements pour évaluer la valeur publique et le rôle de sécurité des installations proposées."
-            }
-          ],
-          "editorialNote": "Recherche vérifiée le 10 novembre 2026 à partir de sources officielles norvégiennes et de Reuters. Les annonces de Statnett et du gouvernement norvégien datent du 9 novembre. La seconde présente un régime de permis envisagé et non des exigences déjà adoptées. L’article sur les turbines est un reportage de Reuters. Les implications pour le portefeuille sont des analyses. Le module de recherche original et le module de traduction en français québécois étaient indisponibles; les instructions de traduction intégrées choisies par l’utilisateur ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’intelligence artificielle; aucune approbation du gouvernement du Canada n’est sous-entendue.",
-          "readMinutes": 7,
-          "day": "Mardi",
-          "coverage": "9 et 10 novembre 2026"
-        }
-      },
-      "translation": {
-        "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-10T10:01:18.878Z"
-      },
-      "publishedAt": "2026-11-10T10:01:18.878Z"
     }
   ]
 }
