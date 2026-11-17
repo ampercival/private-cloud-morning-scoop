@@ -1,6 +1,119 @@
 {
   "editions": [
     {
+      "id": "2026-11-17",
+      "date": "2026-11-17",
+      "coverageStart": "2026-11-16T10:39:47.456Z",
+      "coverageEnd": "2026-11-17T10:01:09.217Z",
+      "generatedAt": "2026-11-17T10:01:09.217Z",
+      "radar": [],
+      "readMinutes": 4,
+      "day": "Tuesday",
+      "coverage": "November 16–17, 2026",
+      "headline": "Canada puts sovereign connectivity across national networks on the policy agenda",
+      "deck": "A November 16 federal statement links Canadian sovereignty to control and resilience across telecommunications networks. For sovereign hosting, the signal raises practical questions about connectivity dependencies and recovery design.",
+      "bigPicture": [
+        {
+          "title": "Sovereignty includes the network layer",
+          "detail": "Ottawa explicitly named submarine cables, fibre backbones, fixed and wireless networks and satellites as part of sovereign connectivity policy."
+        },
+        {
+          "title": "Policy details remain to come",
+          "detail": "The minister described work to update frameworks but announced no specific cloud requirement or technical standard."
+        }
+      ],
+      "reads": [
+        {
+          "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/statement-from-minister-joly-on-quebecor-and-telus.html",
+          "published": "2026-11-16",
+          "verifiedAt": "2026-11-17T10:01:09.217Z",
+          "priority": "Strategic",
+          "title": "Ottawa identifies sovereign connectivity across Canadian networks as a policy priority",
+          "source": "Innovation, Science and Economic Development Canada",
+          "category": "Canadian digital sovereignty and critical connectivity",
+          "what": "In a November 16 statement on Quebecor's proposed combination with Telus, Industry Minister Mélanie Joly said Canada is updating policy and regulatory frameworks for sovereign connectivity, including submarine cables, fibre backbones, fixed and wireless networks and satellites. The proposed transaction remains subject to independent review.",
+          "why": "Portfolio assessment: network control, resilience and jurisdiction are relevant dependencies for sovereign cloud and AI services. This statement signals a wider federal sovereignty lens but does not establish a new hosting standard.",
+          "takeaway": "Map critical network and cross-border dependencies for sensitive hosting and recovery services, and monitor any resulting federal connectivity rules.",
+          "executiveSummary": {
+            "overview": "On November 16, 2026, Innovation, Science and Economic Development Canada published a statement by Industry Minister Mélanie Joly responding to Quebecor's proposed strategic combination with Telus. The minister described reliable, resilient and affordable telecommunications networks as important to the economy, national security and Canadian sovereignty. She said the federal government is updating its public policies and regulatory framework to address sovereign connectivity across submarine cables, backbone fibre networks, fixed and wireless communications and satellites. The statement framed this work against geopolitical and technological changes. It also said the Quebecor-Telus proposal would receive independent review by the Competition Bureau and the Canadian Radio-television and Telecommunications Commission under the Telecommunications Act. The minister explicitly declined to prejudge the outcome. This is a public ministerial policy statement, not an announced approval of the proposed transaction. The announcement contains no detailed new network-control standard, funding envelope, procurement instrument or implementation schedule. The official French-language release conveys the same scope and regulatory qualification.",
+            "keyPoints": [
+              "The November 16 statement explicitly includes undersea cables, fibre backbones, fixed and wireless networks and satellites in the government's sovereign connectivity policy focus.",
+              "The minister said federal policy and regulatory frameworks are being updated, without publishing a specific new technical standard or timetable in this statement.",
+              "The proposed Quebecor-Telus combination remains subject to independent Competition Bureau and CRTC review, with no outcome predetermined."
+            ],
+            "implications": "For sovereign private cloud, backup and AI hosting, this is a reason to examine the connectivity layer as part of operational sovereignty. Service assurance may need to describe carrier concentration, routing dependencies, cross-border links, failure domains and recovery connectivity. These are analytical planning implications. The statement does not impose new requirements on GC hosting services or establish that a particular provider meets Canadian-control criteria.",
+            "watch": "Watch for formal ISED policy proposals, Telecommunications Act or CRTC proceedings, procurement conditions affecting sovereign connectivity, and the independent review of the proposed transaction. Look for published definitions of control, resilience and jurisdiction that can be tested against cloud service dependencies.",
+            "caveat": "Primary evidence is ISED's November 16 English statement, cross-checked with the official French version. The statement announces policy direction in general terms and comments on a proposed corporate transaction. No detailed implementation, merger approval or cloud-specific regulatory change was announced."
+          }
+        }
+      ],
+      "signals": [
+        "Federal sovereignty discussions now explicitly encompass national and international communications infrastructure."
+      ],
+      "question": "What network dependencies and cross-border routing paths must be evidenced before a hosting service can claim operational sovereignty?",
+      "editorialNote": "The November 17 scan reviewed Canadian and European primary sources in English and French, federal AI and digital transformation news, connectivity policy, cloud and cybersecurity developments and recent independent reporting. The November 16 ISED ministerial statement is a verified new development. The European Commission's November 16 Apply AI Summit announcement was assessed as an advance event notice and not repeated as a policy decision. Strategic implications are explicitly marked as assessment. The live Morning Scoop and Quebec French Translator skills were unavailable in this runtime; established research instructions and the embedded user-selected Quebec French translation instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
+      "publishedAt": "2026-11-17T10:01:09.217Z",
+      "translations": {
+        "fr": {
+          "id": "2026-11-17",
+          "date": "2026-11-17",
+          "coverageStart": "2026-11-16T10:39:47.456Z",
+          "coverageEnd": "2026-11-17T10:01:09.217Z",
+          "generatedAt": "2026-11-17T10:01:09.217Z",
+          "radar": [],
+          "readMinutes": 4,
+          "day": "Mardi",
+          "coverage": "16 et 17 novembre 2026",
+          "headline": "Le Canada inscrit la connectivité souveraine des réseaux nationaux à son programme de politiques",
+          "deck": "Une déclaration fédérale du 16 novembre associe la souveraineté canadienne au contrôle et à la résilience des réseaux de télécommunications. Pour l'hébergement souverain, cette orientation soulève des questions concrètes sur les dépendances de connectivité et la conception de la reprise.",
+          "bigPicture": [
+            {
+              "title": "La souveraineté comprend la couche réseau",
+              "detail": "Ottawa a expressément nommé les câbles sous-marins, les réseaux de base en fibre optique, les réseaux fixes et sans fil ainsi que les satellites dans sa politique de connectivité souveraine."
+            },
+            {
+              "title": "Les précisions réglementaires restent à venir",
+              "detail": "La ministre a évoqué la mise à jour des cadres sans annoncer d'exigence infonuagique précise ni de norme technique."
+            }
+          ],
+          "reads": [
+            {
+              "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/statement-from-minister-joly-on-quebecor-and-telus.html",
+              "published": "2026-11-16",
+              "verifiedAt": "2026-11-17T10:01:09.217Z",
+              "priority": "Strategic",
+              "title": "Ottawa fait de la connectivité souveraine des réseaux canadiens une priorité de politique publique",
+              "source": "Innovation, Sciences et Développement économique Canada",
+              "category": "Souveraineté numérique canadienne et connectivité essentielle",
+              "what": "Dans une déclaration du 16 novembre sur le regroupement proposé entre Québecor et Telus, la ministre de l'Industrie, Mélanie Joly, a indiqué que le Canada met à jour ses politiques et son cadre réglementaire en matière de connectivité souveraine. Elle a cité les câbles sous-marins, les réseaux de base en fibre optique, les réseaux fixes et sans fil ainsi que les satellites. La transaction proposée demeure soumise à un examen indépendant.",
+              "why": "Analyse du portefeuille : le contrôle des réseaux, leur résilience et les questions de compétence territoriale sont des dépendances importantes pour les services infonuagiques et d'IA souverains. La déclaration élargit la portée de la souveraineté fédérale sans établir de nouvelle norme d'hébergement.",
+              "takeaway": "Cartographier les dépendances réseau essentielles et transfrontalières des services d'hébergement et de reprise sensibles, et suivre les nouvelles règles fédérales éventuelles en matière de connectivité.",
+              "executiveSummary": {
+                "overview": "Le 16 novembre 2026, Innovation, Sciences et Développement économique Canada a publié une déclaration de la ministre de l'Industrie, Mélanie Joly, au sujet du regroupement stratégique proposé entre Québecor et Telus. La ministre a souligné l'importance de réseaux de télécommunications fiables, résilients et abordables pour l'économie, la sécurité nationale et la souveraineté canadienne. Elle a indiqué que le gouvernement fédéral met à jour ses politiques publiques et son cadre réglementaire afin d'assurer une connectivité souveraine couvrant les câbles sous-marins, les réseaux de base en fibre optique, les réseaux fixes et sans fil ainsi que les satellites. La déclaration situe ces travaux dans un contexte de changements géopolitiques et technologiques. Elle précise aussi que la proposition Québecor-Telus sera soumise à un examen indépendant du Bureau de la concurrence et du Conseil de la radiodiffusion et des télécommunications canadiennes, conformément à la Loi sur les télécommunications. La ministre a expressément refusé de présumer du résultat. Il s'agit d'une déclaration ministérielle publique sur l'orientation des politiques, et non d'une approbation de la transaction proposée. Aucune nouvelle norme détaillée sur le contrôle des réseaux, enveloppe de financement, mesure d'approvisionnement ou échéance de mise en œuvre n'y figure. Le communiqué officiel en anglais présente la même portée et les mêmes réserves réglementaires.",
+                "keyPoints": [
+                  "La déclaration du 16 novembre inclut explicitement les câbles sous-marins, les réseaux de base en fibre optique, les réseaux fixes et sans fil ainsi que les satellites dans la priorité gouvernementale de connectivité souveraine.",
+                  "La ministre a indiqué que les politiques et le cadre réglementaire fédéraux sont en cours de mise à jour, sans publier de nouvelle norme technique précise ni d'échéancier dans cette déclaration.",
+                  "Le regroupement proposé entre Québecor et Telus demeure soumis à l'examen indépendant du Bureau de la concurrence et du CRTC, sans décision prédéterminée."
+                ],
+                "implications": "Pour les services infonuagiques privés souverains, la sauvegarde et l'hébergement de l'IA, cette déclaration invite à considérer la connectivité dans l'évaluation de la souveraineté opérationnelle. L'assurance des services pourrait décrire la concentration des fournisseurs, les dépendances de routage, les liens transfrontaliers, les domaines de défaillance et la connectivité de reprise. Il s'agit de pistes de planification. La déclaration n'impose aucune nouvelle exigence aux services d'hébergement du gouvernement du Canada et ne confirme pas qu'un fournisseur satisfait à des critères de contrôle canadien.",
+                "watch": "Surveiller les propositions officielles d'ISDE, les procédures relevant de la Loi sur les télécommunications ou du CRTC, les conditions d'approvisionnement touchant la connectivité souveraine et l'examen indépendant de la transaction proposée. Rechercher les définitions publiées du contrôle, de la résilience et de la compétence territoriale qui pourraient servir à évaluer les dépendances infonuagiques.",
+                "caveat": "La source principale est la déclaration française d'ISDE du 16 novembre, vérifiée avec la version officielle anglaise. Elle présente une orientation générale des politiques et commente une transaction d'entreprise proposée. Aucune mise en œuvre détaillée, approbation du regroupement ou modification réglementaire propre à l'infonuagique n'a été annoncée."
+              }
+            }
+          ],
+          "signals": [
+            "Les discussions fédérales sur la souveraineté englobent maintenant explicitement les infrastructures de communication nationales et internationales."
+          ],
+          "question": "Quelles dépendances réseau et quelles voies de routage transfrontalières doivent être documentées avant de pouvoir affirmer qu'un service d'hébergement est souverain sur le plan opérationnel?",
+          "editorialNote": "La veille du 17 novembre a examiné des sources primaires canadiennes et européennes en français et en anglais, les nouvelles fédérales sur l'IA et la transformation numérique, les politiques de connectivité, l'infonuagique, la cybersécurité et des reportages indépendants récents. La déclaration ministérielle d'ISDE du 16 novembre constitue un nouveau développement vérifié. L'annonce de la Commission européenne du 16 novembre concernant le sommet Apply AI a été évaluée comme une annonce préalable d'événement et n'a pas été reprise comme décision de politique. Les conséquences stratégiques sont explicitement présentées comme des analyses. Les compétences en direct du Morning Scoop et du traducteur en français québécois n'étaient pas accessibles; les instructions de recherche établies et les instructions intégrées du traducteur choisi ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l'intelligence artificielle. Aucune approbation du gouvernement du Canada n'est sous-entendue."
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-17T10:01:09.217Z"
+      }
+    },
+    {
       "id": "2026-11-16",
       "date": "2026-11-16",
       "coverageStart": "2026-11-15T09:59:55.556Z",
@@ -341,101 +454,6 @@
         "translatedAt": "2026-11-13T12:01:27.696Z"
       },
       "publishedAt": "2026-11-13T12:01:27.696Z"
-    },
-    {
-      "id": "2026-11-12",
-      "date": "2026-11-12",
-      "coverageStart": "2026-11-11T10:00:00.000Z",
-      "coverageEnd": "2026-11-12T10:01:46.122Z",
-      "generatedAt": "2026-11-12T10:01:46.122Z",
-      "headline": "EU cloud procurement proposals sharpen debate over sovereign control",
-      "deck": "A UK industry group has warned that proposed European cloud assurance requirements could restrict access to public contracts. The debate highlights the growing importance of operational and legal control in sovereign hosting.",
-      "bigPicture": [
-        "Proposed assurance levels extend sovereignty discussions to operational staffing, data handling and foreign control."
-      ],
-      "reads": [
-        {
-          "source": "ITPro",
-          "published": "2026-11-11",
-          "priority": "Strategic",
-          "url": "https://www.itpro.com/business/policy-and-legislation/new-eu-cloud-sovereignty-laws-could-lock-british-firms-out-of-public-contracts",
-          "verifiedAt": "2026-11-12T10:01:46.122Z",
-          "title": "UK industry warns of proposed EU sovereign cloud procurement restrictions",
-          "category": "Sovereignty and procurement",
-          "what": "ITPro reports that techUK is concerned proposed EU cloud assurance tiers could restrict British firms' eligibility for higher-assurance public contracts. The requirements remain under consideration.",
-          "why": "Portfolio assessment: sovereignty procurement rules may increasingly require evidence of control over operations, staff and legal exposure.",
-          "takeaway": "Define measurable sovereignty assurance requirements for sensitive hosting services and monitor the European proposal.",
-          "executiveSummary": {
-            "overview": "A November 11 report describes concerns raised by UK technology industry group techUK about the European Union's proposed Cloud and AI Development Act. The proposal is described as establishing four assurance levels for cloud and AI suppliers seeking European public contracts. The higher levels would impose requirements concerning regional staffing, data processing, storage and foreign control. The report says techUK estimates that British firms could face substantial lost opportunities if the strictest criteria are adopted. These remain proposals and industry estimates, rather than enacted procurement requirements.",
-            "keyPoints": [
-              "The reported proposal would introduce four assurance levels for cloud and AI services in European public procurement.",
-              "At higher levels, eligibility would depend on operational control, personnel location and exposure to foreign ownership or influence.",
-              "UK industry group techUK has warned that these requirements could restrict British suppliers' access to some public contracts."
-            ],
-            "implications": "For Canadian sovereign hosting portfolios, the development provides a useful policy comparison. Sovereignty assurance may increasingly require documented evidence about operational authority, privileged access, personnel, subcontractors and legal control. Procurement teams should distinguish enforceable requirements from proposals and consider proportionate assurance tiers for workloads with different sensitivities.",
-            "watch": "Monitor the European Commission's legislative text, consultation process, eventual definitions of assurance levels, and any trusted-partner provisions. Assess whether comparable evidence requirements appear in Canadian procurement or security policy.",
-            "caveat": "This account relies on ITPro's November 11 reporting of techUK's position and proposed European measures. Economic impact figures are industry estimates. The final legislative text, implementation schedule and procurement consequences remain uncertain."
-          }
-        }
-      ],
-      "radar": [],
-      "question": "What evidence should distinguish baseline Canadian data residency from higher-assurance sovereign hosting for sensitive workloads?",
-      "signals": [],
-      "editorialNote": "Review of public English and French sources through November 12, 2026. The featured report is a November 11 secondary account of an industry response to proposed EU rules; the legislative outcome is uncertain. The original research and live translation skills were unavailable; embedded Quebec French translation instructions were used. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
-      "readMinutes": 3,
-      "day": "Thursday",
-      "coverage": "November 11–12, 2026",
-      "translations": {
-        "fr": {
-          "id": "2026-11-12",
-          "date": "2026-11-12",
-          "coverageStart": "2026-11-11T10:00:00.000Z",
-          "coverageEnd": "2026-11-12T10:01:46.122Z",
-          "generatedAt": "2026-11-12T10:01:46.122Z",
-          "headline": "Les propositions européennes d’approvisionnement infonuagique relancent le débat sur le contrôle souverain",
-          "deck": "Une association britannique du secteur technologique prévient que les exigences européennes proposées en matière d’assurance infonuagique pourraient limiter l’accès aux marchés publics. Ce débat souligne l’importance croissante du contrôle opérationnel et juridique dans l’hébergement souverain.",
-          "bigPicture": [
-            "Les niveaux d’assurance proposés élargissent le débat sur la souveraineté au personnel opérationnel, au traitement des données et au contrôle étranger."
-          ],
-          "reads": [
-            {
-              "source": "ITPro",
-              "published": "2026-11-11",
-              "priority": "Strategic",
-              "url": "https://www.itpro.com/business/policy-and-legislation/new-eu-cloud-sovereignty-laws-could-lock-british-firms-out-of-public-contracts",
-              "verifiedAt": "2026-11-12T10:01:46.122Z",
-              "title": "L’industrie britannique s’inquiète des restrictions proposées pour les marchés publics infonuagiques souverains de l’UE",
-              "category": "Souveraineté et approvisionnement",
-              "what": "Selon ITPro, techUK craint que les niveaux d’assurance infonuagique proposés par l’Union européenne limitent l’admissibilité des entreprises britanniques aux contrats publics les plus sensibles. Les exigences sont encore à l’étude.",
-              "why": "Analyse du portefeuille : les règles d’approvisionnement souverain pourraient exiger davantage de preuves sur le contrôle des opérations, du personnel et des risques juridiques.",
-              "takeaway": "Définir des exigences vérifiables d’assurance de souveraineté pour l’hébergement sensible et suivre l’évolution de la proposition européenne.",
-              "executiveSummary": {
-                "overview": "Un article publié le 11 novembre présente les préoccupations de techUK, une association britannique du secteur technologique, au sujet du projet européen de loi sur le développement de l’infonuagique et de l’intelligence artificielle. Selon cet article, la proposition prévoirait quatre niveaux d’assurance pour les fournisseurs qui souhaitent obtenir des contrats publics européens. Les niveaux supérieurs imposeraient des exigences touchant le personnel, le traitement et le stockage des données dans la région ainsi que le contrôle étranger. techUK estime que les entreprises britanniques pourraient perdre des débouchés importants. Il s’agit de propositions et d’estimations sectorielles, et non de règles d’approvisionnement déjà en vigueur.",
-                "keyPoints": [
-                  "La proposition décrite établirait quatre niveaux d’assurance pour les services infonuagiques et d’intelligence artificielle dans les marchés publics européens.",
-                  "Aux niveaux supérieurs, l’admissibilité dépendrait notamment du contrôle opérationnel, du lieu de travail du personnel et de l’influence étrangère.",
-                  "L’association britannique techUK prévient que ces critères pourraient limiter l’accès de fournisseurs britanniques à certains marchés publics."
-                ],
-                "implications": "Pour les portefeuilles canadiens d’hébergement souverain, cette évolution offre un point de comparaison utile. L’assurance de souveraineté pourrait exiger davantage de preuves concernant le pouvoir de décision opérationnel, les accès privilégiés, le personnel, les sous-traitants et le contrôle juridique. Les responsables de l’approvisionnement devraient distinguer les obligations en vigueur des propositions et envisager des niveaux d’assurance adaptés à la sensibilité des charges de travail.",
-                "watch": "Suivre le texte législatif de la Commission européenne, les consultations, la définition définitive des niveaux d’assurance et les dispositions éventuelles pour les partenaires de confiance. Vérifier si des exigences semblables apparaissent dans les politiques canadiennes de sécurité ou d’approvisionnement.",
-                "caveat": "Cette synthèse repose sur un article d’ITPro du 11 novembre présentant la position de techUK et les mesures européennes proposées. Les répercussions économiques annoncées sont des estimations de l’industrie. Le texte définitif, le calendrier et les conséquences sur l’approvisionnement demeurent incertains."
-              }
-            }
-          ],
-          "radar": [],
-          "question": "Quelles preuves devraient distinguer la simple résidence des données au Canada d’un hébergement souverain offrant une assurance renforcée pour les charges de travail sensibles ?",
-          "signals": [],
-          "editorialNote": "Revue de sources publiques en français et en anglais jusqu’au 12 novembre 2026. L’article retenu, publié le 11 novembre, présente la réaction d’une association sectorielle à des règles européennes proposées; l’issue législative demeure incertaine. Les compétences de recherche d’origine et de traduction en direct n’étaient pas accessibles; les instructions intégrées de traduction en français québécois ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’intelligence artificielle. Aucune approbation du gouvernement du Canada n’est sous-entendue.",
-          "readMinutes": 3,
-          "day": "Jeudi",
-          "coverage": "11 et 12 novembre 2026"
-        }
-      },
-      "translation": {
-        "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-12T10:01:46.122Z"
-      },
-      "publishedAt": "2026-11-12T10:01:46.122Z"
     }
   ]
 }
