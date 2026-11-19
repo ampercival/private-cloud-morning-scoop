@@ -1,6 +1,49 @@
 {
   "editions": [
     {
+      "id": "2026-11-19",
+      "date": "2026-11-19",
+      "coverageStart": "2026-11-18T09:56:02.679Z",
+      "coverageEnd": "2026-11-19T10:01:39.104Z",
+      "generatedAt": "2026-11-19T10:01:39.104Z",
+      "reads": [],
+      "radar": [],
+      "bigPicture": [],
+      "signals": [],
+      "readMinutes": 1,
+      "day": "Thursday",
+      "coverage": "November 18–19, 2026",
+      "headline": "No material developments today",
+      "deck": "The November 19 review of Canadian and international sovereign cloud, AI infrastructure, digital government and cybersecurity sources found no newly verified development meeting the briefing threshold.",
+      "question": "Which operational evidence should a sovereign cloud provider retain to demonstrate that Canadian personnel can restore essential services independently during a supplier or network disruption?",
+      "editorialNote": "Research conducted November 19, 2026, covering approximately the previous 36 hours. Reviewed Canadian federal announcements and English and French government material, sovereign cloud and AI infrastructure, digital sovereignty, cyber security policy, European cloud developments and independent reporting. Search results surfaced older Canadian data centre, AI and security announcements, but no sufficiently verified new development for inclusion. The November 16 sovereign connectivity statement was already covered in an earlier edition. This edition contains no carried-forward articles. The live Morning Scoop and Quebec French Translator skills were unavailable because the skills catalogue was empty; the established research approach and embedded user-selected Quebec French Translator instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
+      "publishedAt": "2026-11-19T10:01:39.104Z",
+      "translations": {
+        "fr": {
+          "id": "2026-11-19",
+          "date": "2026-11-19",
+          "coverageStart": "2026-11-18T09:56:02.679Z",
+          "coverageEnd": "2026-11-19T10:01:39.104Z",
+          "generatedAt": "2026-11-19T10:01:39.104Z",
+          "reads": [],
+          "radar": [],
+          "bigPicture": [],
+          "signals": [],
+          "readMinutes": 1,
+          "day": "Jeudi",
+          "coverage": "18 et 19 novembre 2026",
+          "headline": "Aucun développement important aujourd’hui",
+          "deck": "La veille du 19 novembre sur l’infonuagique souveraine, l’infrastructure d’IA, le gouvernement numérique et la cybersécurité au Canada et à l’étranger n’a révélé aucun nouveau développement suffisamment vérifié pour satisfaire aux critères de sélection.",
+          "question": "Quelles preuves opérationnelles un fournisseur de services infonuagiques souverains devrait-il conserver pour démontrer que du personnel canadien peut rétablir les services essentiels de façon autonome lors d’une interruption touchant un fournisseur ou un réseau?",
+          "editorialNote": "La veille du 19 novembre 2026 a couvert environ les 36 heures précédentes. Elle a porté sur les annonces fédérales canadiennes, les publications gouvernementales en français et en anglais, l’infonuagique souveraine, l’infrastructure d’IA, la souveraineté numérique, les politiques de cybersécurité, l’évolution de l’infonuagique européenne et les médias indépendants. Les résultats comprenaient d’anciennes annonces canadiennes sur les centres de données, l’IA et la sécurité, sans nouveau développement suffisamment vérifié pour être retenu. La déclaration du 16 novembre sur la connectivité souveraine figurait déjà dans une édition antérieure. Aucun article précédent n’a été repris. Les compétences en direct du Morning Scoop et du traducteur en français québécois étaient inaccessibles, car le catalogue des compétences était vide; la méthode de recherche établie et les instructions intégrées du traducteur choisi ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’intelligence artificielle. Aucune approbation du gouvernement du Canada n’est sous-entendue."
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-19T10:01:39.104Z"
+      }
+    },
+    {
       "id": "2026-11-18",
       "date": "2026-11-18",
       "coverageStart": "2026-11-17T10:01:09.217Z",
@@ -241,109 +284,6 @@
         "translatedAt": "2026-11-15T09:59:55.556Z"
       },
       "publishedAt": "2026-11-15T09:59:55.556Z"
-    },
-    {
-      "id": "2026-11-14",
-      "date": "2026-11-14",
-      "coverageStart": "2026-11-13T10:00:00.000Z",
-      "coverageEnd": "2026-11-14T09:58:43.555Z",
-      "generatedAt": "2026-11-14T09:58:43.555Z",
-      "headline": "European leaders put sovereign AI capacity and public-sector adoption on the agenda",
-      "deck": "The European Council's November 13 AI discussion connected infrastructure, energy, supply-chain resilience and public-sector adoption. Its official results offer a useful international comparison for Canada's sovereign AI and DTC priorities.",
-      "bigPicture": [
-        "European leaders linked AI sovereignty to computing infrastructure, energy access, investment and critical supplier dependencies.",
-        "Public administrations were explicitly included in discussions of faster AI adoption, while safety and cybersecurity were considered alongside competitiveness."
-      ],
-      "reads": [
-        {
-          "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/11/13/",
-          "published": "2026-11-13",
-          "priority": "Strategic",
-          "verifiedAt": "2026-11-14T09:58:43.555Z",
-          "title": "EU leaders place AI sovereignty, compute infrastructure and public-sector adoption on strategic agenda",
-          "source": "European Council",
-          "category": "International AI sovereignty and public-sector transformation",
-          "what": "At an informal European Council meeting in Dublin on November 13, EU leaders held their first dedicated strategic discussion of AI. The published meeting results identify sovereign AI capabilities, investment, secure value chains, energy and adoption by public administrations alongside cybersecurity and trust.",
-          "why": "Portfolio assessment: sovereign AI programmes increasingly depend on aligned decisions about compute, electricity, domestic capabilities, procurement and public-sector use. These considerations are relevant to Canada's sovereign AI and DTC planning.",
-          "takeaway": "Track the EU's follow-on funding, infrastructure and AI-governance decisions as comparative evidence for Canadian sovereign compute and public-sector platform choices.",
-          "executiveSummary": {
-            "overview": "The European Council's official record of an informal meeting in Dublin on November 13, 2026 confirms that European Union leaders held their first strategic discussion dedicated to artificial intelligence. The agenda connected AI competitiveness and adoption with sovereignty, security and societal trust. During the competitiveness session, leaders met Arthur Mensch, chief executive of Mistral AI, to examine Europe's position in the global AI market and the choices required to strengthen European capabilities. The official meeting summary identifies mobilising public and private investment, developing infrastructure, securing value chains, reducing critical dependencies and ensuring affordable clean energy as areas of discussion. Leaders also considered faster adoption by companies and public administrations. European Council President António Costa linked the ambitions to future European funding, including the next long-term EU budget and the proposed European Competitiveness Fund. In a second session with researcher Geoffrey Hinton, leaders discussed fundamental rights, democratic processes, labour markets, market concentration, cybersecurity and international cooperation on advanced AI safety. Costa pointed to the EU AI Act as an existing governance framework. The Council also identified future meetings on AI's labour-market effects. The published results describe strategic discussion and existing initiatives; they do not announce a new sovereign-cloud procurement, a binding infrastructure allocation or an adopted budget decision.",
-            "keyPoints": [
-              "EU heads of state and government held a dedicated strategic AI discussion in Dublin on November 13, according to the European Council's meeting results.",
-              "The sovereignty discussion covered infrastructure investment, European AI capabilities, supply-chain dependencies and affordable clean energy.",
-              "Leaders considered wider adoption of AI by public administrations and businesses, linking infrastructure capacity to practical service use.",
-              "A separate discussion examined cybersecurity, market concentration, societal trust and cooperation on advanced AI safety."
-            ],
-            "implications": "For Canadian sovereign and private cloud services and DTC, the EU discussion offers a comparative planning lens. AI sovereignty involves capacity, power availability, operational control, supplier dependencies and assurance at the platform and model layers. Public-sector adoption creates requirements for onboarding, security review, service pricing and support. These are analytical considerations for Canadian planning; the European meeting creates no obligation for the Government of Canada.",
-            "watch": "Watch for formal European Council conclusions, Commission financing proposals, specific compute infrastructure investments, procurement rules and implementation guidance for public-sector AI. Verify whether subsequent measures change actual capacity or governance requirements before treating strategic discussion as delivery.",
-            "caveat": "This account relies on the European Council's official November 13 meeting results and its earlier published invitation. The meeting was informal. No new binding funding decision, cloud-service requirement or Canadian policy change was identified in the source. Statements about Canadian portfolio implications are editorial analysis."
-          }
-        }
-      ],
-      "radar": [],
-      "question": "How should Canadian sovereign AI service planning connect compute capacity, power and operational control with the assurance and onboarding needs of federal departments?",
-      "signals": [
-        "European AI sovereignty discussions increasingly connect public-sector adoption with infrastructure and energy decisions."
-      ],
-      "editorialNote": "Research completed November 14, 2026, covering DTC and Canadian federal IT, sovereign AI, cloud security, technology economics and international developments. English and French primary-source searches and a quiet-day follow-up scan were performed. One newly reported November 13 European Council development met the editorial threshold; older Canadian announcements and routine advisories were excluded. The live Morning Scoop and Quebec French Translator skills were unavailable in this runtime; the established research instructions and embedded Quebec French translation instructions were applied. The source reports strategic discussion, not a new binding policy. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
-      "readMinutes": 4,
-      "day": "Saturday",
-      "coverage": "November 13–14, 2026",
-      "translations": {
-        "fr": {
-          "id": "2026-11-14",
-          "date": "2026-11-14",
-          "coverageStart": "2026-11-13T10:00:00.000Z",
-          "coverageEnd": "2026-11-14T09:58:43.555Z",
-          "generatedAt": "2026-11-14T09:58:43.555Z",
-          "headline": "Les dirigeants européens placent les capacités d'IA souveraine et leur adoption dans le secteur public à l'ordre du jour",
-          "deck": "La discussion du Conseil européen du 13 novembre sur l'IA a relié l'infrastructure, l'énergie, la résilience des chaînes d'approvisionnement et l'adoption dans le secteur public. Son compte rendu officiel fournit un point de comparaison pour les priorités canadiennes en IA souveraine et celles de DTC.",
-          "bigPicture": [
-            "Les dirigeants européens ont associé la souveraineté de l'IA à l'infrastructure de calcul, à l'accès à l'énergie, aux investissements et aux dépendances envers des fournisseurs essentiels.",
-            "Les administrations publiques ont été explicitement incluses dans les échanges sur l'adoption accélérée de l'IA, tandis que la sécurité et la cybersécurité ont été examinées avec la compétitivité."
-          ],
-          "reads": [
-            {
-              "url": "https://www.consilium.europa.eu/en/meetings/european-council/2026/11/13/",
-              "published": "2026-11-13",
-              "priority": "Strategic",
-              "verifiedAt": "2026-11-14T09:58:43.555Z",
-              "title": "Les dirigeants européens placent la souveraineté de l'IA, l'infrastructure de calcul et l'adoption dans le secteur public à leur programme stratégique",
-              "source": "Conseil européen",
-              "category": "Souveraineté internationale de l'IA et transformation du secteur public",
-              "what": "Lors d'une réunion informelle tenue à Dublin le 13 novembre, les dirigeants de l'Union européenne ont consacré pour la première fois une discussion stratégique à l'IA. Le compte rendu officiel traite des capacités souveraines, des investissements, des chaînes d'approvisionnement, de l'énergie et de l'adoption par les administrations publiques, ainsi que de la cybersécurité et de la confiance.",
-              "why": "Analyse du portefeuille : les programmes d'IA souveraine dépendent de décisions coordonnées concernant le calcul, l'électricité, les capacités nationales, l'approvisionnement et les usages publics. Ces enjeux éclairent la planification canadienne de l'IA souveraine et de DTC.",
-              "takeaway": "Suivre les décisions européennes sur le financement, l'infrastructure et la gouvernance de l'IA afin de disposer de points de comparaison pour les choix canadiens en calcul souverain et en plateformes du secteur public.",
-              "executiveSummary": {
-                "overview": "Le compte rendu officiel du Conseil européen confirme que les dirigeants de l'Union européenne ont tenu, à Dublin le 13 novembre 2026, leur première discussion stratégique entièrement consacrée à l'intelligence artificielle. Les échanges ont rapproché la compétitivité et l'adoption de l'IA des questions de souveraineté, de sécurité et de confiance sociale. Durant la séance sur la compétitivité, les dirigeants ont rencontré Arthur Mensch, chef de la direction de Mistral AI, afin d'examiner la place de l'Europe sur le marché mondial de l'IA et les choix nécessaires au renforcement des capacités européennes. Le compte rendu cite la mobilisation des investissements publics et privés, le développement de l'infrastructure, la sécurisation des chaînes d'approvisionnement, la réduction des dépendances critiques et l'accès à une énergie propre et abordable. Les dirigeants ont aussi abordé l'adoption accélérée de l'IA par les entreprises et les administrations publiques. Le président du Conseil européen, António Costa, a lié ces ambitions aux futurs financements européens, dont le prochain budget pluriannuel et le Fonds européen pour la compétitivité proposé. Lors d'une seconde séance avec le chercheur Geoffrey Hinton, les participants ont discuté des droits fondamentaux, des processus démocratiques, des marchés du travail, de la concentration du marché, de la cybersécurité et de la coopération internationale en matière de sécurité de l'IA avancée. M. Costa a rappelé l'existence du règlement européen sur l'IA. D'autres rencontres aborderont les effets de l'IA sur l'emploi. Les résultats publiés rendent compte d'orientations stratégiques et d'initiatives existantes; ils n'annoncent aucun nouvel approvisionnement infonuagique souverain, aucune allocation d'infrastructure contraignante et aucune décision budgétaire adoptée.",
-                "keyPoints": [
-                  "Les chefs d'État et de gouvernement de l'UE ont tenu le 13 novembre à Dublin une discussion stratégique consacrée à l'IA, selon le Conseil européen.",
-                  "Les échanges sur la souveraineté ont porté sur les investissements dans l'infrastructure, les capacités européennes, les dépendances d'approvisionnement et l'énergie propre abordable.",
-                  "Les dirigeants ont examiné l'adoption de l'IA dans les administrations publiques et les entreprises, reliant les capacités techniques aux services concrets.",
-                  "Une séance distincte a traité de cybersécurité, de concentration du marché, de confiance sociale et de coopération sur la sécurité de l'IA avancée."
-                ],
-                "implications": "Pour les services infonuagiques souverains et privés du Canada et DTC, les échanges européens offrent un point de comparaison pour la planification. La souveraineté de l'IA englobe la capacité de calcul, l'approvisionnement énergétique, le contrôle opérationnel, les dépendances envers les fournisseurs et l'assurance des plateformes et des modèles. L'adoption dans le secteur public entraîne des besoins en intégration des clients, en examen de sécurité, en tarification et en soutien. Il s'agit de considérations analytiques canadiennes; la réunion européenne ne crée aucune obligation pour le gouvernement du Canada.",
-                "watch": "Surveiller les conclusions officielles ultérieures du Conseil européen, les propositions de financement de la Commission, les investissements précis en calcul, les règles d'approvisionnement et les directives d'adoption de l'IA dans le secteur public. Vérifier les mesures concrètes avant de présenter ces échanges comme des réalisations.",
-                "caveat": "Ce résumé s'appuie sur le compte rendu officiel de la réunion du 13 novembre et sur l'invitation publiée auparavant par le Conseil européen. La réunion était informelle. La source ne fait état d'aucune nouvelle décision de financement obligatoire, d'aucune exigence de service infonuagique ni d'aucun changement de politique canadienne. Les implications pour le portefeuille canadien relèvent de l'analyse éditoriale."
-              }
-            }
-          ],
-          "radar": [],
-          "question": "Comment la planification des services canadiens d'IA souveraine devrait-elle relier la capacité de calcul, l'énergie et le contrôle opérationnel aux besoins d'assurance et d'intégration des ministères fédéraux ?",
-          "signals": [
-            "Les discussions européennes sur la souveraineté de l'IA associent de plus en plus l'adoption dans le secteur public aux décisions sur l'infrastructure et l'énergie."
-          ],
-          "editorialNote": "La recherche a été réalisée le 14 novembre 2026 et a couvert DTC et les TI fédérales canadiennes, l'IA souveraine, la sécurité infonuagique, l'économie des technologies et les développements internationaux. Des recherches dans les sources primaires en français et en anglais ainsi qu'une seconde vérification des journées peu chargées ont été effectuées. Un seul développement du Conseil européen daté du 13 novembre a satisfait aux critères éditoriaux; les annonces canadiennes plus anciennes et les avis courants ont été écartés. Les compétences en direct du Morning Scoop et du traducteur en français québécois n'étaient pas accessibles dans cet environnement; les consignes de recherche établies et les instructions intégrées de traduction en français québécois ont été appliquées. La source décrit des échanges stratégiques et aucune nouvelle politique contraignante. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l'intelligence artificielle. Aucune approbation du gouvernement du Canada n'est sous-entendue.",
-          "readMinutes": 4,
-          "day": "Samedi",
-          "coverage": "13 et 14 novembre 2026"
-        }
-      },
-      "translation": {
-        "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-14T09:58:43.555Z"
-      },
-      "publishedAt": "2026-11-14T09:58:43.555Z"
     }
   ]
 }
