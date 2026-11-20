@@ -1,6 +1,49 @@
 {
   "editions": [
     {
+      "id": "2026-11-20",
+      "date": "2026-11-20",
+      "coverageStart": "2026-11-19T10:01:39.104Z",
+      "coverageEnd": "2026-11-20T09:56:43.539Z",
+      "generatedAt": "2026-11-20T09:56:43.539Z",
+      "reads": [],
+      "radar": [],
+      "bigPicture": [],
+      "signals": [],
+      "readMinutes": 1,
+      "day": "Friday",
+      "coverage": "November 19–20, 2026",
+      "headline": "No material developments today",
+      "deck": "The November 20 review of Canadian and international sovereign cloud, digital sovereignty, AI infrastructure and cybersecurity sources found no sufficiently verified new development for today's briefing.",
+      "question": "What evidence would show that a sovereign cloud service can maintain Canadian operational control when its telecommunications or infrastructure suppliers are disrupted?",
+      "editorialNote": "Research conducted November 20, 2026, covering approximately the preceding 36 hours. English and French searches examined Canadian government announcements, sovereign cloud and AI infrastructure, public-sector technology, cybersecurity and international digital sovereignty. A November 19 Canadian announcement on an AI and culture advisory council was reviewed but fell outside the portfolio's operational focus. Older sovereign AI compute, data centre and connectivity announcements were excluded as previously available context. No new material, independently verifiable hosting or sovereignty development met the editorial threshold. The live Morning Scoop and Quebec French Translator skills were unavailable because the skills catalogue was empty; the established research method and embedded user-selected Quebec French Translator instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
+      "publishedAt": "2026-11-20T09:56:43.539Z",
+      "translations": {
+        "fr": {
+          "id": "2026-11-20",
+          "date": "2026-11-20",
+          "coverageStart": "2026-11-19T10:01:39.104Z",
+          "coverageEnd": "2026-11-20T09:56:43.539Z",
+          "generatedAt": "2026-11-20T09:56:43.539Z",
+          "reads": [],
+          "radar": [],
+          "bigPicture": [],
+          "signals": [],
+          "readMinutes": 1,
+          "day": "Vendredi",
+          "coverage": "19 et 20 novembre 2026",
+          "headline": "Aucun développement important aujourd’hui",
+          "deck": "La veille du 20 novembre sur les services infonuagiques souverains, la souveraineté numérique, l’infrastructure d’intelligence artificielle et la cybersécurité au Canada et à l’étranger n’a révélé aucun nouveau développement suffisamment vérifié pour le bulletin du jour.",
+          "question": "Quelles preuves permettraient de démontrer qu’un service infonuagique souverain peut maintenir son contrôle opérationnel canadien lorsque ses fournisseurs de télécommunications ou d’infrastructure subissent une interruption?",
+          "editorialNote": "La veille du 20 novembre 2026 a couvert environ les 36 heures précédentes. Des recherches en français et en anglais ont porté sur les annonces gouvernementales canadiennes, l’infonuagique souveraine, l’infrastructure d’IA, les technologies du secteur public, la cybersécurité et la souveraineté numérique internationale. Une annonce canadienne du 19 novembre concernant un conseil consultatif sur l’IA et la culture a été examinée, mais elle ne touchait pas directement les activités du portefeuille. Les anciennes annonces sur la capacité de calcul souveraine, les centres de données et la connectivité ont été écartées puisqu’elles constituaient déjà des éléments de contexte. Aucun nouveau développement important, vérifiable de façon indépendante et lié à l’hébergement ou à la souveraineté n’a satisfait aux critères de sélection. Les compétences en direct du Morning Scoop et du traducteur en français québécois étaient inaccessibles, car le catalogue des compétences était vide; la méthode de recherche établie et les instructions intégrées du traducteur choisi ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’intelligence artificielle. Aucune approbation du gouvernement du Canada n’est sous-entendue."
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-20T09:56:43.539Z"
+      }
+    },
+    {
       "id": "2026-11-19",
       "date": "2026-11-19",
       "coverageStart": "2026-11-18T09:56:02.679Z",
@@ -241,49 +284,6 @@
         "translatedAt": "2026-11-16T10:39:47.456Z"
       },
       "publishedAt": "2026-11-16T10:39:47.456Z"
-    },
-    {
-      "id": "2026-11-15",
-      "date": "2026-11-15",
-      "coverageStart": "2026-11-14T09:58:43.555Z",
-      "coverageEnd": "2026-11-15T09:59:55.556Z",
-      "generatedAt": "2026-11-15T09:59:55.556Z",
-      "headline": "No material new sovereign cloud developments verified today",
-      "deck": "The November 15 scan of Canadian and international public sources found no new development that met the briefing's significance and verification threshold. Recent substantive coverage remains available in the dated archive.",
-      "bigPicture": [],
-      "reads": [],
-      "radar": [],
-      "question": "Which service-level evidence would best demonstrate Canadian operational control, resilience and predictable costs for sensitive sovereign cloud workloads?",
-      "signals": [],
-      "editorialNote": "Research on November 15, 2026 reviewed Canadian federal digital transformation and sovereign AI announcements, English and French government publications, cloud infrastructure and procurement developments, international AI sovereignty coverage, and Canadian Centre for Cyber Security advisories. The November 13 Apache HTTP Server, n8n and Johnson Controls advisories were considered routine product advisories without evidence in the reviewed sources of a significant federal hosting incident or portfolio-wide decision. Older Canadian sovereign compute announcements and the November 13 European Council discussion were excluded as previously reported or outside the new-news window. No newly dated, sufficiently verified material development qualified for Must Read or Radar. The live Morning Scoop and Quebec French Translator skills were unavailable in this runtime; the established research instructions and embedded Quebec French translation instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
-      "readMinutes": 1,
-      "day": "Sunday",
-      "coverage": "November 14–15, 2026",
-      "translations": {
-        "fr": {
-          "id": "2026-11-15",
-          "date": "2026-11-15",
-          "coverageStart": "2026-11-14T09:58:43.555Z",
-          "coverageEnd": "2026-11-15T09:59:55.556Z",
-          "generatedAt": "2026-11-15T09:59:55.556Z",
-          "headline": "Aucun nouveau développement majeur vérifié aujourd’hui dans le domaine de l’infonuagique souveraine",
-          "deck": "La veille du 15 novembre dans les sources publiques canadiennes et internationales n’a révélé aucun nouveau développement répondant aux critères de pertinence et de vérification du bulletin. Les nouvelles importantes récentes demeurent accessibles dans les archives datées.",
-          "bigPicture": [],
-          "reads": [],
-          "radar": [],
-          "question": "Quelles preuves liées aux niveaux de service démontreraient le mieux le contrôle opérationnel canadien, la résilience et la prévisibilité des coûts pour les charges de travail sensibles dans l’infonuagique souveraine?",
-          "signals": [],
-          "editorialNote": "La veille du 15 novembre 2026 a porté sur la transformation numérique fédérale, les annonces canadiennes sur l’IA souveraine, les publications gouvernementales en français et en anglais, l’infrastructure et l’approvisionnement infonuagiques, les développements internationaux en souveraineté de l’IA et les avis du Centre canadien pour la cybersécurité. Les avis du 13 novembre concernant Apache HTTP Server, n8n et Johnson Controls ont été examinés comme des avis courants sur des produits, sans preuve dans les sources consultées d’un incident important touchant l’hébergement fédéral ou d’une décision à l’échelle du portefeuille. Les anciennes annonces canadiennes sur le calcul souverain et les discussions du Conseil européen du 13 novembre ont été exclues parce qu’elles avaient déjà été couvertes ou ne constituaient pas de nouvelles informations. Aucun nouveau développement suffisamment important, daté et vérifié ne répondait aux critères de sélection des articles prioritaires ou à surveiller. Les compétences en direct du Morning Scoop et du traducteur en français québécois n’étaient pas accessibles dans cet environnement; les instructions de recherche établies et les instructions intégrées de traduction en français québécois ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’intelligence artificielle. Aucune approbation du gouvernement du Canada n’est sous-entendue.",
-          "readMinutes": 1,
-          "day": "Dimanche",
-          "coverage": "14 et 15 novembre 2026"
-        }
-      },
-      "translation": {
-        "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-15T09:59:55.556Z"
-      },
-      "publishedAt": "2026-11-15T09:59:55.556Z"
     }
   ]
 }
