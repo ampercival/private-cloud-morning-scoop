@@ -1,6 +1,49 @@
 {
   "editions": [
     {
+      "id": "2026-11-21",
+      "date": "2026-11-21",
+      "coverageStart": "2026-11-20T09:56:43.539Z",
+      "coverageEnd": "2026-11-21T09:57:59.120Z",
+      "generatedAt": "2026-11-21T09:57:59.120Z",
+      "reads": [],
+      "radar": [],
+      "bigPicture": [],
+      "signals": [],
+      "readMinutes": 1,
+      "day": "Saturday",
+      "coverage": "November 20–21, 2026",
+      "headline": "No material developments today",
+      "deck": "The November 21 review of Canadian and international sovereign private cloud, AI infrastructure, cybersecurity and digital sovereignty sources found no newly verified development meeting the editorial threshold.",
+      "question": "What independent evidence should be required to verify that sovereign cloud backup and recovery can operate under Canadian control during a foreign supplier disruption?",
+      "editorialNote": "Research conducted November 21, 2026, reviewing the preceding approximately 36 hours and recent consequential developments. English and French searches covered Canadian federal sovereign cloud and AI, protected hosting, recovery, cybersecurity, data centre capacity, European digital sovereignty and independent reporting. The search surfaced older European cloud procurement and Canadian sovereign AI infrastructure announcements, but no newly verified development meeting the editorial threshold. Previously covered sovereign connectivity news was excluded. The live Morning Scoop and Quebec French Translator skills were unavailable because the skills catalogue was empty; established research guidance and the embedded user-selected Quebec French Translator instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
+      "publishedAt": "2026-11-21T09:57:59.120Z",
+      "translations": {
+        "fr": {
+          "id": "2026-11-21",
+          "date": "2026-11-21",
+          "coverageStart": "2026-11-20T09:56:43.539Z",
+          "coverageEnd": "2026-11-21T09:57:59.120Z",
+          "generatedAt": "2026-11-21T09:57:59.120Z",
+          "reads": [],
+          "radar": [],
+          "bigPicture": [],
+          "signals": [],
+          "readMinutes": 1,
+          "day": "Samedi",
+          "coverage": "20 et 21 novembre 2026",
+          "headline": "Aucun développement important aujourd’hui",
+          "deck": "La veille du 21 novembre sur les services infonuagiques privés souverains, l’infrastructure d’IA, la cybersécurité et la souveraineté numérique au Canada et à l’étranger n’a révélé aucun nouveau développement suffisamment vérifié pour satisfaire aux critères éditoriaux.",
+          "question": "Quelles preuves indépendantes devrait-on exiger pour vérifier que la sauvegarde et la reprise des services infonuagiques souverains peuvent fonctionner sous contrôle canadien lors d’une interruption touchant un fournisseur étranger?",
+          "editorialNote": "Veille effectuée le 21 novembre 2026, portant sur les quelque 36 heures précédentes et sur les développements récents ayant une portée importante. Des recherches en français et en anglais ont couvert l’infonuagique et l’IA souveraines au gouvernement fédéral, l’hébergement protégé, la reprise des services, la cybersécurité, la capacité des centres de données, la souveraineté numérique européenne et les médias indépendants. Les résultats comprenaient d’anciennes annonces européennes sur l’approvisionnement infonuagique et canadiennes sur l’infrastructure d’IA souveraine, sans nouveau développement suffisamment vérifié pour satisfaire aux critères éditoriaux. Les nouvelles déjà traitées sur la connectivité souveraine ont été écartées. Les compétences en direct du Morning Scoop et du traducteur en français québécois étaient inaccessibles, car le catalogue des compétences était vide; les consignes de recherche établies et les instructions intégrées du traducteur choisi ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’intelligence artificielle. Aucune approbation du gouvernement du Canada n’est sous-entendue."
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-21T09:57:59.120Z"
+      }
+    },
+    {
       "id": "2026-11-20",
       "date": "2026-11-20",
       "coverageStart": "2026-11-19T10:01:39.104Z",
@@ -241,49 +284,6 @@
         "provider": "quebec-french-translator",
         "translatedAt": "2026-11-17T10:01:09.217Z"
       }
-    },
-    {
-      "id": "2026-11-16",
-      "date": "2026-11-16",
-      "coverageStart": "2026-11-15T09:59:55.556Z",
-      "coverageEnd": "2026-11-16T10:39:47.456Z",
-      "generatedAt": "2026-11-16T10:39:47.456Z",
-      "bigPicture": [],
-      "reads": [],
-      "radar": [],
-      "signals": [],
-      "readMinutes": 1,
-      "headline": "No material new sovereign cloud developments verified today",
-      "deck": "The November 16 review of Canadian and international public sources found no newly confirmed development meeting the briefing's significance and verification threshold. Earlier verified coverage remains in the rolling archive.",
-      "question": "Which evidence should a sovereign hosting service provide to demonstrate Canadian operational control and recovery capability for sensitive workloads?",
-      "editorialNote": "The November 16, 2026 research scan covered Canadian federal digital transformation, sovereign AI and cloud services, Canadian-controlled commercial cloud, sovereign backup, Protected B and Secret hosting, procurement, cyber advisories, infrastructure and capacity. English- and French-language Canadian and European government sources and recent independent reporting were reviewed. A European Commission November 12 announcement concerning a November 16 AI and climate event, and a Joint Research Centre forum scheduled for November 16, were considered as advance event notices rather than confirmed new policy or operational decisions. Previously reported European Council AI discussions and French sensitive-data cloud developments were excluded to avoid repetition. No new, sufficiently verified material development met the threshold for Must Read or Radar as of the research cutoff. The live Morning Scoop and Quebec French Translator skills were not exposed in this run; established research instructions and the full embedded Quebec French translation instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
-      "day": "Monday",
-      "coverage": "November 15–16, 2026",
-      "translations": {
-        "fr": {
-          "id": "2026-11-16",
-          "date": "2026-11-16",
-          "coverageStart": "2026-11-15T09:59:55.556Z",
-          "coverageEnd": "2026-11-16T10:39:47.456Z",
-          "generatedAt": "2026-11-16T10:39:47.456Z",
-          "bigPicture": [],
-          "reads": [],
-          "radar": [],
-          "signals": [],
-          "readMinutes": 1,
-          "headline": "Aucun nouveau développement majeur vérifié aujourd'hui dans le domaine de l'infonuagique souveraine",
-          "deck": "La veille du 16 novembre dans les sources publiques canadiennes et internationales n'a révélé aucun nouveau développement confirmé répondant aux critères de pertinence et de vérification du bulletin. Les nouvelles vérifiées précédentes demeurent accessibles dans les archives récentes.",
-          "question": "Quelles preuves un service d'hébergement souverain devrait-il fournir pour démontrer le contrôle opérationnel canadien et la capacité de reprise des charges de travail sensibles?",
-          "editorialNote": "La veille du 16 novembre 2026 a porté sur la transformation numérique fédérale canadienne, l'IA souveraine, les services infonuagiques, les nuages commerciaux sous contrôle canadien, la sauvegarde souveraine, l'hébergement de niveau Protégé B et Secret, l'approvisionnement, les avis de cybersécurité, l'infrastructure et la capacité. Des sources gouvernementales canadiennes et européennes en français et en anglais ainsi que des reportages indépendants récents ont été consultés. Une annonce de la Commission européenne du 12 novembre concernant une activité du 16 novembre sur l'IA et le climat et un forum du Centre commun de recherche prévu le 16 novembre ont été examinés comme des annonces d'événements à venir, sans décision nouvelle confirmée en matière de politiques ou d'exploitation. Les discussions déjà couvertes du Conseil européen sur l'IA et les développements français concernant l'hébergement des données sensibles ont été exclus afin d'éviter les répétitions. Aucun développement nouveau, important et suffisamment vérifié ne répondait aux critères de sélection des articles prioritaires ou à surveiller à la fin de la recherche. Les compétences en direct du Morning Scoop et du traducteur en français québécois n'étaient pas accessibles durant cette exécution; les instructions de recherche établies et les instructions intégrées complètes de traduction en français québécois ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l'intelligence artificielle. Aucune approbation du gouvernement du Canada n'est sous-entendue.",
-          "day": "Lundi",
-          "coverage": "15 et 16 novembre 2026"
-        }
-      },
-      "translation": {
-        "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-16T10:39:47.456Z"
-      },
-      "publishedAt": "2026-11-16T10:39:47.456Z"
     }
   ]
 }
