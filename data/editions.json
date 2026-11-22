@@ -1,6 +1,49 @@
 {
   "editions": [
     {
+      "id": "2026-11-22",
+      "date": "2026-11-22",
+      "coverageStart": "2026-11-21T09:57:59.120Z",
+      "coverageEnd": "2026-11-22T10:03:46.974Z",
+      "generatedAt": "2026-11-22T10:03:46.974Z",
+      "reads": [],
+      "radar": [],
+      "bigPicture": [],
+      "signals": [],
+      "readMinutes": 1,
+      "day": "Sunday",
+      "coverage": "November 21–22, 2026",
+      "headline": "No material developments today",
+      "deck": "The November 22 review of English and French public sources found no newly verified sovereign private cloud, recovery, protected hosting or AI infrastructure development meeting the editorial threshold.",
+      "question": "Which evidence would demonstrate that a sovereign private cloud can recover essential workloads independently during a prolonged supplier disruption?",
+      "editorialNote": "Research conducted November 22, 2026, covering approximately the preceding 36 hours and checking consequential developments from the past seven days. Searches included English and French Canadian sovereign cloud, sovereign AI infrastructure, international government cloud policy, and independent reporting. Results included older Canadian policy materials and a November 21 South African technology partnership report without a sufficiently direct, verified development for this portfolio. No prior articles were repeated. The live Morning Scoop and Quebec French Translator skills were unavailable because the skills catalogue was empty; established research guidance and the embedded user-selected Quebec French Translator instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
+      "publishedAt": "2026-11-22T10:03:46.974Z",
+      "translations": {
+        "fr": {
+          "id": "2026-11-22",
+          "date": "2026-11-22",
+          "coverageStart": "2026-11-21T09:57:59.120Z",
+          "coverageEnd": "2026-11-22T10:03:46.974Z",
+          "generatedAt": "2026-11-22T10:03:46.974Z",
+          "reads": [],
+          "radar": [],
+          "bigPicture": [],
+          "signals": [],
+          "readMinutes": 1,
+          "day": "Dimanche",
+          "coverage": "21 et 22 novembre 2026",
+          "headline": "Aucun développement important aujourd’hui",
+          "deck": "La veille du 22 novembre dans les sources publiques francophones et anglophones n’a révélé aucun nouveau développement suffisamment vérifié concernant l’infonuagique privée souveraine, la reprise des services, l’hébergement protégé ou l’infrastructure d’IA pour satisfaire aux critères éditoriaux.",
+          "question": "Quelles preuves démontreraient qu’un nuage privé souverain peut rétablir les charges de travail essentielles de façon autonome lors d’une interruption prolongée chez un fournisseur?",
+          "editorialNote": "Veille effectuée le 22 novembre 2026, couvrant environ les 36 heures précédentes et les développements importants des sept derniers jours. Les recherches ont porté sur l’infonuagique souveraine au Canada, l’infrastructure d’IA souveraine, les politiques internationales d’infonuagique gouvernementale et les médias indépendants, en français et en anglais. Les résultats comprenaient d’anciens documents de politique canadienne et un reportage sud-africain du 21 novembre sur des partenariats technologiques, sans développement nouveau suffisamment pertinent et vérifié pour ce portefeuille. Aucun article précédent n’a été repris. Les compétences en direct du Morning Scoop et du traducteur en français québécois étaient inaccessibles, car le catalogue des compétences était vide; les consignes de recherche établies et les instructions intégrées du traducteur choisi ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’intelligence artificielle. Aucune approbation du gouvernement du Canada n’est sous-entendue."
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-22T10:03:46.974Z"
+      }
+    },
+    {
       "id": "2026-11-21",
       "date": "2026-11-21",
       "coverageStart": "2026-11-20T09:56:43.539Z",
@@ -170,119 +213,6 @@
       "translation": {
         "provider": "quebec-french-translator",
         "translatedAt": "2026-11-18T09:56:02.679Z"
-      }
-    },
-    {
-      "id": "2026-11-17",
-      "date": "2026-11-17",
-      "coverageStart": "2026-11-16T10:39:47.456Z",
-      "coverageEnd": "2026-11-17T10:01:09.217Z",
-      "generatedAt": "2026-11-17T10:01:09.217Z",
-      "radar": [],
-      "readMinutes": 4,
-      "day": "Tuesday",
-      "coverage": "November 16–17, 2026",
-      "headline": "Canada puts sovereign connectivity across national networks on the policy agenda",
-      "deck": "A November 16 federal statement links Canadian sovereignty to control and resilience across telecommunications networks. For sovereign hosting, the signal raises practical questions about connectivity dependencies and recovery design.",
-      "bigPicture": [
-        {
-          "title": "Sovereignty includes the network layer",
-          "detail": "Ottawa explicitly named submarine cables, fibre backbones, fixed and wireless networks and satellites as part of sovereign connectivity policy."
-        },
-        {
-          "title": "Policy details remain to come",
-          "detail": "The minister described work to update frameworks but announced no specific cloud requirement or technical standard."
-        }
-      ],
-      "reads": [
-        {
-          "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/statement-from-minister-joly-on-quebecor-and-telus.html",
-          "published": "2026-11-16",
-          "verifiedAt": "2026-11-17T10:01:09.217Z",
-          "priority": "Strategic",
-          "title": "Ottawa identifies sovereign connectivity across Canadian networks as a policy priority",
-          "source": "Innovation, Science and Economic Development Canada",
-          "category": "Canadian digital sovereignty and critical connectivity",
-          "what": "In a November 16 statement on Quebecor's proposed combination with Telus, Industry Minister Mélanie Joly said Canada is updating policy and regulatory frameworks for sovereign connectivity, including submarine cables, fibre backbones, fixed and wireless networks and satellites. The proposed transaction remains subject to independent review.",
-          "why": "Portfolio assessment: network control, resilience and jurisdiction are relevant dependencies for sovereign cloud and AI services. This statement signals a wider federal sovereignty lens but does not establish a new hosting standard.",
-          "takeaway": "Map critical network and cross-border dependencies for sensitive hosting and recovery services, and monitor any resulting federal connectivity rules.",
-          "executiveSummary": {
-            "overview": "On November 16, 2026, Innovation, Science and Economic Development Canada published a statement by Industry Minister Mélanie Joly responding to Quebecor's proposed strategic combination with Telus. The minister described reliable, resilient and affordable telecommunications networks as important to the economy, national security and Canadian sovereignty. She said the federal government is updating its public policies and regulatory framework to address sovereign connectivity across submarine cables, backbone fibre networks, fixed and wireless communications and satellites. The statement framed this work against geopolitical and technological changes. It also said the Quebecor-Telus proposal would receive independent review by the Competition Bureau and the Canadian Radio-television and Telecommunications Commission under the Telecommunications Act. The minister explicitly declined to prejudge the outcome. This is a public ministerial policy statement, not an announced approval of the proposed transaction. The announcement contains no detailed new network-control standard, funding envelope, procurement instrument or implementation schedule. The official French-language release conveys the same scope and regulatory qualification.",
-            "keyPoints": [
-              "The November 16 statement explicitly includes undersea cables, fibre backbones, fixed and wireless networks and satellites in the government's sovereign connectivity policy focus.",
-              "The minister said federal policy and regulatory frameworks are being updated, without publishing a specific new technical standard or timetable in this statement.",
-              "The proposed Quebecor-Telus combination remains subject to independent Competition Bureau and CRTC review, with no outcome predetermined."
-            ],
-            "implications": "For sovereign private cloud, backup and AI hosting, this is a reason to examine the connectivity layer as part of operational sovereignty. Service assurance may need to describe carrier concentration, routing dependencies, cross-border links, failure domains and recovery connectivity. These are analytical planning implications. The statement does not impose new requirements on GC hosting services or establish that a particular provider meets Canadian-control criteria.",
-            "watch": "Watch for formal ISED policy proposals, Telecommunications Act or CRTC proceedings, procurement conditions affecting sovereign connectivity, and the independent review of the proposed transaction. Look for published definitions of control, resilience and jurisdiction that can be tested against cloud service dependencies.",
-            "caveat": "Primary evidence is ISED's November 16 English statement, cross-checked with the official French version. The statement announces policy direction in general terms and comments on a proposed corporate transaction. No detailed implementation, merger approval or cloud-specific regulatory change was announced."
-          }
-        }
-      ],
-      "signals": [
-        "Federal sovereignty discussions now explicitly encompass national and international communications infrastructure."
-      ],
-      "question": "What network dependencies and cross-border routing paths must be evidenced before a hosting service can claim operational sovereignty?",
-      "editorialNote": "The November 17 scan reviewed Canadian and European primary sources in English and French, federal AI and digital transformation news, connectivity policy, cloud and cybersecurity developments and recent independent reporting. The November 16 ISED ministerial statement is a verified new development. The European Commission's November 16 Apply AI Summit announcement was assessed as an advance event notice and not repeated as a policy decision. Strategic implications are explicitly marked as assessment. The live Morning Scoop and Quebec French Translator skills were unavailable in this runtime; established research instructions and the embedded user-selected Quebec French translation instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
-      "publishedAt": "2026-11-17T10:01:09.217Z",
-      "translations": {
-        "fr": {
-          "id": "2026-11-17",
-          "date": "2026-11-17",
-          "coverageStart": "2026-11-16T10:39:47.456Z",
-          "coverageEnd": "2026-11-17T10:01:09.217Z",
-          "generatedAt": "2026-11-17T10:01:09.217Z",
-          "radar": [],
-          "readMinutes": 4,
-          "day": "Mardi",
-          "coverage": "16 et 17 novembre 2026",
-          "headline": "Le Canada inscrit la connectivité souveraine des réseaux nationaux à son programme de politiques",
-          "deck": "Une déclaration fédérale du 16 novembre associe la souveraineté canadienne au contrôle et à la résilience des réseaux de télécommunications. Pour l'hébergement souverain, cette orientation soulève des questions concrètes sur les dépendances de connectivité et la conception de la reprise.",
-          "bigPicture": [
-            {
-              "title": "La souveraineté comprend la couche réseau",
-              "detail": "Ottawa a expressément nommé les câbles sous-marins, les réseaux de base en fibre optique, les réseaux fixes et sans fil ainsi que les satellites dans sa politique de connectivité souveraine."
-            },
-            {
-              "title": "Les précisions réglementaires restent à venir",
-              "detail": "La ministre a évoqué la mise à jour des cadres sans annoncer d'exigence infonuagique précise ni de norme technique."
-            }
-          ],
-          "reads": [
-            {
-              "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/statement-from-minister-joly-on-quebecor-and-telus.html",
-              "published": "2026-11-16",
-              "verifiedAt": "2026-11-17T10:01:09.217Z",
-              "priority": "Strategic",
-              "title": "Ottawa fait de la connectivité souveraine des réseaux canadiens une priorité de politique publique",
-              "source": "Innovation, Sciences et Développement économique Canada",
-              "category": "Souveraineté numérique canadienne et connectivité essentielle",
-              "what": "Dans une déclaration du 16 novembre sur le regroupement proposé entre Québecor et Telus, la ministre de l'Industrie, Mélanie Joly, a indiqué que le Canada met à jour ses politiques et son cadre réglementaire en matière de connectivité souveraine. Elle a cité les câbles sous-marins, les réseaux de base en fibre optique, les réseaux fixes et sans fil ainsi que les satellites. La transaction proposée demeure soumise à un examen indépendant.",
-              "why": "Analyse du portefeuille : le contrôle des réseaux, leur résilience et les questions de compétence territoriale sont des dépendances importantes pour les services infonuagiques et d'IA souverains. La déclaration élargit la portée de la souveraineté fédérale sans établir de nouvelle norme d'hébergement.",
-              "takeaway": "Cartographier les dépendances réseau essentielles et transfrontalières des services d'hébergement et de reprise sensibles, et suivre les nouvelles règles fédérales éventuelles en matière de connectivité.",
-              "executiveSummary": {
-                "overview": "Le 16 novembre 2026, Innovation, Sciences et Développement économique Canada a publié une déclaration de la ministre de l'Industrie, Mélanie Joly, au sujet du regroupement stratégique proposé entre Québecor et Telus. La ministre a souligné l'importance de réseaux de télécommunications fiables, résilients et abordables pour l'économie, la sécurité nationale et la souveraineté canadienne. Elle a indiqué que le gouvernement fédéral met à jour ses politiques publiques et son cadre réglementaire afin d'assurer une connectivité souveraine couvrant les câbles sous-marins, les réseaux de base en fibre optique, les réseaux fixes et sans fil ainsi que les satellites. La déclaration situe ces travaux dans un contexte de changements géopolitiques et technologiques. Elle précise aussi que la proposition Québecor-Telus sera soumise à un examen indépendant du Bureau de la concurrence et du Conseil de la radiodiffusion et des télécommunications canadiennes, conformément à la Loi sur les télécommunications. La ministre a expressément refusé de présumer du résultat. Il s'agit d'une déclaration ministérielle publique sur l'orientation des politiques, et non d'une approbation de la transaction proposée. Aucune nouvelle norme détaillée sur le contrôle des réseaux, enveloppe de financement, mesure d'approvisionnement ou échéance de mise en œuvre n'y figure. Le communiqué officiel en anglais présente la même portée et les mêmes réserves réglementaires.",
-                "keyPoints": [
-                  "La déclaration du 16 novembre inclut explicitement les câbles sous-marins, les réseaux de base en fibre optique, les réseaux fixes et sans fil ainsi que les satellites dans la priorité gouvernementale de connectivité souveraine.",
-                  "La ministre a indiqué que les politiques et le cadre réglementaire fédéraux sont en cours de mise à jour, sans publier de nouvelle norme technique précise ni d'échéancier dans cette déclaration.",
-                  "Le regroupement proposé entre Québecor et Telus demeure soumis à l'examen indépendant du Bureau de la concurrence et du CRTC, sans décision prédéterminée."
-                ],
-                "implications": "Pour les services infonuagiques privés souverains, la sauvegarde et l'hébergement de l'IA, cette déclaration invite à considérer la connectivité dans l'évaluation de la souveraineté opérationnelle. L'assurance des services pourrait décrire la concentration des fournisseurs, les dépendances de routage, les liens transfrontaliers, les domaines de défaillance et la connectivité de reprise. Il s'agit de pistes de planification. La déclaration n'impose aucune nouvelle exigence aux services d'hébergement du gouvernement du Canada et ne confirme pas qu'un fournisseur satisfait à des critères de contrôle canadien.",
-                "watch": "Surveiller les propositions officielles d'ISDE, les procédures relevant de la Loi sur les télécommunications ou du CRTC, les conditions d'approvisionnement touchant la connectivité souveraine et l'examen indépendant de la transaction proposée. Rechercher les définitions publiées du contrôle, de la résilience et de la compétence territoriale qui pourraient servir à évaluer les dépendances infonuagiques.",
-                "caveat": "La source principale est la déclaration française d'ISDE du 16 novembre, vérifiée avec la version officielle anglaise. Elle présente une orientation générale des politiques et commente une transaction d'entreprise proposée. Aucune mise en œuvre détaillée, approbation du regroupement ou modification réglementaire propre à l'infonuagique n'a été annoncée."
-              }
-            }
-          ],
-          "signals": [
-            "Les discussions fédérales sur la souveraineté englobent maintenant explicitement les infrastructures de communication nationales et internationales."
-          ],
-          "question": "Quelles dépendances réseau et quelles voies de routage transfrontalières doivent être documentées avant de pouvoir affirmer qu'un service d'hébergement est souverain sur le plan opérationnel?",
-          "editorialNote": "La veille du 17 novembre a examiné des sources primaires canadiennes et européennes en français et en anglais, les nouvelles fédérales sur l'IA et la transformation numérique, les politiques de connectivité, l'infonuagique, la cybersécurité et des reportages indépendants récents. La déclaration ministérielle d'ISDE du 16 novembre constitue un nouveau développement vérifié. L'annonce de la Commission européenne du 16 novembre concernant le sommet Apply AI a été évaluée comme une annonce préalable d'événement et n'a pas été reprise comme décision de politique. Les conséquences stratégiques sont explicitement présentées comme des analyses. Les compétences en direct du Morning Scoop et du traducteur en français québécois n'étaient pas accessibles; les instructions de recherche établies et les instructions intégrées du traducteur choisi ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l'intelligence artificielle. Aucune approbation du gouvernement du Canada n'est sous-entendue."
-        }
-      },
-      "translation": {
-        "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-17T10:01:09.217Z"
       }
     }
   ]
