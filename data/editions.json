@@ -1,6 +1,110 @@
 {
   "editions": [
     {
+      "id": "2026-11-23",
+      "date": "2026-11-23",
+      "coverageStart": "2026-11-22T10:03:46.974Z",
+      "coverageEnd": "2026-11-23T09:56:38.055Z",
+      "generatedAt": "2026-11-23T09:56:38.055Z",
+      "reads": [
+        {
+          "url": "https://www.reuters.com/business/finance/europes-cloud-sovereignty-push-gains-ground-us-hyperscalers-remain-dominant-2026-11-23/",
+          "published": "2026-11-23",
+          "updated": "2026-11-23",
+          "verifiedAt": "2026-11-23T09:56:38.055Z",
+          "priority": "Strategic",
+          "title": "European cloud sovereignty begins to shape public procurement",
+          "source": "Reuters",
+          "category": "Digital sovereignty and procurement",
+          "what": "Reuters documents European sovereign-cloud contract awards and procurement requirements, alongside persistent dependence on major US providers and slow migration timelines.",
+          "why": "Portfolio assessment: sovereign cloud offerings need verifiable operational control, encryption-key custody, service continuity and exit capabilities. Procurement requirements increasingly make those properties material.",
+          "takeaway": "Define testable sovereignty and cloud-exit evidence for services and partner onboarding, and account for migration effort in delivery plans.",
+          "executiveSummary": {
+            "overview": "Reuters reports that European public procurement is increasingly incorporating cloud sovereignty requirements. The European Commission awarded four sovereign-cloud contracts in April with a combined ceiling of €180 million over six years, while the Dutch government signed a framework agreement with Germany's StackIT. Reuters also identifies sovereignty provisions in procurement by other European public organizations. Suppliers describe growing attention to operational autonomy, encryption-key control and the ability to exit a cloud provider. Demand does not yet imply widespread migration. Reuters cites a European Commission draft indicating that EU cloud providers held about 15% of the European market in 2022, while AWS, Microsoft and Google together controlled more than 70%. These figures describe an earlier market period, not a newly measured November 2026 share.",
+            "keyPoints": [
+              "European public procurement increasingly evaluates supplier jurisdiction, operational autonomy, key custody and practical cloud-exit arrangements.",
+              "The European Commission's April procurement covered four sovereign-cloud contracts with a maximum combined value of €180 million over six years.",
+              "Providers interviewed by Reuters say migration projects can extend 12 to 24 months, with existing software dependencies slowing conversion."
+            ],
+            "implications": "Portfolio assessment: Canadian sovereign private cloud services could benefit from explicit and testable sovereignty criteria in service descriptions, procurement and onboarding. Requirements should address who can administer the environment, where keys are controlled, whether services can continue during external disruption, and whether workloads can be exported and restored. A credible migration offer also needs realistic application compatibility, operating support and costs. European examples are useful comparators but do not establish Canadian procurement obligations.",
+            "watch": "Monitor the European Commission's Cloud and AI Development Act, subsequent sovereign-cloud awards and evidence of actual workload migrations. Seek independently verified demonstrations of disconnected operations, key management and exit procedures rather than relying solely on supplier descriptions.",
+            "caveat": "This is a Reuters report published November 23, 2026, combining documented procurement examples with interviews and supplier statements. Reported increases in supplier demand are self-reported. Historical market-share figures are attributed to a European Commission draft. The report does not demonstrate that all labelled sovereign services meet equivalent security or jurisdictional standards."
+          }
+        }
+      ],
+      "radar": [],
+      "bigPicture": [
+        {
+          "title": "Sovereignty becomes a procurement test",
+          "detail": "European public buyers increasingly specify operational control, encryption-key custody and cloud-exit conditions. Procurement evidence remains more useful than vendor branding."
+        }
+      ],
+      "signals": [],
+      "readMinutes": 4,
+      "day": "Monday",
+      "coverage": "November 22–23, 2026",
+      "headline": "European sovereign cloud procurement advances while migration remains difficult",
+      "deck": "New Reuters reporting traces how European public buyers are turning sovereignty requirements into contracts. Supplier dependencies and migration costs remain substantial.",
+      "question": "Which operational sovereignty tests should a Canadian private cloud service pass before being described as resilient to foreign supplier disruption?",
+      "editorialNote": "Reviewed public English and French searches for Canadian and international sovereign cloud, AI infrastructure, protected hosting, recovery and procurement, emphasizing the preceding 36 hours and checking consequential older developments. The November 23 Reuters report was verified directly; its procurement examples, historical market-share figures and supplier claims are distinguished from portfolio analysis. Other search results were older or insufficiently new. The live Morning Scoop and Quebec French Translator skills were unavailable because the skills catalogue was empty; the embedded user-selected Quebec French Translator instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
+      "publishedAt": "2026-11-23T09:56:38.055Z",
+      "translations": {
+        "fr": {
+          "id": "2026-11-23",
+          "date": "2026-11-23",
+          "coverageStart": "2026-11-22T10:03:46.974Z",
+          "coverageEnd": "2026-11-23T09:56:38.055Z",
+          "generatedAt": "2026-11-23T09:56:38.055Z",
+          "reads": [
+            {
+              "url": "https://www.reuters.com/business/finance/europes-cloud-sovereignty-push-gains-ground-us-hyperscalers-remain-dominant-2026-11-23/",
+              "published": "2026-11-23",
+              "updated": "2026-11-23",
+              "verifiedAt": "2026-11-23T09:56:38.055Z",
+              "priority": "Strategic",
+              "title": "La souveraineté infonuagique influence les marchés publics européens",
+              "source": "Reuters",
+              "category": "Souveraineté numérique et approvisionnement",
+              "what": "Reuters présente des contrats et des exigences d'approvisionnement en infonuagique souveraine en Europe, ainsi que la dépendance persistante envers les grands fournisseurs américains et la lenteur des migrations.",
+              "why": "Évaluation pour le portefeuille : les services infonuagiques souverains doivent démontrer le contrôle opérationnel, la garde des clés de chiffrement, la continuité des services et la capacité de changer de fournisseur. Ces caractéristiques prennent de l'importance dans les marchés publics.",
+              "takeaway": "Définir des preuves vérifiables de souveraineté et de réversibilité pour les services et l'intégration des partenaires, et prévoir les efforts de migration dans les plans de réalisation.",
+              "executiveSummary": {
+                "overview": "Reuters rapporte que les marchés publics européens intègrent de plus en plus des exigences de souveraineté infonuagique. En avril, la Commission européenne a attribué quatre contrats de services infonuagiques souverains, d'une valeur maximale combinée de 180 millions d'euros sur six ans. Le gouvernement néerlandais a aussi conclu une entente-cadre avec l'entreprise allemande StackIT. D'autres organismes publics européens ont intégré des critères semblables. Les fournisseurs signalent une attention accrue à l'autonomie opérationnelle, au contrôle des clés de chiffrement et à la possibilité de changer de fournisseur. Cette demande ne se traduit pas encore par des migrations généralisées. Reuters cite un projet de document de la Commission européenne selon lequel les fournisseurs de l'Union détenaient environ 15 % du marché européen en 2022, tandis qu'AWS, Microsoft et Google en contrôlaient ensemble plus de 70 %. Ces données historiques ne représentent pas une nouvelle mesure de novembre 2026.",
+                "keyPoints": [
+                  "Les marchés publics européens évaluent davantage la compétence juridique applicable, l'autonomie opérationnelle, la garde des clés et les modalités concrètes de sortie d'un fournisseur.",
+                  "Les quatre contrats attribués en avril par la Commission européenne représentent une valeur maximale combinée de 180 millions d'euros sur six ans.",
+                  "Selon les fournisseurs interrogés par Reuters, les projets de migration peuvent s'étendre sur 12 à 24 mois et les dépendances logicielles existantes ralentissent leur réalisation."
+                ],
+                "implications": "Évaluation pour le portefeuille : les services canadiens de nuage privé souverain pourraient tirer profit de critères de souveraineté explicites et vérifiables dans les descriptions de services, les marchés publics et l'intégration des partenaires. Ces critères devraient préciser qui peut administrer l'environnement, qui contrôle les clés, si les services peuvent continuer pendant une interruption externe et si les charges de travail peuvent être exportées et rétablies. Une offre de migration crédible doit aussi tenir compte de la compatibilité des applications, du soutien opérationnel et des coûts. Les exemples européens offrent des points de comparaison sans créer d'obligations d'approvisionnement au Canada.",
+                "watch": "Suivre l'évolution du projet de règlement européen sur l'infonuagique et l'intelligence artificielle, les prochaines attributions de contrats souverains et les preuves de migrations réelles. Rechercher des démonstrations vérifiées de fonctionnement autonome, de gestion des clés et de procédures de sortie, au-delà des déclarations des fournisseurs.",
+                "caveat": "Il s'agit d'un reportage de Reuters publié le 23 novembre 2026 qui réunit des exemples de marchés publics documentés, des entrevues et des déclarations de fournisseurs. Les hausses de demande signalées par les fournisseurs reposent sur leurs propres affirmations. Les parts de marché historiques sont attribuées à un projet de document de la Commission européenne. Le reportage ne démontre pas que tous les services qualifiés de souverains respectent des normes équivalentes de sécurité ou de compétence juridique."
+              }
+            }
+          ],
+          "radar": [],
+          "bigPicture": [
+            {
+              "title": "La souveraineté devient un critère d'approvisionnement",
+              "detail": "Les acheteurs publics européens précisent davantage les exigences de contrôle opérationnel, de garde des clés de chiffrement et de réversibilité. Les preuves contractuelles sont plus utiles que les appellations commerciales."
+            }
+          ],
+          "signals": [],
+          "readMinutes": 4,
+          "day": "Lundi",
+          "coverage": "22 et 23 novembre 2026",
+          "headline": "Les marchés publics européens progressent en infonuagique souveraine malgré les difficultés de migration",
+          "deck": "Un nouveau reportage de Reuters explique comment les acheteurs publics européens traduisent les exigences de souveraineté en contrats. Les dépendances technologiques et les coûts de migration demeurent importants.",
+          "question": "Quels essais de souveraineté opérationnelle un service canadien de nuage privé devrait-il réussir avant d'être considéré comme résilient à une interruption chez un fournisseur étranger?",
+          "editorialNote": "Veille des sources publiques francophones et anglophones sur l'infonuagique souveraine au Canada et à l'étranger, l'infrastructure d'IA, l'hébergement protégé, la reprise des services et les marchés publics, principalement au cours des 36 dernières heures, avec vérification de développements antérieurs importants. Le reportage de Reuters du 23 novembre a été consulté directement; ses exemples de marchés publics, ses parts de marché historiques et les affirmations des fournisseurs sont distingués de l'analyse du portefeuille. Les autres résultats étaient plus anciens ou insuffisamment nouveaux. Les compétences en direct du Morning Scoop et du traducteur en français québécois étaient inaccessibles, car le catalogue était vide; les instructions intégrées du traducteur choisi ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l'intelligence artificielle. Aucune approbation du gouvernement du Canada n'est sous-entendue.",
+          "publishedAt": "2026-11-23T09:56:38.055Z"
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-23T09:56:38.055Z"
+      }
+    },
+    {
       "id": "2026-11-22",
       "date": "2026-11-22",
       "coverageStart": "2026-11-21T09:57:59.120Z",
@@ -170,49 +274,6 @@
       "translation": {
         "provider": "quebec-french-translator",
         "translatedAt": "2026-11-19T10:01:39.104Z"
-      }
-    },
-    {
-      "id": "2026-11-18",
-      "date": "2026-11-18",
-      "coverageStart": "2026-11-17T10:01:09.217Z",
-      "coverageEnd": "2026-11-18T09:56:02.679Z",
-      "generatedAt": "2026-11-18T09:56:02.679Z",
-      "reads": [],
-      "radar": [],
-      "bigPicture": [],
-      "signals": [],
-      "readMinutes": 1,
-      "day": "Wednesday",
-      "coverage": "November 17–18, 2026",
-      "headline": "No material developments today",
-      "deck": "The November 18 review of Canadian and international digital sovereignty, sovereign AI, public-sector cloud and cyber security sources found no sufficiently verified new development meeting the briefing threshold.",
-      "question": "Which evidence would best demonstrate Canadian operational control over a sovereign cloud service during a major network or supplier disruption?",
-      "editorialNote": "Research conducted November 18, 2026, reviewing current Canadian federal announcements, English and French government publications, European Commission material, public-sector AI and cloud sources, and independent technology reporting. Searches included Canadian sovereign cloud and AI, digital government, data centre capacity, security, international sovereignty and network dependencies. The November 17 Apply AI Summit event page was reviewed but contained no verified new policy decision. Older government announcements and previously reported November 16 sovereign connectivity news were excluded as repeats. A November 17 news report about US AI-chip export controls was identified, but primary-source details could not be sufficiently verified for inclusion before this edition. No material story passed the editorial threshold. The live Morning Scoop and Quebec French Translator skills were unavailable (the skills catalogue was empty); established research guidance and the embedded user-selected Quebec French Translator instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
-      "publishedAt": "2026-11-18T09:56:02.679Z",
-      "translations": {
-        "fr": {
-          "id": "2026-11-18",
-          "date": "2026-11-18",
-          "coverageStart": "2026-11-17T10:01:09.217Z",
-          "coverageEnd": "2026-11-18T09:56:02.679Z",
-          "generatedAt": "2026-11-18T09:56:02.679Z",
-          "reads": [],
-          "radar": [],
-          "bigPicture": [],
-          "signals": [],
-          "readMinutes": 1,
-          "day": "Mercredi",
-          "coverage": "17 et 18 novembre 2026",
-          "headline": "Aucun développement important aujourd'hui",
-          "deck": "La veille du 18 novembre portant sur la souveraineté numérique, l'IA souveraine, l'infonuagique du secteur public et la cybersécurité, au Canada et à l'étranger, n'a révélé aucun nouveau développement suffisamment vérifié pour satisfaire aux critères de sélection.",
-          "question": "Quelles preuves permettraient le mieux de démontrer le contrôle opérationnel canadien d'un service infonuagique souverain pendant une interruption majeure du réseau ou d'un fournisseur?",
-          "editorialNote": "La veille du 18 novembre 2026 a porté sur les annonces fédérales canadiennes récentes, les publications gouvernementales en français et en anglais, les documents de la Commission européenne, les sources sur l'IA et l'infonuagique du secteur public ainsi que les médias technologiques indépendants. Les recherches ont couvert l'infonuagique et l'IA souveraines au Canada, le gouvernement numérique, la capacité des centres de données, la sécurité, la souveraineté internationale et les dépendances réseau. La page de l'événement Apply AI Summit du 17 novembre a été examinée, sans qu'une nouvelle décision de politique publique ait pu être vérifiée. Les annonces gouvernementales plus anciennes et la nouvelle du 16 novembre sur la connectivité souveraine, déjà publiée, ont été écartées. Un reportage du 17 novembre sur les contrôles américains à l'exportation de puces d'IA a été repéré, mais les détails de source primaire n'ont pas pu être suffisamment vérifiés pour cette édition. Aucun article n'a satisfait aux critères éditoriaux. Les compétences en direct du Morning Scoop et du traducteur en français québécois étaient inaccessibles (le catalogue des compétences était vide); les consignes de recherche établies et les instructions intégrées du traducteur choisi ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l'intelligence artificielle. Aucune approbation du gouvernement du Canada n'est sous-entendue."
-        }
-      },
-      "translation": {
-        "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-18T09:56:02.679Z"
       }
     }
   ]
