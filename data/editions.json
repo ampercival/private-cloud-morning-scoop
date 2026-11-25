@@ -1,6 +1,166 @@
 {
   "editions": [
     {
+      "id": "2026-11-25",
+      "date": "2026-11-25",
+      "coverageStart": "2026-11-23T09:56:38.055Z",
+      "coverageEnd": "2026-11-25T10:01:47.172Z",
+      "generatedAt": "2026-11-25T10:01:47.172Z",
+      "publishedAt": "2026-11-25T10:01:47.172Z",
+      "readMinutes": 4,
+      "radar": [],
+      "signals": [],
+      "day": "Wednesday",
+      "coverage": "November 23–25, 2026",
+      "headline": "Data centre approvals and workload-level sovereignty shape cloud planning",
+      "deck": "Vancouver examines stronger oversight of data centres, while Atos extends its Microsoft-based sovereignty offering to include isolated private environments.",
+      "bigPicture": [
+        {
+          "title": "Capacity planning includes local approvals",
+          "detail": "Power, cooling, land use and community impacts can influence the timing of Canadian compute expansion."
+        },
+        {
+          "title": "Sovereignty requirements vary by workload",
+          "detail": "A new commercial offering illustrates the need to specify isolation and operational control at the workload level."
+        }
+      ],
+      "question": "Which capacity and sovereignty assumptions should be tested before committing to a three-year hosting expansion plan?",
+      "editorialNote": "English and French public-source searches covered Canadian and international cloud sovereignty, AI infrastructure, hosting and recovery since the last committed edition. The Vancouver motion was cross-checked against the municipal document; Atos claims were cross-checked against Ideal Investisseur reporting. No Canadian federal hosting award was verified in this review. Both live skills were unavailable (empty skills catalogue); embedded Quebec French Translator instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
+      "reads": [
+        {
+          "url": "https://mobilesyrup.com/2026/11/24/vancouver-stricter-rules-oversight-ai-data-centres",
+          "published": "2026-11-24",
+          "updated": null,
+          "verifiedAt": "2026-11-25T10:01:47.172Z",
+          "priority": "Strategic",
+          "source": "MobileSyrup",
+          "title": "Vancouver considers stronger oversight of AI data centres",
+          "category": "Capacity and infrastructure",
+          "what": "MobileSyrup reports that council directed staff to examine environmental assessments, operating disclosures and community benefits for data centres.",
+          "why": "Portfolio assessment: municipal approvals and utility constraints could affect the delivery schedule of Canadian compute capacity.",
+          "takeaway": "Include permitting, utility readiness and cooling requirements in capacity forecasts.",
+          "executiveSummary": {
+            "overview": "A November 24 report describes Vancouver council's direction to staff to investigate additional oversight of data centre development. The municipal motion considered on November 18 identifies concerns about resource consumption, noise, land use and local economic benefits. It requests options for independent impact studies, enforcement mechanisms and public reporting. The underlying motion is available at https://council.vancouver.ca/20261118/documents/cfscmotion10.pdf. MobileSyrup reports that two proposed Vancouver AI facilities are associated with the federal sovereign AI data centre initiative.",
+            "keyPoints": [
+              "The municipal motion requests examination of water, emissions, noise, heat recovery and employment impacts before development approvals.",
+              "Staff are asked to explore licensing and recurring disclosure of resource consumption and noise.",
+              "MobileSyrup reports that council approved an amended motion; the resulting regulatory requirements are still to be developed."
+            ],
+            "implications": "Portfolio assessment: infrastructure forecasts should distinguish announced capacity from capacity that has secured permits, power, cooling and operational readiness. Procurement milestones could include evidence of utility commitments and approval status. Geographic diversification may reduce exposure to local constraints. These considerations apply to commercial capacity as well as government-operated facilities.",
+            "watch": "Track the staff recommendations, subsequent council decisions, utility connection commitments and project-specific approvals. Check whether requirements differ for conventional hosting and high-density AI facilities.",
+            "caveat": "The municipal document is the proposed motion; the account of its amended adoption comes from MobileSyrup. The review does not establish a new binding regulation or a confirmed delivery date for either proposed facility."
+          }
+        },
+        {
+          "url": "https://aithority.com/machine-learning/atos-delivers-a-structured-journey-to-digital-sovereignty-leveraging-microsoft-technology/",
+          "published": "2026-11-24",
+          "updated": null,
+          "verifiedAt": "2026-11-25T10:01:47.172Z",
+          "priority": "Strategic",
+          "source": "Atos / GlobeNewswire (AiThority)",
+          "title": "Atos extends Microsoft-based sovereignty offering",
+          "category": "Private cloud and classified hosting",
+          "what": "Atos announced a workload-specific assessment and deployment offering spanning public cloud and isolated private environments, including disconnected configurations.",
+          "why": "Portfolio assessment: workload classification and explicit operating boundaries can support consistent hosting decisions across service models.",
+          "takeaway": "Define evidence requirements for disconnected operation, key custody and privileged access before evaluating supplier offerings.",
+          "executiveSummary": {
+            "overview": "Atos announced an extension of its work with Microsoft on November 24 for public institutions and regulated organizations. Its proposed approach assesses jurisdiction, workload sensitivity and operating requirements before selecting a deployment model. The company describes options ranging from Microsoft public cloud controls to private environments with greater isolation. It also describes consulting, cryptographic products and managed security services as components of the offering. Ideal Investisseur reported the announcement separately on November 24.",
+            "keyPoints": [
+              "Atos describes assessment of data, technical, operational and legal sovereignty for individual workloads.",
+              "The company advertises private environments with hybrid or disconnected deployment options and European facilities with cleared personnel where required.",
+              "The offering includes customer key-control products and locally staffed security monitoring, according to the announcement."
+            ],
+            "implications": "Portfolio assessment: a Canadian hosting service catalogue could define sovereignty profiles with measurable requirements for administrative authority, dependency management, recovery and cryptographic control. Disconnected configurations require explicit procedures for software updates, identity, monitoring and incident response. Commercial offerings should be assessed against Canadian security requirements and the actual operating model of each deployment.",
+            "watch": "Seek published architecture details, independent assurance reports, service availability, contractual exit provisions and evidence of operation during loss of external connectivity.",
+            "caveat": "The primary material is an Atos announcement distributed through GlobeNewswire and reproduced by AiThority. Separate reporting confirms the announcement, not the performance of its controls. No Canadian security authorization or classified hosting approval is established."
+          }
+        }
+      ],
+      "translations": {
+        "fr": {
+          "id": "2026-11-25",
+          "date": "2026-11-25",
+          "coverageStart": "2026-11-23T09:56:38.055Z",
+          "coverageEnd": "2026-11-25T10:01:47.172Z",
+          "generatedAt": "2026-11-25T10:01:47.172Z",
+          "publishedAt": "2026-11-25T10:01:47.172Z",
+          "readMinutes": 4,
+          "radar": [],
+          "signals": [],
+          "day": "Mercredi",
+          "coverage": "23 au 25 novembre 2026",
+          "headline": "Les autorisations des centres de données et la souveraineté par charge de travail orientent la planification infonuagique",
+          "deck": "Vancouver examine un encadrement accru des centres de données, tandis qu’Atos élargit son offre de souveraineté fondée sur les technologies Microsoft aux environnements privés isolés.",
+          "bigPicture": [
+            {
+              "title": "La planification de la capacité tient compte des autorisations locales",
+              "detail": "L’électricité, le refroidissement, l’utilisation du sol et les effets sur les collectivités peuvent influencer les délais d’expansion de la capacité de calcul au Canada."
+            },
+            {
+              "title": "Les exigences de souveraineté varient selon la charge de travail",
+              "detail": "Une nouvelle offre commerciale illustre la nécessité de préciser les exigences d’isolement et de contrôle opérationnel pour chaque charge de travail."
+            }
+          ],
+          "question": "Quelles hypothèses de capacité et de souveraineté faudrait-il vérifier avant de s’engager dans un plan triennal d’expansion de l’hébergement ?",
+          "editorialNote": "La veille des sources publiques francophones et anglophones a porté sur la souveraineté infonuagique au Canada et à l’étranger, l’infrastructure d’IA, l’hébergement et la reprise des services depuis la dernière édition versée au dépôt. La motion de Vancouver a été comparée au document municipal; les déclarations d’Atos ont été comparées au reportage d’Ideal Investisseur. Aucun nouveau contrat fédéral canadien d’hébergement n’a été confirmé. Les deux compétences en direct étaient inaccessibles (catalogue vide); les instructions intégrées du traducteur en français québécois ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’IA. Aucune approbation du gouvernement du Canada n’est sous-entendue.",
+          "reads": [
+            {
+              "url": "https://mobilesyrup.com/2026/11/24/vancouver-stricter-rules-oversight-ai-data-centres",
+              "published": "2026-11-24",
+              "updated": null,
+              "verifiedAt": "2026-11-25T10:01:47.172Z",
+              "priority": "Strategic",
+              "source": "MobileSyrup",
+              "title": "Vancouver envisage un encadrement accru des centres de données d’IA",
+              "category": "Capacité et infrastructure",
+              "what": "Selon MobileSyrup, le conseil municipal a demandé au personnel d’examiner les évaluations environnementales, la divulgation de données d’exploitation et les retombées locales des centres de données.",
+              "why": "Évaluation pour le portefeuille : les autorisations municipales et les contraintes des services publics pourraient influencer les délais de mise en service de la capacité de calcul canadienne.",
+              "takeaway": "Intégrer les permis, la disponibilité des services publics et les besoins de refroidissement aux prévisions de capacité.",
+              "executiveSummary": {
+                "overview": "Un reportage du 24 novembre présente la demande du conseil municipal de Vancouver au personnel d’examiner un encadrement accru des centres de données. La motion examinée le 18 novembre soulève des préoccupations liées à la consommation de ressources, au bruit, à l’utilisation du sol et aux retombées économiques locales. Elle demande d’étudier des évaluations indépendantes, des mécanismes d’application et la divulgation publique de données. Le document municipal est accessible à https://council.vancouver.ca/20261118/documents/cfscmotion10.pdf. Selon MobileSyrup, deux installations d’IA proposées à Vancouver sont associées à l’initiative fédérale de centres de données souverains pour l’IA.",
+                "keyPoints": [
+                  "La motion municipale demande d’examiner la consommation d’eau, les émissions, le bruit, la récupération de chaleur et les effets sur l’emploi avant les autorisations d’aménagement.",
+                  "Le personnel doit étudier des mécanismes de délivrance de permis d’exploitation et de divulgation périodique de la consommation de ressources et du bruit.",
+                  "Selon MobileSyrup, le conseil a adopté une motion modifiée; les exigences réglementaires qui en découleraient restent à élaborer."
+                ],
+                "implications": "Évaluation pour le portefeuille : les prévisions d’infrastructure devraient distinguer la capacité annoncée de celle qui dispose des permis, de l’électricité, du refroidissement et des conditions de mise en service nécessaires. Les jalons d’approvisionnement pourraient inclure des preuves d’engagement des services publics et de l’état des autorisations. La diversification géographique pourrait réduire l’exposition aux contraintes locales. Ces considérations s’appliquent aux installations commerciales et gouvernementales.",
+                "watch": "Suivre les recommandations du personnel, les décisions du conseil, les engagements de raccordement et les autorisations propres aux projets. Vérifier si les exigences diffèrent entre l’hébergement classique et les installations d’IA à haute densité.",
+                "caveat": "Le document municipal présente la motion proposée; MobileSyrup rapporte son adoption après modification. La veille ne confirme ni une nouvelle réglementation contraignante ni une date de mise en service des deux installations proposées."
+              }
+            },
+            {
+              "url": "https://aithority.com/machine-learning/atos-delivers-a-structured-journey-to-digital-sovereignty-leveraging-microsoft-technology/",
+              "published": "2026-11-24",
+              "updated": null,
+              "verifiedAt": "2026-11-25T10:01:47.172Z",
+              "priority": "Strategic",
+              "source": "Atos / GlobeNewswire (AiThority)",
+              "title": "Atos élargit son offre de souveraineté fondée sur les technologies Microsoft",
+              "category": "Nuage privé et hébergement classifié",
+              "what": "Atos a annoncé une offre d’évaluation et de déploiement par charge de travail qui couvre le nuage public et les environnements privés isolés, y compris les configurations déconnectées.",
+              "why": "Évaluation pour le portefeuille : la classification des charges de travail et des limites opérationnelles explicites peuvent favoriser des décisions d’hébergement cohérentes.",
+              "takeaway": "Définir les preuves exigées en matière de fonctionnement déconnecté, de garde des clés et d’accès privilégié avant d’évaluer les offres.",
+              "executiveSummary": {
+                "overview": "Atos a annoncé le 24 novembre un élargissement de sa collaboration avec Microsoft pour les organismes publics et réglementés. Son approche prévoit une évaluation de la compétence juridique, de la sensibilité des charges de travail et des exigences opérationnelles avant de choisir un modèle de déploiement. L’entreprise décrit des options allant des contrôles du nuage public Microsoft aux environnements privés davantage isolés. Elle présente aussi des services-conseils, des produits cryptographiques et des services de sécurité gérés. Ideal Investisseur a également rapporté cette annonce le 24 novembre.",
+                "keyPoints": [
+                  "Atos décrit une évaluation de la souveraineté des données ainsi que des dimensions technique, opérationnelle et juridique pour chaque charge de travail.",
+                  "L’entreprise propose des environnements privés hybrides ou déconnectés et des installations européennes exploitées par du personnel habilité lorsque requis.",
+                  "Selon l’annonce, l’offre comprend des produits permettant aux clients de contrôler leurs clés et une surveillance de sécurité assurée par des équipes locales."
+                ],
+                "implications": "Évaluation pour le portefeuille : un catalogue canadien de services d’hébergement pourrait définir des profils de souveraineté assortis d’exigences mesurables relatives à l’autorité administrative, aux dépendances, à la reprise et au contrôle cryptographique. Les configurations déconnectées nécessitent des procédures explicites de mise à jour logicielle, de gestion des identités, de surveillance et d’intervention. Les offres commerciales devraient être évaluées selon les exigences canadiennes de sécurité et le modèle d’exploitation réel de chaque déploiement.",
+                "watch": "Rechercher des descriptions d’architecture, des rapports d’assurance indépendants, des renseignements sur la disponibilité des services, des dispositions contractuelles de sortie et des preuves de fonctionnement en cas de perte de connectivité externe.",
+                "caveat": "La source principale est une annonce d’Atos diffusée par GlobeNewswire et reproduite par AiThority. Un autre reportage confirme l’annonce sans établir l’efficacité des contrôles. Aucune autorisation de sécurité canadienne ni approbation d’hébergement classifié n’est établie."
+              }
+            }
+          ]
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-25T10:01:47.172Z"
+      }
+    },
+    {
       "id": "2026-11-23",
       "date": "2026-11-23",
       "coverageStart": "2026-11-22T10:03:46.974Z",
@@ -188,92 +348,6 @@
       "translation": {
         "provider": "quebec-french-translator",
         "translatedAt": "2026-11-21T09:57:59.120Z"
-      }
-    },
-    {
-      "id": "2026-11-20",
-      "date": "2026-11-20",
-      "coverageStart": "2026-11-19T10:01:39.104Z",
-      "coverageEnd": "2026-11-20T09:56:43.539Z",
-      "generatedAt": "2026-11-20T09:56:43.539Z",
-      "reads": [],
-      "radar": [],
-      "bigPicture": [],
-      "signals": [],
-      "readMinutes": 1,
-      "day": "Friday",
-      "coverage": "November 19–20, 2026",
-      "headline": "No material developments today",
-      "deck": "The November 20 review of Canadian and international sovereign cloud, digital sovereignty, AI infrastructure and cybersecurity sources found no sufficiently verified new development for today's briefing.",
-      "question": "What evidence would show that a sovereign cloud service can maintain Canadian operational control when its telecommunications or infrastructure suppliers are disrupted?",
-      "editorialNote": "Research conducted November 20, 2026, covering approximately the preceding 36 hours. English and French searches examined Canadian government announcements, sovereign cloud and AI infrastructure, public-sector technology, cybersecurity and international digital sovereignty. A November 19 Canadian announcement on an AI and culture advisory council was reviewed but fell outside the portfolio's operational focus. Older sovereign AI compute, data centre and connectivity announcements were excluded as previously available context. No new material, independently verifiable hosting or sovereignty development met the editorial threshold. The live Morning Scoop and Quebec French Translator skills were unavailable because the skills catalogue was empty; the established research method and embedded user-selected Quebec French Translator instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
-      "publishedAt": "2026-11-20T09:56:43.539Z",
-      "translations": {
-        "fr": {
-          "id": "2026-11-20",
-          "date": "2026-11-20",
-          "coverageStart": "2026-11-19T10:01:39.104Z",
-          "coverageEnd": "2026-11-20T09:56:43.539Z",
-          "generatedAt": "2026-11-20T09:56:43.539Z",
-          "reads": [],
-          "radar": [],
-          "bigPicture": [],
-          "signals": [],
-          "readMinutes": 1,
-          "day": "Vendredi",
-          "coverage": "19 et 20 novembre 2026",
-          "headline": "Aucun développement important aujourd’hui",
-          "deck": "La veille du 20 novembre sur les services infonuagiques souverains, la souveraineté numérique, l’infrastructure d’intelligence artificielle et la cybersécurité au Canada et à l’étranger n’a révélé aucun nouveau développement suffisamment vérifié pour le bulletin du jour.",
-          "question": "Quelles preuves permettraient de démontrer qu’un service infonuagique souverain peut maintenir son contrôle opérationnel canadien lorsque ses fournisseurs de télécommunications ou d’infrastructure subissent une interruption?",
-          "editorialNote": "La veille du 20 novembre 2026 a couvert environ les 36 heures précédentes. Des recherches en français et en anglais ont porté sur les annonces gouvernementales canadiennes, l’infonuagique souveraine, l’infrastructure d’IA, les technologies du secteur public, la cybersécurité et la souveraineté numérique internationale. Une annonce canadienne du 19 novembre concernant un conseil consultatif sur l’IA et la culture a été examinée, mais elle ne touchait pas directement les activités du portefeuille. Les anciennes annonces sur la capacité de calcul souveraine, les centres de données et la connectivité ont été écartées puisqu’elles constituaient déjà des éléments de contexte. Aucun nouveau développement important, vérifiable de façon indépendante et lié à l’hébergement ou à la souveraineté n’a satisfait aux critères de sélection. Les compétences en direct du Morning Scoop et du traducteur en français québécois étaient inaccessibles, car le catalogue des compétences était vide; la méthode de recherche établie et les instructions intégrées du traducteur choisi ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’intelligence artificielle. Aucune approbation du gouvernement du Canada n’est sous-entendue."
-        }
-      },
-      "translation": {
-        "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-20T09:56:43.539Z"
-      }
-    },
-    {
-      "id": "2026-11-19",
-      "date": "2026-11-19",
-      "coverageStart": "2026-11-18T09:56:02.679Z",
-      "coverageEnd": "2026-11-19T10:01:39.104Z",
-      "generatedAt": "2026-11-19T10:01:39.104Z",
-      "reads": [],
-      "radar": [],
-      "bigPicture": [],
-      "signals": [],
-      "readMinutes": 1,
-      "day": "Thursday",
-      "coverage": "November 18–19, 2026",
-      "headline": "No material developments today",
-      "deck": "The November 19 review of Canadian and international sovereign cloud, AI infrastructure, digital government and cybersecurity sources found no newly verified development meeting the briefing threshold.",
-      "question": "Which operational evidence should a sovereign cloud provider retain to demonstrate that Canadian personnel can restore essential services independently during a supplier or network disruption?",
-      "editorialNote": "Research conducted November 19, 2026, covering approximately the previous 36 hours. Reviewed Canadian federal announcements and English and French government material, sovereign cloud and AI infrastructure, digital sovereignty, cyber security policy, European cloud developments and independent reporting. Search results surfaced older Canadian data centre, AI and security announcements, but no sufficiently verified new development for inclusion. The November 16 sovereign connectivity statement was already covered in an earlier edition. This edition contains no carried-forward articles. The live Morning Scoop and Quebec French Translator skills were unavailable because the skills catalogue was empty; the established research approach and embedded user-selected Quebec French Translator instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
-      "publishedAt": "2026-11-19T10:01:39.104Z",
-      "translations": {
-        "fr": {
-          "id": "2026-11-19",
-          "date": "2026-11-19",
-          "coverageStart": "2026-11-18T09:56:02.679Z",
-          "coverageEnd": "2026-11-19T10:01:39.104Z",
-          "generatedAt": "2026-11-19T10:01:39.104Z",
-          "reads": [],
-          "radar": [],
-          "bigPicture": [],
-          "signals": [],
-          "readMinutes": 1,
-          "day": "Jeudi",
-          "coverage": "18 et 19 novembre 2026",
-          "headline": "Aucun développement important aujourd’hui",
-          "deck": "La veille du 19 novembre sur l’infonuagique souveraine, l’infrastructure d’IA, le gouvernement numérique et la cybersécurité au Canada et à l’étranger n’a révélé aucun nouveau développement suffisamment vérifié pour satisfaire aux critères de sélection.",
-          "question": "Quelles preuves opérationnelles un fournisseur de services infonuagiques souverains devrait-il conserver pour démontrer que du personnel canadien peut rétablir les services essentiels de façon autonome lors d’une interruption touchant un fournisseur ou un réseau?",
-          "editorialNote": "La veille du 19 novembre 2026 a couvert environ les 36 heures précédentes. Elle a porté sur les annonces fédérales canadiennes, les publications gouvernementales en français et en anglais, l’infonuagique souveraine, l’infrastructure d’IA, la souveraineté numérique, les politiques de cybersécurité, l’évolution de l’infonuagique européenne et les médias indépendants. Les résultats comprenaient d’anciennes annonces canadiennes sur les centres de données, l’IA et la sécurité, sans nouveau développement suffisamment vérifié pour être retenu. La déclaration du 16 novembre sur la connectivité souveraine figurait déjà dans une édition antérieure. Aucun article précédent n’a été repris. Les compétences en direct du Morning Scoop et du traducteur en français québécois étaient inaccessibles, car le catalogue des compétences était vide; la méthode de recherche établie et les instructions intégrées du traducteur choisi ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’intelligence artificielle. Aucune approbation du gouvernement du Canada n’est sous-entendue."
-        }
-      },
-      "translation": {
-        "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-19T10:01:39.104Z"
       }
     }
   ]
