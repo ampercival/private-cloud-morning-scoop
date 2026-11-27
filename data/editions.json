@@ -1,6 +1,110 @@
 {
   "editions": [
     {
+      "id": "2026-11-27",
+      "date": "2026-11-27",
+      "coverageStart": "2026-11-25T22:01:28Z",
+      "coverageEnd": "2026-11-27T10:02:05.753Z",
+      "generatedAt": "2026-11-27T10:02:05.753Z",
+      "publishedAt": "2026-11-27T10:02:05.753Z",
+      "readMinutes": 3,
+      "day": "Friday",
+      "coverage": "November 25–27, 2026",
+      "headline": "Canada strengthens financial incentives for sovereign AI compute",
+      "deck": "The federal AI Compute Access Fund reaches $1 billion, with preferential cost sharing for Canadian-owned compute providers. The announcement creates a demand-side signal for domestic infrastructure.",
+      "bigPicture": [
+        {
+          "title": "Sovereign compute demand receives targeted support",
+          "detail": "Differential cost sharing could influence provider selection and domestic capacity investment."
+        }
+      ],
+      "reads": [
+        {
+          "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-boosts-the-ai-compute-access-fund-with-700-million-expansion.html",
+          "published": "2026-11-26",
+          "updated": null,
+          "verifiedAt": "2026-11-27T10:02:05.753Z",
+          "priority": "Strategic",
+          "title": "Government of Canada expands the AI Compute Access Fund",
+          "source": "Innovation, Science and Economic Development Canada",
+          "category": "Sovereign AI and capacity",
+          "what": "On November 26, Ottawa announced the next phase of its compute fund, adding $700 million to the original $300 million. BetaKit reports that eligible sovereign-provider costs can receive up to 80% support, compared with 50% for other cloud compute.",
+          "why": "Portfolio assessment: stronger demand for Canadian-controlled compute could affect supplier capacity, pricing and availability over the next three years.",
+          "takeaway": "Track domestic provider capacity and the evidence required to establish Canadian ownership and operational control.",
+          "executiveSummary": {
+            "overview": "The November 26 announcement confirms the next phase of the federal AI Compute Access Fund under the national AI strategy. The expanded program introduces sector-specific calls, beginning with health and life sciences. The government also announced more than $52 million for 45 additional recipients under the initial phase. BetaKit reports a revised cost-sharing structure for eligible cloud compute, with a higher reimbursement ceiling for sovereign Canadian providers. Digital Journal independently reports the preferential rate and describes Canadian ownership and domestic decision-making as relevant to the program's sovereignty definition.",
+            "keyPoints": [
+              "The expanded program has a total funding envelope of $1 billion.",
+              "The first targeted call concerns health and life sciences applications.",
+              "BetaKit reports reimbursement ceilings of 80% for sovereign providers and 50% for other eligible cloud compute."
+            ],
+            "implications": "Portfolio assessment: a preferential subsidy can change the effective price faced by commercial customers and may encourage suppliers to expand domestic infrastructure. Federal hosting planners should assess whether increased commercial demand affects accelerator availability, power commitments and service pricing. Supplier evaluation should document ownership, decision rights, privileged administration, recovery dependencies and the ability to sustain operations during external disruption. The program also offers a useful policy precedent for linking financial incentives to sovereignty evidence.",
+            "watch": "Monitor program eligibility guidance, provider qualification, actual capacity additions and utilization. Independent reporting: https://betakit.com/feds-will-now-pay-80-percent-of-costs-under-ai-compute-access-fund-if-purchased-from-a-sovereign-provider/ and https://www.digitaljournal.com/article/ottawas-ai-compute-fund-now-favours-canadian-owned-clouds/.",
+            "caveat": "The funding envelope and recipient announcement are confirmed by the federal release. The specific reimbursement rates are attributed to independent reporting. The announcement does not establish new government private cloud capacity, classified hosting authorization or a federal hosting contract."
+          }
+        }
+      ],
+      "radar": [],
+      "signals": [],
+      "question": "How should sovereign hosting capacity forecasts account for subsidized commercial demand and evidence of domestic operational control?",
+      "editorialNote": "English and French public-source searches covered Canadian AI compute policy and international cloud, infrastructure and cybersecurity developments. The November 26 announcement is a substantive update to yesterday's advisory. Other results did not warrant inclusion. Live plugin skills were unavailable; embedded Quebec French guidance was applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
+      "translations": {
+        "fr": {
+          "id": "2026-11-27",
+          "date": "2026-11-27",
+          "coverageStart": "2026-11-25T22:01:28Z",
+          "coverageEnd": "2026-11-27T10:02:05.753Z",
+          "generatedAt": "2026-11-27T10:02:05.753Z",
+          "publishedAt": "2026-11-27T10:02:05.753Z",
+          "readMinutes": 3,
+          "day": "Vendredi",
+          "coverage": "25 au 27 novembre 2026",
+          "headline": "Le Canada bonifie les incitatifs financiers pour la capacité de calcul souveraine destinée à l’IA",
+          "deck": "Le Fonds d’accès à une capacité de calcul pour l’IA atteint un milliard de dollars et prévoit un partage des coûts préférentiel pour les fournisseurs canadiens. Cette annonce pourrait stimuler la demande d’infrastructures nationales.",
+          "bigPicture": [
+            {
+              "title": "Un soutien ciblé à la demande de capacité de calcul souveraine",
+              "detail": "Les taux différenciés de partage des coûts pourraient influencer le choix des fournisseurs et les investissements dans la capacité nationale."
+            }
+          ],
+          "reads": [
+            {
+              "url": "https://www.canada.ca/en/innovation-science-economic-development/news/2026/11/government-of-canada-boosts-the-ai-compute-access-fund-with-700-million-expansion.html",
+              "published": "2026-11-26",
+              "updated": null,
+              "verifiedAt": "2026-11-27T10:02:05.753Z",
+              "priority": "Strategic",
+              "title": "Le gouvernement du Canada élargit le Fonds d’accès à une capacité de calcul pour l’IA",
+              "source": "Innovation, Sciences et Développement économique Canada",
+              "category": "IA souveraine et capacité",
+              "what": "Le 26 novembre, Ottawa a annoncé la prochaine phase du Fonds, ajoutant 700 millions de dollars aux 300 millions initiaux. Selon BetaKit, les coûts admissibles auprès de fournisseurs souverains peuvent être remboursés jusqu’à 80 %, comparativement à 50 % pour les autres services infonuagiques admissibles.",
+              "why": "Évaluation pour le portefeuille : la hausse de la demande de capacité de calcul sous contrôle canadien pourrait influencer la capacité des fournisseurs, les prix et la disponibilité au cours des trois prochaines années.",
+              "takeaway": "Suivre la capacité des fournisseurs canadiens et les preuves nécessaires pour établir la propriété canadienne et le contrôle opérationnel.",
+              "executiveSummary": {
+                "overview": "L’annonce du 26 novembre confirme la prochaine phase du Fonds fédéral d’accès à une capacité de calcul pour l’IA dans le cadre de la stratégie nationale en matière d’IA. Le programme bonifié prévoit des appels sectoriels, dont le premier porte sur la santé et les sciences de la vie. Le gouvernement a également annoncé plus de 52 millions de dollars pour 45 bénéficiaires supplémentaires de la phase initiale. BetaKit fait état de nouvelles modalités de partage des coûts admissibles des services infonuagiques, avec un plafond de remboursement supérieur pour les fournisseurs souverains canadiens. Digital Journal confirme indépendamment le taux préférentiel et indique que la propriété canadienne et la prise de décisions au pays sont pertinentes à la définition de la souveraineté du programme.",
+                "keyPoints": [
+                  "Le programme bonifié dispose d’une enveloppe totale d’un milliard de dollars.",
+                  "Le premier appel ciblé porte sur les applications en santé et en sciences de la vie.",
+                  "Selon BetaKit, les plafonds de remboursement sont de 80 % pour les fournisseurs souverains et de 50 % pour les autres services admissibles."
+                ],
+                "implications": "Évaluation pour le portefeuille : une subvention préférentielle peut modifier le prix réel payé par les clients commerciaux et inciter les fournisseurs à accroître leurs infrastructures au pays. Les responsables de la planification de l’hébergement fédéral devraient évaluer les effets de cette demande sur la disponibilité des accélérateurs, les engagements d’alimentation électrique et les tarifs. L’évaluation des fournisseurs devrait documenter la propriété, les droits décisionnels, les accès administratifs privilégiés, les dépendances liées à la reprise et la capacité de poursuivre les activités en cas de perturbation externe. Le programme constitue aussi un précédent utile pour associer les incitatifs financiers à des preuves de souveraineté.",
+                "watch": "Suivre les critères d’admissibilité, la qualification des fournisseurs, les ajouts réels de capacité et leur utilisation. Sources indépendantes : https://betakit.com/feds-will-now-pay-80-percent-of-costs-under-ai-compute-access-fund-if-purchased-from-a-sovereign-provider/ et https://www.digitaljournal.com/article/ottawas-ai-compute-fund-now-favours-canadian-owned-clouds/.",
+                "caveat": "Le communiqué fédéral confirme l’enveloppe et l’annonce des bénéficiaires. Les taux de remboursement précis proviennent de médias indépendants. L’annonce ne confirme aucune nouvelle capacité de nuage privé gouvernemental, autorisation d’hébergement classifié ou attribution de contrat fédéral d’hébergement."
+              }
+            }
+          ],
+          "radar": [],
+          "signals": [],
+          "question": "Comment les prévisions de capacité d’hébergement souverain devraient-elles tenir compte de la demande commerciale subventionnée et des preuves de contrôle opérationnel au Canada ?",
+          "editorialNote": "La veille des sources publiques anglophones et francophones a couvert les politiques canadiennes de capacité de calcul pour l’IA ainsi que les développements internationaux en infonuagique, en infrastructure et en cybersécurité. L’annonce du 26 novembre constitue une mise à jour importante de l’avis d’hier. Les autres résultats ne justifiaient pas leur inclusion. Les compétences en direct des modules étaient indisponibles; les consignes intégrées de traduction en français québécois ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’IA. Aucune approbation du gouvernement du Canada n’est sous-entendue."
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-27T10:02:05.753Z"
+      }
+    },
+    {
       "id": "2026-11-26",
       "date": "2026-11-26",
       "coverageStart": "2026-11-24T22:42:00Z",
@@ -390,49 +494,6 @@
       "translation": {
         "provider": "quebec-french-translator",
         "translatedAt": "2026-11-23T09:56:38.055Z"
-      }
-    },
-    {
-      "id": "2026-11-22",
-      "date": "2026-11-22",
-      "coverageStart": "2026-11-21T09:57:59.120Z",
-      "coverageEnd": "2026-11-22T10:03:46.974Z",
-      "generatedAt": "2026-11-22T10:03:46.974Z",
-      "reads": [],
-      "radar": [],
-      "bigPicture": [],
-      "signals": [],
-      "readMinutes": 1,
-      "day": "Sunday",
-      "coverage": "November 21–22, 2026",
-      "headline": "No material developments today",
-      "deck": "The November 22 review of English and French public sources found no newly verified sovereign private cloud, recovery, protected hosting or AI infrastructure development meeting the editorial threshold.",
-      "question": "Which evidence would demonstrate that a sovereign private cloud can recover essential workloads independently during a prolonged supplier disruption?",
-      "editorialNote": "Research conducted November 22, 2026, covering approximately the preceding 36 hours and checking consequential developments from the past seven days. Searches included English and French Canadian sovereign cloud, sovereign AI infrastructure, international government cloud policy, and independent reporting. Results included older Canadian policy materials and a November 21 South African technology partnership report without a sufficiently direct, verified development for this portfolio. No prior articles were repeated. The live Morning Scoop and Quebec French Translator skills were unavailable because the skills catalogue was empty; established research guidance and the embedded user-selected Quebec French Translator instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
-      "publishedAt": "2026-11-22T10:03:46.974Z",
-      "translations": {
-        "fr": {
-          "id": "2026-11-22",
-          "date": "2026-11-22",
-          "coverageStart": "2026-11-21T09:57:59.120Z",
-          "coverageEnd": "2026-11-22T10:03:46.974Z",
-          "generatedAt": "2026-11-22T10:03:46.974Z",
-          "reads": [],
-          "radar": [],
-          "bigPicture": [],
-          "signals": [],
-          "readMinutes": 1,
-          "day": "Dimanche",
-          "coverage": "21 et 22 novembre 2026",
-          "headline": "Aucun développement important aujourd’hui",
-          "deck": "La veille du 22 novembre dans les sources publiques francophones et anglophones n’a révélé aucun nouveau développement suffisamment vérifié concernant l’infonuagique privée souveraine, la reprise des services, l’hébergement protégé ou l’infrastructure d’IA pour satisfaire aux critères éditoriaux.",
-          "question": "Quelles preuves démontreraient qu’un nuage privé souverain peut rétablir les charges de travail essentielles de façon autonome lors d’une interruption prolongée chez un fournisseur?",
-          "editorialNote": "Veille effectuée le 22 novembre 2026, couvrant environ les 36 heures précédentes et les développements importants des sept derniers jours. Les recherches ont porté sur l’infonuagique souveraine au Canada, l’infrastructure d’IA souveraine, les politiques internationales d’infonuagique gouvernementale et les médias indépendants, en français et en anglais. Les résultats comprenaient d’anciens documents de politique canadienne et un reportage sud-africain du 21 novembre sur des partenariats technologiques, sans développement nouveau suffisamment pertinent et vérifié pour ce portefeuille. Aucun article précédent n’a été repris. Les compétences en direct du Morning Scoop et du traducteur en français québécois étaient inaccessibles, car le catalogue des compétences était vide; les consignes de recherche établies et les instructions intégrées du traducteur choisi ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’intelligence artificielle. Aucune approbation du gouvernement du Canada n’est sous-entendue."
-        }
-      },
-      "translation": {
-        "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-22T10:03:46.974Z"
       }
     }
   ]
