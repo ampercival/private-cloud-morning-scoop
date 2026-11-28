@@ -1,6 +1,128 @@
 {
   "editions": [
     {
+      "id": "2026-11-28",
+      "date": "2026-11-28",
+      "coverageStart": "2026-11-26T22:00:00Z",
+      "coverageEnd": "2026-11-28T10:00:53.174Z",
+      "generatedAt": "2026-11-28T10:00:53.174Z",
+      "publishedAt": "2026-11-28T10:00:53.174Z",
+      "readMinutes": 3,
+      "day": "Saturday",
+      "coverage": "November 26–28, 2026",
+      "headline": "Sovereign AI platforms extend governance into private infrastructure",
+      "deck": "Newly identified Cloudera capabilities bring data governance and locally deployed AI together, while Canadian technology leaders advocate for domestic data centre capacity.",
+      "bigPicture": [
+        {
+          "title": "Platform sovereignty requires operational evidence",
+          "detail": "Private AI platform evaluations should test data access, disconnected operation and dependencies across the entire service lifecycle."
+        }
+      ],
+      "reads": [
+        {
+          "source": "Cloudera",
+          "published": "2026-11-24",
+          "priority": "Strategic",
+          "url": "https://www.cloudera.com/about/news-and-blogs/press-releases/2026-11-24-cloudera-launches-digital-sovereignty-solution-that-gives-enterprises-control-of-data-and-ai-across-the-entire-lifecycle.html",
+          "verifiedAt": "2026-11-28T10:00:53.174Z",
+          "title": "Cloudera launches sovereign data and AI solution",
+          "category": "Architecture and sovereign AI",
+          "what": "Cloudera announced its digital sovereignty offering on November 24. November 27 ChannelPro coverage describes the combination of its hybrid data platform and Mistral models, with proposed deployments on private infrastructure and in disconnected environments.",
+          "why": "A common governance layer could simplify the delivery of managed AI services across government-controlled infrastructure, subject to security assessment and operational testing.",
+          "takeaway": "Evaluate disconnected lifecycle management, access controls and portability as explicit platform acceptance criteria.",
+          "executiveSummary": {
+            "overview": "Cloudera announced a packaged sovereignty offering combining its existing data platform components with Mistral model capabilities. The announcement targets organizations that need to choose where data processing and AI workloads execute. ChannelPro reported on the launch on November 27: https://www.itpro.com/it-infrastructure/cloud-computing/cloudera-targets-data-and-ai-control-with-new-digital-sovereignty-services",
+            "keyPoints": [
+              "The vendor describes deployment options spanning private data centres, sovereign cloud infrastructure and air-gapped environments.",
+              "The offering combines data governance and model execution, including local customization of open-weight Mistral models.",
+              "Cloudera initially emphasizes European partners and plans to expand its partner network internationally."
+            ],
+            "implications": "For government private cloud, this is a useful architectural benchmark for managed data and AI services. Evaluation should include the identity system, model repository, software supply chain and the ability to recover the platform without external services. A shared governance layer may reduce duplicated integration work across tenants, provided isolation and administrative responsibilities are demonstrable.",
+            "watch": "Seek supported deployment matrices, licensing terms, offline update procedures, recovery test results and evidence of Canadian operational support. Assess the cost of maintaining the platform over several years, including specialist staffing and model updates.",
+            "caveat": "The November 24 release is a vendor announcement newly identified in this edition. ChannelPro corroborates the announcement, largely relying on vendor statements. Neither source establishes Canadian government security authorization, independent performance results or proven disconnected operation."
+          }
+        }
+      ],
+      "radar": [
+        {
+          "title": "Canadian technology leaders call for domestic data centre investment",
+          "source": "Mon Carnet",
+          "published": "2026-11-27",
+          "priority": "Watch",
+          "url": "https://moncarnet.com/2026/11/27/centres-de-donnees-35-dirigeants-canadiens-reclament-des-infrastructures-au-pays/",
+          "verifiedAt": "2026-11-28T10:00:53.174Z",
+          "detail": "French-language reporting describes an open letter from 35 technology leaders advocating domestic infrastructure. This is industry advocacy; no new capacity commitment is established."
+        }
+      ],
+      "signals": [],
+      "question": "What evidence should a managed sovereign AI platform provide to demonstrate that it can be maintained and recovered without external connectivity?",
+      "editorialNote": "English and French public-source searches covered Canadian capacity, sovereign AI, private cloud and international platform developments through 06:00 Atlantic on November 28. The Cloudera announcement predates the normal window and is included because of fresh November 27 coverage. Live plugin skills were unavailable; embedded Quebec French guidance was applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
+      "translations": {
+        "fr": {
+          "id": "2026-11-28",
+          "date": "2026-11-28",
+          "coverageStart": "2026-11-26T22:00:00Z",
+          "coverageEnd": "2026-11-28T10:00:53.174Z",
+          "generatedAt": "2026-11-28T10:00:53.174Z",
+          "publishedAt": "2026-11-28T10:00:53.174Z",
+          "readMinutes": 3,
+          "day": "Samedi",
+          "coverage": "26 au 28 novembre 2026",
+          "headline": "Les plateformes d’IA souveraine étendent la gouvernance aux infrastructures privées",
+          "deck": "Les fonctionnalités de Cloudera nouvellement recensées réunissent la gouvernance des données et l’IA déployée localement, tandis que des dirigeants canadiens du secteur technologique réclament davantage de centres de données au pays.",
+          "bigPicture": [
+            {
+              "title": "La souveraineté des plateformes exige des preuves opérationnelles",
+              "detail": "L’évaluation des plateformes d’IA privée devrait porter sur l’accès aux données, le fonctionnement sans connexion externe et les dépendances tout au long du cycle de vie des services."
+            }
+          ],
+          "reads": [
+            {
+              "source": "Cloudera",
+              "published": "2026-11-24",
+              "priority": "Strategic",
+              "url": "https://www.cloudera.com/about/news-and-blogs/press-releases/2026-11-24-cloudera-launches-digital-sovereignty-solution-that-gives-enterprises-control-of-data-and-ai-across-the-entire-lifecycle.html",
+              "verifiedAt": "2026-11-28T10:00:53.174Z",
+              "title": "Cloudera lance une solution souveraine de données et d’IA",
+              "category": "Architecture et IA souveraine",
+              "what": "Cloudera a annoncé son offre de souveraineté numérique le 24 novembre. Un article de ChannelPro du 27 novembre décrit l’intégration de sa plateforme de données hybride et des modèles Mistral, ainsi que les possibilités de déploiement sur des infrastructures privées et dans des environnements isolés.",
+              "why": "Une couche de gouvernance commune pourrait simplifier la prestation de services d’IA gérés sur les infrastructures sous contrôle gouvernemental, sous réserve d’une évaluation de sécurité et d’essais opérationnels.",
+              "takeaway": "Intégrer la gestion du cycle de vie sans connexion externe, les contrôles d’accès et la portabilité aux critères d’acceptation de la plateforme.",
+              "executiveSummary": {
+                "overview": "Cloudera a annoncé une offre intégrée de souveraineté qui combine les composants de sa plateforme de données et les fonctionnalités des modèles Mistral. Elle vise les organisations qui doivent choisir où s’effectuent le traitement des données et l’exécution des charges de travail d’IA. ChannelPro a couvert le lancement le 27 novembre : https://www.itpro.com/it-infrastructure/cloud-computing/cloudera-targets-data-and-ai-control-with-new-digital-sovereignty-services",
+                "keyPoints": [
+                  "Le fournisseur décrit des possibilités de déploiement dans des centres de données privés, des infrastructures infonuagiques souveraines et des environnements isolés des réseaux externes.",
+                  "L’offre combine la gouvernance des données et l’exécution des modèles, dont la personnalisation locale des modèles Mistral à poids ouverts.",
+                  "Cloudera privilégie initialement les partenaires européens et prévoit élargir son réseau de partenaires à l’échelle internationale."
+                ],
+                "implications": "Pour le nuage privé gouvernemental, cette offre constitue un point de comparaison architectural pour les services gérés de données et d’IA. L’évaluation devrait couvrir le système d’identité, le dépôt de modèles, la chaîne d’approvisionnement logicielle et la capacité de rétablir la plateforme sans services externes. Une couche de gouvernance commune pourrait réduire les travaux d’intégration redondants entre les locataires, pourvu que l’isolation et les responsabilités administratives puissent être démontrées.",
+                "watch": "Obtenir les matrices de déploiement prises en charge, les modalités de licence, les procédures de mise à jour hors ligne, les résultats des essais de rétablissement et les preuves de soutien opérationnel au Canada. Évaluer les coûts de maintien sur plusieurs années, notamment les ressources spécialisées et les mises à jour des modèles.",
+                "caveat": "Le communiqué du 24 novembre est une annonce du fournisseur nouvellement recensée. ChannelPro confirme l’annonce en s’appuyant principalement sur les déclarations du fournisseur. Ces sources n’établissent ni une autorisation de sécurité gouvernementale canadienne, ni des résultats de rendement indépendants, ni un fonctionnement isolé éprouvé."
+              }
+            }
+          ],
+          "radar": [
+            {
+              "title": "Des dirigeants canadiens du secteur technologique réclament des investissements dans les centres de données au pays",
+              "source": "Mon Carnet",
+              "published": "2026-11-27",
+              "priority": "Watch",
+              "url": "https://moncarnet.com/2026/11/27/centres-de-donnees-35-dirigeants-canadiens-reclament-des-infrastructures-au-pays/",
+              "verifiedAt": "2026-11-28T10:00:53.174Z",
+              "detail": "Un article francophone présente une lettre ouverte de 35 dirigeants du secteur technologique qui réclament des infrastructures au pays. Il s’agit d’une démarche de représentation de l’industrie; aucun nouvel engagement de capacité n’est établi."
+            }
+          ],
+          "signals": [],
+          "question": "Quelles preuves une plateforme d’IA souveraine gérée devrait-elle fournir pour démontrer qu’elle peut être entretenue et rétablie sans connexion externe ?",
+          "editorialNote": "Les recherches dans les sources publiques anglophones et francophones ont porté sur la capacité canadienne, l’IA souveraine, le nuage privé et les plateformes internationales jusqu’à 6 h, heure de l’Atlantique, le 28 novembre. L’annonce de Cloudera précède la période habituelle et figure dans cette édition en raison de la couverture du 27 novembre. Les modules externes étaient indisponibles; les consignes intégrées de traduction en français québécois ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l’IA. Aucune approbation du gouvernement du Canada n’est sous-entendue."
+        }
+      },
+      "translation": {
+        "provider": "quebec-french-translator",
+        "translatedAt": "2026-11-28T10:00:53.174Z"
+      }
+    },
+    {
       "id": "2026-11-27",
       "date": "2026-11-27",
       "coverageStart": "2026-11-25T22:01:28Z",
@@ -390,110 +512,6 @@
       "translation": {
         "provider": "quebec-french-translator",
         "translatedAt": "2026-11-25T10:01:47.172Z"
-      }
-    },
-    {
-      "id": "2026-11-23",
-      "date": "2026-11-23",
-      "coverageStart": "2026-11-22T10:03:46.974Z",
-      "coverageEnd": "2026-11-23T09:56:38.055Z",
-      "generatedAt": "2026-11-23T09:56:38.055Z",
-      "reads": [
-        {
-          "url": "https://www.reuters.com/business/finance/europes-cloud-sovereignty-push-gains-ground-us-hyperscalers-remain-dominant-2026-11-23/",
-          "published": "2026-11-23",
-          "updated": "2026-11-23",
-          "verifiedAt": "2026-11-23T09:56:38.055Z",
-          "priority": "Strategic",
-          "title": "European cloud sovereignty begins to shape public procurement",
-          "source": "Reuters",
-          "category": "Digital sovereignty and procurement",
-          "what": "Reuters documents European sovereign-cloud contract awards and procurement requirements, alongside persistent dependence on major US providers and slow migration timelines.",
-          "why": "Portfolio assessment: sovereign cloud offerings need verifiable operational control, encryption-key custody, service continuity and exit capabilities. Procurement requirements increasingly make those properties material.",
-          "takeaway": "Define testable sovereignty and cloud-exit evidence for services and partner onboarding, and account for migration effort in delivery plans.",
-          "executiveSummary": {
-            "overview": "Reuters reports that European public procurement is increasingly incorporating cloud sovereignty requirements. The European Commission awarded four sovereign-cloud contracts in April with a combined ceiling of €180 million over six years, while the Dutch government signed a framework agreement with Germany's StackIT. Reuters also identifies sovereignty provisions in procurement by other European public organizations. Suppliers describe growing attention to operational autonomy, encryption-key control and the ability to exit a cloud provider. Demand does not yet imply widespread migration. Reuters cites a European Commission draft indicating that EU cloud providers held about 15% of the European market in 2022, while AWS, Microsoft and Google together controlled more than 70%. These figures describe an earlier market period, not a newly measured November 2026 share.",
-            "keyPoints": [
-              "European public procurement increasingly evaluates supplier jurisdiction, operational autonomy, key custody and practical cloud-exit arrangements.",
-              "The European Commission's April procurement covered four sovereign-cloud contracts with a maximum combined value of €180 million over six years.",
-              "Providers interviewed by Reuters say migration projects can extend 12 to 24 months, with existing software dependencies slowing conversion."
-            ],
-            "implications": "Portfolio assessment: Canadian sovereign private cloud services could benefit from explicit and testable sovereignty criteria in service descriptions, procurement and onboarding. Requirements should address who can administer the environment, where keys are controlled, whether services can continue during external disruption, and whether workloads can be exported and restored. A credible migration offer also needs realistic application compatibility, operating support and costs. European examples are useful comparators but do not establish Canadian procurement obligations.",
-            "watch": "Monitor the European Commission's Cloud and AI Development Act, subsequent sovereign-cloud awards and evidence of actual workload migrations. Seek independently verified demonstrations of disconnected operations, key management and exit procedures rather than relying solely on supplier descriptions.",
-            "caveat": "This is a Reuters report published November 23, 2026, combining documented procurement examples with interviews and supplier statements. Reported increases in supplier demand are self-reported. Historical market-share figures are attributed to a European Commission draft. The report does not demonstrate that all labelled sovereign services meet equivalent security or jurisdictional standards."
-          }
-        }
-      ],
-      "radar": [],
-      "bigPicture": [
-        {
-          "title": "Sovereignty becomes a procurement test",
-          "detail": "European public buyers increasingly specify operational control, encryption-key custody and cloud-exit conditions. Procurement evidence remains more useful than vendor branding."
-        }
-      ],
-      "signals": [],
-      "readMinutes": 4,
-      "day": "Monday",
-      "coverage": "November 22–23, 2026",
-      "headline": "European sovereign cloud procurement advances while migration remains difficult",
-      "deck": "New Reuters reporting traces how European public buyers are turning sovereignty requirements into contracts. Supplier dependencies and migration costs remain substantial.",
-      "question": "Which operational sovereignty tests should a Canadian private cloud service pass before being described as resilient to foreign supplier disruption?",
-      "editorialNote": "Reviewed public English and French searches for Canadian and international sovereign cloud, AI infrastructure, protected hosting, recovery and procurement, emphasizing the preceding 36 hours and checking consequential older developments. The November 23 Reuters report was verified directly; its procurement examples, historical market-share figures and supplier claims are distinguished from portfolio analysis. Other search results were older or insufficiently new. The live Morning Scoop and Quebec French Translator skills were unavailable because the skills catalogue was empty; the embedded user-selected Quebec French Translator instructions were applied. Research, writing, translation and publication are automated using AI. No Government of Canada endorsement is implied.",
-      "publishedAt": "2026-11-23T09:56:38.055Z",
-      "translations": {
-        "fr": {
-          "id": "2026-11-23",
-          "date": "2026-11-23",
-          "coverageStart": "2026-11-22T10:03:46.974Z",
-          "coverageEnd": "2026-11-23T09:56:38.055Z",
-          "generatedAt": "2026-11-23T09:56:38.055Z",
-          "reads": [
-            {
-              "url": "https://www.reuters.com/business/finance/europes-cloud-sovereignty-push-gains-ground-us-hyperscalers-remain-dominant-2026-11-23/",
-              "published": "2026-11-23",
-              "updated": "2026-11-23",
-              "verifiedAt": "2026-11-23T09:56:38.055Z",
-              "priority": "Strategic",
-              "title": "La souveraineté infonuagique influence les marchés publics européens",
-              "source": "Reuters",
-              "category": "Souveraineté numérique et approvisionnement",
-              "what": "Reuters présente des contrats et des exigences d'approvisionnement en infonuagique souveraine en Europe, ainsi que la dépendance persistante envers les grands fournisseurs américains et la lenteur des migrations.",
-              "why": "Évaluation pour le portefeuille : les services infonuagiques souverains doivent démontrer le contrôle opérationnel, la garde des clés de chiffrement, la continuité des services et la capacité de changer de fournisseur. Ces caractéristiques prennent de l'importance dans les marchés publics.",
-              "takeaway": "Définir des preuves vérifiables de souveraineté et de réversibilité pour les services et l'intégration des partenaires, et prévoir les efforts de migration dans les plans de réalisation.",
-              "executiveSummary": {
-                "overview": "Reuters rapporte que les marchés publics européens intègrent de plus en plus des exigences de souveraineté infonuagique. En avril, la Commission européenne a attribué quatre contrats de services infonuagiques souverains, d'une valeur maximale combinée de 180 millions d'euros sur six ans. Le gouvernement néerlandais a aussi conclu une entente-cadre avec l'entreprise allemande StackIT. D'autres organismes publics européens ont intégré des critères semblables. Les fournisseurs signalent une attention accrue à l'autonomie opérationnelle, au contrôle des clés de chiffrement et à la possibilité de changer de fournisseur. Cette demande ne se traduit pas encore par des migrations généralisées. Reuters cite un projet de document de la Commission européenne selon lequel les fournisseurs de l'Union détenaient environ 15 % du marché européen en 2022, tandis qu'AWS, Microsoft et Google en contrôlaient ensemble plus de 70 %. Ces données historiques ne représentent pas une nouvelle mesure de novembre 2026.",
-                "keyPoints": [
-                  "Les marchés publics européens évaluent davantage la compétence juridique applicable, l'autonomie opérationnelle, la garde des clés et les modalités concrètes de sortie d'un fournisseur.",
-                  "Les quatre contrats attribués en avril par la Commission européenne représentent une valeur maximale combinée de 180 millions d'euros sur six ans.",
-                  "Selon les fournisseurs interrogés par Reuters, les projets de migration peuvent s'étendre sur 12 à 24 mois et les dépendances logicielles existantes ralentissent leur réalisation."
-                ],
-                "implications": "Évaluation pour le portefeuille : les services canadiens de nuage privé souverain pourraient tirer profit de critères de souveraineté explicites et vérifiables dans les descriptions de services, les marchés publics et l'intégration des partenaires. Ces critères devraient préciser qui peut administrer l'environnement, qui contrôle les clés, si les services peuvent continuer pendant une interruption externe et si les charges de travail peuvent être exportées et rétablies. Une offre de migration crédible doit aussi tenir compte de la compatibilité des applications, du soutien opérationnel et des coûts. Les exemples européens offrent des points de comparaison sans créer d'obligations d'approvisionnement au Canada.",
-                "watch": "Suivre l'évolution du projet de règlement européen sur l'infonuagique et l'intelligence artificielle, les prochaines attributions de contrats souverains et les preuves de migrations réelles. Rechercher des démonstrations vérifiées de fonctionnement autonome, de gestion des clés et de procédures de sortie, au-delà des déclarations des fournisseurs.",
-                "caveat": "Il s'agit d'un reportage de Reuters publié le 23 novembre 2026 qui réunit des exemples de marchés publics documentés, des entrevues et des déclarations de fournisseurs. Les hausses de demande signalées par les fournisseurs reposent sur leurs propres affirmations. Les parts de marché historiques sont attribuées à un projet de document de la Commission européenne. Le reportage ne démontre pas que tous les services qualifiés de souverains respectent des normes équivalentes de sécurité ou de compétence juridique."
-              }
-            }
-          ],
-          "radar": [],
-          "bigPicture": [
-            {
-              "title": "La souveraineté devient un critère d'approvisionnement",
-              "detail": "Les acheteurs publics européens précisent davantage les exigences de contrôle opérationnel, de garde des clés de chiffrement et de réversibilité. Les preuves contractuelles sont plus utiles que les appellations commerciales."
-            }
-          ],
-          "signals": [],
-          "readMinutes": 4,
-          "day": "Lundi",
-          "coverage": "22 et 23 novembre 2026",
-          "headline": "Les marchés publics européens progressent en infonuagique souveraine malgré les difficultés de migration",
-          "deck": "Un nouveau reportage de Reuters explique comment les acheteurs publics européens traduisent les exigences de souveraineté en contrats. Les dépendances technologiques et les coûts de migration demeurent importants.",
-          "question": "Quels essais de souveraineté opérationnelle un service canadien de nuage privé devrait-il réussir avant d'être considéré comme résilient à une interruption chez un fournisseur étranger?",
-          "editorialNote": "Veille des sources publiques francophones et anglophones sur l'infonuagique souveraine au Canada et à l'étranger, l'infrastructure d'IA, l'hébergement protégé, la reprise des services et les marchés publics, principalement au cours des 36 dernières heures, avec vérification de développements antérieurs importants. Le reportage de Reuters du 23 novembre a été consulté directement; ses exemples de marchés publics, ses parts de marché historiques et les affirmations des fournisseurs sont distingués de l'analyse du portefeuille. Les autres résultats étaient plus anciens ou insuffisamment nouveaux. Les compétences en direct du Morning Scoop et du traducteur en français québécois étaient inaccessibles, car le catalogue était vide; les instructions intégrées du traducteur choisi ont été appliquées. La recherche, la rédaction, la traduction et la publication sont automatisées au moyen de l'intelligence artificielle. Aucune approbation du gouvernement du Canada n'est sous-entendue.",
-          "publishedAt": "2026-11-23T09:56:38.055Z"
-        }
-      },
-      "translation": {
-        "provider": "quebec-french-translator",
-        "translatedAt": "2026-11-23T09:56:38.055Z"
       }
     }
   ]
